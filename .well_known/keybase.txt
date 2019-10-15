@@ -1,0 +1,81 @@
+==================================================================
+https://keybase.io/jaycuthrell
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://jaycuthrell.com
+  * I am jaycuthrell (https://keybase.io/jaycuthrell) on keybase.
+  * I have a public key with fingerprint 4407 D373 7F4D CDFE 90DD  89F4 4462 E55C BE13 D9C6
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "012078bf3e5d83a0a9a83cc94c22e6ae54de7f9872f35ac1319ae59460f29cbb7a140a",
+            "fingerprint": "4407d3737f4dcdfe90dd89f44462e55cbe13d9c6",
+            "host": "keybase.io",
+            "key_id": "4462e55cbe13d9c6",
+            "kid": "0101d30988cc3396002144d4708ac761ce462e122b9259c8c1c40dc61e07c80124d50a",
+            "uid": "7a5bdb6a78e1c636fd97d62008dd6219",
+            "username": "jaycuthrell"
+        },
+        "revoke": {
+            "sig_ids": [
+                "7fae27cab293b7ec76f5094dd944c4deea4ec70e9ccc53db403ab67e33dc0d010f"
+            ]
+        },
+        "service": {
+            "hostname": "jaycuthrell.com",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1497755455,
+    "expire_in": 157680000,
+    "prev": "ad6a61cbc0062ae9ffc1c4cd5b0535eaf783fb0deaa34139610b8ed4b5cbb6e9",
+    "seqno": 44,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.72
+Comment: https://keybase.io/crypto
+
+yMOwAnicbZJ9TBRHGMYPqLRFqqRqpBGxWXuKzWFmd2e/Ln5SKhqt1rRqEMhldmZW
+1oPd691xoFS8SLUfWrXYqoitaQ2JtdavhFbpB2rBaCUhfoBae6gVQiRpoabaFpTr
+LKl/tfvPZN953md+87zT/EySKyUhV+8u/H7M9bMJF04PlLnyX+6bXcnpNlnDeSs5
+Px1eaAmhobDPbxLOywFeAIqqGyKViCoigDSkihhrEAsClRGVIKGKoamKYIgSwrzI
+a6yoQRkYgoZ1XUE8BIjzcIZpraLBQNC0wswWQqAQUREVAxJMDKoBQlTNgBDKApUk
+rFNeJBqWWWOxHXI6GJyOQnS6abMa+/EN4/2P/jE34IkINFXFWBQ1GQCBh5BABagI
+KzKPqdPJC4KuCZKGVcxjCAiWeQoUrLJbQyINc5cN2ylI0okuI0WlPJZF2SCaQmQB
+AJWwhdccYYgGLVRKmXo1WoPLwsVBWlLCrfNwQRqx/dSJNmSuYtwhzlvAKQaigoKR
+LmiirlDGZEhAg4RoEGIWKkWQFQHVMMaSSHQIRKTLChVFggFh1zO4IubNDo2YeNjc
+Ceq/ANOxXcroAkE7bGO7hG0Wh8OBkNcBC68JOOpyqvv+9fHppkXYpFhHhAZDpm1x
+Xp4pcdh0jHmoKYokQUnycLQiYAapz3QUkiKrgH3OOTTCLBGREQtZxwDIAqKaYTgB
+YyLpQBIligxFFQ0dEIqQCHk2Hx7oKiVQZ6PUZerkGaJvWDbnhZBxolXMk4VnoXBZ
+kHLrzpwufMKVkOJKHpHoPGFXytNpjx/2+/7R8fyUug1ftmqXDPfeg3tK5l7s6y/M
+69m26WTFR8sW9x++W7q4vRskN2V9vvbW2qYNHZO3k4NL7FsFLo+wYNTE418rZweS
+vxIP3Jmz0rp3OVpjvTrmevlbkvvGxvxFctaOUFV8cNyx8zN7U6+lLrzd/7O3fYV3
+774HveeK/to34pOGnsr6j6Pflh+6knO/5kHuc7HcOc03X5qwrPPPM7sWdCe2K3lj
+4cmK1t2uth379ycdC0F/ek30tcJ4VfrO+QNLOoZaL507N+mH3fPub13S1/nFrXfW
++gczFm7vvRDISMtvsT7c1vaw/npy9T33K6UjDxym5YW2nZ4U6+iszoo0u5+6EnSt
+z7NmSf0TOvpzv7ureVP0muqdda//XXCja1z2FPXI0ebO1EO/0xktDR/MfPv8s7V2
+tnnht3WDE6d7fq0NTxs7OM43avmDNjwl4+HSvOWBSRcnd5f+0pUd/2ZqplE14I7G
+o2b90I/tU59vOjjxzNTLRUk9xVmP9uyNjN/84rQtQ6tPzDp+rOt+2qI3P9ukrT51
+pfNEo5WZuTHS6O4zNseOL/A/2dsWGxor/7H0UV1fItjRGNsSrRvcZVvLfWNG1sYL
+zs7oHj+7/mpDoy/akjP//JHbm48G6leEbyZLhzM/rTtVdGfe3NEkfenWldnu7Tnr
+Y5FLDeZPB5JW3havXkt4N+Yhp+RWLin4Qst785r+AYCs6vA=
+=2Imy
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/jaycuthrell
+
+==================================================================

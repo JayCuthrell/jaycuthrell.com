@@ -1,0 +1,12 @@
+<header class="masthead">
+  <div class="wrap">
+    {% if site.logo %}
+    {% endif %}
+    {% assign page_image = page.image.path | default: page.image %}
+    {% unless page_image %}
+      {% if page.url == '/' %}
+      {% else %}
+      {% endif %}
+    {% endunless %}
+  </div>
+</header>

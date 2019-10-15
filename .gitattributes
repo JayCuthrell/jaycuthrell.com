@@ -1,0 +1,9 @@
+assets/* linguist-vendored
+_sass/* linguist-vendored
+javascripts/* linguist-vendored
+stylesheets/* linguist-vendored
+*.css linguist-vendored
+*.js linguist-vendored
+*.md linguist-language=Markdown
+*.markdown linguist-language=Markdown
+*.html linguist-language=Markdown

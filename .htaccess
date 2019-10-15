@@ -1,0 +1,8 @@
+BrowserMatchNoCase "Baiduspider" bots
+BrowserMatchNoCase "HTTrack" bots
+BrowserMatchNoCase "Yandex" bots
+BrowserMatchNoCase "MJ12bot" bots
+
+Order Allow,Deny
+Allow from ALL
+Deny from env=bots

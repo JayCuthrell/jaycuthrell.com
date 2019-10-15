@@ -1,0 +1,12 @@
+# www.robotstxt.org/
+# http://code.google.com/web/controlcrawlindex/
+User-agent: ia_archiver
+Disallow: /
+
+# Block MJ12bot
+User-agent: MJ12bot
+Disallow: /
+
+# Block Ahrefs
+User-agent: AhrefsBot
+Disallow: /

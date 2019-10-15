@@ -1,0 +1,14 @@
+# Sample site navigation bar links
+
+- title: Home
+  url: /
+- title: About
+  url: /about/
+- title: Blog 
+  url: /blog/ 
+- title: Media
+  url: /media/
+- title: Disclosure 
+  url: /disclosure/
+- title: Contact
+  url: /contact/

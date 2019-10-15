@@ -1,0 +1,168 @@
+url: "https://jaycuthrell.com"
+absolute_url: "https://jaycuthrell.com"
+baseurl: ""
+name: "Jay Cuthrell"
+title: "jaycuthrell.com"
+description: "jaycuthrell.com"
+logo: "/images/jaycuthrell.jpg"
+search: false 
+search_full_content: true
+read_time: true
+words_per_minute: 100
+locale: "en_US"
+location: "USA"
+
+compress_html:
+  clippings: all
+  startings: [html, head, body]
+
+analytics: 
+  provider: custom
+
+bing_site_verification: "0081F9215265B8A63E46065BC9F094FA"
+google_site_verification: "kRIQtgrJdRIqXieQD4fef0H2A-ejkIayF78XcMBjUbI"
+
+include:
+  - .htaccess
+  - robots.txt
+  - .well_known
+  - _pages
+  - _redirects
+
+exclude:
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+  - node_modules/
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+
+
+site.github.repository_url: https://github.com/JayCuthrell/jaycuthrell.com/commits/minimal-mistakes/
+repository_url: https://github.com/JayCuthrell/jaycuthrell.com/commits/minimal-mistakes/
+
+source:
+root: /
+permalink: /:title/
+
+markdown: kramdown
+highlighter: rouge
+lsi: false
+excerpt_separator: "\n\n"
+incremental: false
+
+#sass:
+#  sass_dir: -_sass
+#  style: expanded
+
+date_format: "%B %-d, %Y"
+mathjax: false 
+
+category_archive:
+  type: liquid
+  path: /categories/
+tag_archive:
+  type: liquid
+  path: /tags/
+
+
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-redirect-from
+  - jekyll-gist
+  - jekyll-feed
+  - jekyll-include-cache
+  - jemoji
+
+kramdown:
+  input: GFM
+  hard_wrap: false
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
+  enable_coderay: false
+
+
+author:
+  name: Jay Cuthrell
+  bio: "Corporate Free Safety"
+  avatar: "/images/apple-touch-icon-180x180.png" 
+  location: "USA"
+  links:
+    - label: "Keybase"
+      icon: "fab fa-keybase"
+      url: "https://keybase.io/jaycuthrell"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/jaycuthrell"
+    - label: "Blog"
+      icon: "fas fa-rss"
+      url: "https://fudge.org"
+    - label: "Linkedin"
+      icon: "fab fa-linkedin"
+      url: "https://linkedin.com/in/jaycuthrell"
+
+owner:
+  avatar: /images/bio-photo.jpg
+  name : Jay Cuthrell
+  email : jay@cuthrell.com
+  github : jaycuthrell
+
+social:
+  name: Jay Cuthrell
+  links:
+    - https://twitter.com/JayCuthrell
+    - https://www.linkedin.com/in/JayCuthrell
+    - https://github.com/JayCuthrell
+    - https://keybase.io/JayCuthrell
+
+twitter:
+  username: JayCuthrell
+  card: summary
+
+# Pagination settings
+pagination:
+  enabled: true
+  debug: false
+  per_page: 12
+  permalink: '/page/:num/'
+  title: ':title'
+  limit: 0
+  sort_field: 'date'
+  sort_reverse: true
+autopages:
+  enabled: true
+  categories:
+    enabled: false
+  collections:
+    enabled: false
+  tags:
+    layouts: 
+      - 'tag.html'
+    title: 'Jay Cuthrell'
+    permalink: '/tag/:tag'
+    slugify:
+      mode: raw
+      cased: true
+
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: false
+      related: true
+      header:
+        image: /images/1500x300.jpg
