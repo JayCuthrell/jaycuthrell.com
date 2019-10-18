@@ -8,7 +8,7 @@ title: "About me"
 
 Back in the mid to late 90s the first computers I was paid to work on were made by Dell. IIRC, they were Dell XPS P100 with a Buslogic SCSI card and a DEC Tulip Ethernet card running Slackware and Red Hat Linux.
 
-Presently, I am in a servant-leader role as a Managing Director at Dell. 
+Presently, I am in a servant-leader role as a Managing Director at Dell Technologies.
 
 The _hindsight 20/20 storytelling_ goes something like this... but my meandering career path was anything but planned.
 
