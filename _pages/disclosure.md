@@ -16,7 +16,7 @@ This is my primary personal website and other variations elsewhere on the Intern
 
 There is a link to this disclaimer and my disclosure(s) within the footer of each page and before the content of each post here unless rendering that disclaimer is impacted by noodling with my content management system du jour. Read it. Know it. Love it.
 
-I reserve the right to change my mind and edit content at any time. Any CMS changelog here is subject to client side edits or server side edits on GitHub as delivered by _bundle exec jekyll build_ or _gatsby build_.
+I reserve the right to change my mind and edit content at any time. Any CMS changelog here is subject to client side edits or server side edits on GitHub as delivered by _bundle exec jekyll build_ or _gatsby build_ or _yarn build_.
 
 I was a prolific account creator and comment maker across the Interwebs — yes, even [Twitter](/on-twitter/). If there is any ambiguity around me making the comment or not, please consider the rather loose concepts around comment vetting, data ownership, data portability, and non-repudiation before you assume a comment is truly mine. Just ask me. Never assume.
 

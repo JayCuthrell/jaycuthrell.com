@@ -35,8 +35,11 @@ title: "Media"
 
 (Partial List)
 
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Another great <a href="https://twitter.com/DellEMC?ref_src=twsrc%5Etfw">@DellEMC</a> briefing experience - fun watching experts like <a href="https://twitter.com/JayCuthrell?ref_src=twsrc%5Etfw">@JayCuthrell</a> educate customers!<a href="https://twitter.com/hashtag/BetterTogether?src=hash&amp;ref_src=twsrc%5Etfw">#BetterTogether</a> <a href="https://t.co/29GhfonzBG">pic.twitter.com/29GhfonzBG</a></p>&mdash; Brian Carpenter (@intheDC) <a href="https://twitter.com/intheDC/status/790583790808686593?ref_src=twsrc%5Etfw">October 24, 2016</a></blockquote>
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/JayCuthrell?ref_src=twsrc%5Etfw">@JayCuthrell</a> kicks off his <a href="https://twitter.com/hashtag/BigData?src=hash&amp;ref_src=twsrc%5Etfw">#BigData</a> talk while we enjoy <a href="https://twitter.com/shakeshack?ref_src=twsrc%5Etfw">@SHAKESHACK</a> @ our luncheon <a href="https://twitter.com/hashtag/VegasTech?src=hash&amp;ref_src=twsrc%5Etfw">#VegasTech</a> <a href="http://t.co/Qb2UbQeQ2C">http://t.co/Qb2UbQeQ2C</a> <a href="http://t.co/0SzORoN4z9">pic.twitter.com/0SzORoN4z9</a></p>&mdash; Innevation (@Innevation) <a href="https://twitter.com/Innevation/status/560895041179516928?ref_src=twsrc%5Etfw">January 29, 2015</a></blockquote>
+
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Fun. We have <a href="https://twitter.com/Qthrul?ref_src=twsrc%5Etfw">@Qthrul</a> talking management, automation and orchestration. <a href="http://t.co/VkmmpBrTdO">pic.twitter.com/VkmmpBrTdO</a></p>&mdash; Josh Atwell in Boulder (@Josh_Atwell) <a href="https://twitter.com/Josh_Atwell/status/423897006051164160?ref_src=twsrc%5Etfw">January 16, 2014</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/15140142@N03/5541167877/" title="Jay Cuthrell"><img src="https://farm6.staticflickr.com/5057/5541167877_094705aa8e.jpg" width="500" height="333" alt="Jay Cuthrell"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -83,6 +86,7 @@ title: "Media"
 #### Gartner I&O Data Center 2017
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/GartnerIO?src=hash&amp;ref_src=twsrc%5Etfw">#GartnerIO</a> was a blast last week! Hear three things <a href="https://twitter.com/JayCuthrell?ref_src=twsrc%5Etfw">@JayCuthrell</a> learned this year. What did you learn? <a href="https://t.co/Zbid0oHCtg">pic.twitter.com/Zbid0oHCtg</a></p>&mdash; Dell EMC Converged (@DellEMC_CI) <a href="https://twitter.com/DellEMC_CI/status/939549288975265792?ref_src=twsrc%5Etfw">December 9, 2017</a></blockquote>
+
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 #### Gartner Symposium ITXPO 2017
