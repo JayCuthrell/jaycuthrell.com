@@ -13,7 +13,7 @@ title: "Media"
 - <a href="https://www.telecompetitor.com/author/jcuthrell/">Telecompetitor</a>
 - <a href="https://blog.dellemc.com/en-us/author/jay-cuthrell/">Direct2DellEMC Blog</a>
 - <a href="https://community.emc.com/blogs/jay.cuthrell/">Dell EMC Community Network Blog</a>
-- <a href="/blog">JayCuthrell.com</a>
+- <a href="https://fudge.org">fudge.org</a>
 
 ### Presentation Samples
 
