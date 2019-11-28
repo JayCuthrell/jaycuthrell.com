@@ -46,7 +46,7 @@ I have published [a blog post that outlines how I work with startups and my full
 
 I may actively trade in the stock market. When I produce content on this website I will disclose my position or interest in reference by linking to this positions statement. 
 
-I invest primarily in mutual funds and index funds but may also participate in automatic rebalancing services such as Wealthfront and SoFi. If you are interested, this [Wealthfront invitation referral link](http://wlth.fr/1RjvsX3) and this [SoFi invitation referral link](https://www.sofi.com/share/560073?src=copy) may provide you with a discount and/or advisory fee relief in addition to lowering my own advisory fees. Be sure to read all the fine print from [Wealthfront disclosures](https://www.wealthfront.com/legal/disclosure) (as of May 2015) and [SoFi disclosures](https://www.sofi.com/legal/) (as of June 2018) therein. YMMV.
+I invest primarily in mutual funds and index funds but may also participate in automatic rebalancing services such as Wealthfront. If you are interested, this [Wealthfront invitation referral link](http://wlth.fr/1RjvsX3) may provide you with a discount and/or advisory fee relief in addition to lowering my own advisory fees. Be sure to read all the fine print from [Wealthfront disclosures](https://www.wealthfront.com/legal/disclosure) (as of May 2015) therein. YMMV.
 
 I’ll spare you the reporting on how my portfolio is doing. I’m not an investment professional. Do your own homework and remember that everything you are reading here and elsewhere from me does not constitute investment advice in any way shape or form.
 
