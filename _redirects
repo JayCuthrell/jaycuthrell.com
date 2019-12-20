@@ -1,3 +1,6 @@
+# Redirect default Netlify subdomain to primary domain
+https://jaycuthrellcom.netlify.com/* https://jaycuthrell.com/:splat 301!
+# Redirect older blog url slugs
 /10-years-of-livejournal/    https://fudge.org/?migration=pending
 /a-good-week/    https://fudge.org/?migration=pending
 /airwaves-vs-airlines/    https://fudge.org/?migration=pending
