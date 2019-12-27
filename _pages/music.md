@@ -80,8 +80,6 @@ tangointhemud.mp3 <audio controls> <source src="https://cuthrell.com/mp3/tangoin
 
 ### From my 4-track days (1988-1994)
 
-![ye olde trusty Yamaha...](/images/4track.jpg)
-
  90210_puke.mp3 <audio controls> <source src="https://cuthrell.com/mp3/90210_puke.mp3" type="audio/mpeg"></audio>
 
  do_you_realize.mp3 <audio controls> <source src="https://cuthrell.com/mp3/do_you_realize.mp3" type="audio/mpeg"></audio>
