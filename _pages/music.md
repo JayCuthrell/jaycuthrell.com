@@ -118,3 +118,11 @@ tangointhemud.mp3 <audio controls> <source src="https://cuthrell.com/mp3/tangoin
 
  wayward.mp3 <audio controls> <source src="https://cuthrell.com/mp3/wayward.mp3" type="audio/mpeg"></audio>
 
+### Playlists of other music I like
+
+You can find my playlists of other music I like on [Spotify](https://open.spotify.com/user/jaycuthrell).
+
+- [https://open.spotify.com/playlist/0hEfcoQt1ECmsJPdIq6uiB](https://open.spotify.com/playlist/0hEfcoQt1ECmsJPdIq6uiB)
+- [https://open.spotify.com/playlist/02BLfQ9PypVaMi6pVUYKwu](https://open.spotify.com/playlist/02BLfQ9PypVaMi6pVUYKwu)
+- [https://open.spotify.com/playlist/6O37CNU5EiKpplbb3zL74c](https://open.spotify.com/playlist/6O37CNU5EiKpplbb3zL74c)
+- [https://open.spotify.com/playlist/468YnfULmcdD0sjwM5w2S5](https://open.spotify.com/playlist/468YnfULmcdD0sjwM5w2S5)
