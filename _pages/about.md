@@ -31,14 +31,4 @@ The _hindsight 20/20 storytelling_ goes something like this... but my meandering
 * In October 2015, Dell and EMC agree to largest merger in IT history for a reported $67 Billion. 
 * Today, I get to serve amazing team members all over the world working at the intersection of technology and human progress.
 
-**To be continued...**
-
-A simplified [JSON version of my CV / resume is availble on GitHub](https://gist.github.com/JayCuthrell/693f6895cd49d53ed36939e234ae9c32) and on Linkedin.
-
-<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
-<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="light" data-vanity="jaycuthrell"><a class="LI-simple-link" href='https://www.linkedin.com/in/jaycuthrell?trk=profile-badge'>Jay Cuthrell</a></div>
-
-
-
-_For a detailed version of my CV / resume information, please [contact me directly](/contact/)._
-
+[To be continued...](/resume/)
