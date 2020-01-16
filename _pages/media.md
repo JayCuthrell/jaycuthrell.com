@@ -28,7 +28,37 @@ title: "Media"
 
 (Partial List)
 
-- +100 Global Executive Briefings, 2017
+- Over 100 Executive Briefings as of 2019
+- Gartner Symposium, 2017, 2012
+- VMworld, 2016, 2015, 2014, 2012
+- Cisco Live, 2016
+- EMC World, 2015
+- Switch SUPERNAP InNEVation Series, 2015
+- Montana.Gov IT Conference, 2013
+- Montana Telecom Conference, 2013
+- Capital Group Tech Expo, 2013
+- Cloud Connect, 2013
+- BayLISA, 2013
+- IDC EMEA, 2012
+- IDC Americas, 2012
+- EMC Forum Saudi Arabia, 2012
+- NTCA Americas Series, 2012
+- Cloud Services Summit, 2012, 2011
+- CIO Latin America Summit Brazil, 2012
+- SxSW Interactive, 2011, 2010, 2009
+- Ignite Raleigh, 2010
+- OPASTCO, 2010
+- IP Possibilities, 2010, 2009, 2008, 2007
+- NCTIA and TCI, 2009
+- NeoNova Summit, 2009, 2007, 2005, 2004, 2002
+- Telephone Association of New England Expo, 2009
+- TelcoTV, 2009
+- Atlanta Telecom Professionals, 2009
+- NTCA Wireless Symposium, 2009
+- Wireless Technology Forum, 2008
+- EC-EXPO, 2006
+- Siemens IPTV Conference, 2005
+- NCTIA and TCI, 2004
 - [More...](/resume/) 
 
 ### Speaking Photos
@@ -57,7 +87,7 @@ title: "Media"
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/waynesutton/3795957091/in/photolist-81igL3-5ZnBqM-6m299D-bZuw5-67s14S-63Q6Lt-6js3LW-8MgYpx-6bkVRE-6bgXf2-54eg1V-7VN2ai-89NvpP-7HjtkW-7HjtBf-6gzuwt-6MrgSi-6MrgN4-e1Y44G-9nExbS-7TPWDJ-6Mvt7A-6MrgMX-64WuSi" title="iContact"><img src="https://farm4.staticflickr.com/3534/3795957091_33dbd67648.jpg" width="500" height="375" alt="iContact"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-### Quoted Interviews
+### Quoted Articles
 
 (Partial List)
 
