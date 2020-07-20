@@ -91,6 +91,7 @@ title: "Media"
 
 (Partial List)
 
+- [Slack](https://slackhq.com/slack-certified-and-new-admin-tools), 2020
 - [Silicon Angle](https://siliconangle.com/2013/09/30/vces-jay-cuthrell-on-oracle-vblock-and-everything-in-between-oow13/), 2013
 - [BizJournals](https://www.bizjournals.com/triangle/print-edition/2012/06/22/emc-cisco-venture-plots-growth-locally.html), 2012
 - [Silicon Angle](https://siliconangle.com/2011/08/17/is-vce-a-flailing-startup-a-study-of-snark-in-new-media/), 2011
@@ -100,14 +101,10 @@ title: "Media"
 
 (Partial List)
 
-- [Geek Whisperers 2013](http://geek-whisperers.com/2013/11/episode-27-the-balkanization-of-tech-conferences-and-the-long-tail-of-swag/)
-- [NPR American Public Media's Marketplace 2011](https://www.thisismarketplace.org/topics/tech/facebook-fatigue-may-be-setting)
-- [NPR American Public Media's Marketplace 2010](https://www.thisismarketplace.org/topics/tech/having-missed-mobile-boat-microsoft-name-losing-luster)
-
-<iframe src="https://www.marketplace.org/2011/06/13/tech/facebook-fatigue-may-be-setting/popout" frameborder="0" width="100%" height="240px"></iframe>
-<iframe src="https://www.marketplace.org/2010/07/13/tech/having-missed-mobile-boat-microsoft-name-losing-luster/popout" frameborder="0" width="100%" height="240px"></iframe>
-
-
+- [AI in Action](https://alldus.com/blog/podcasts/aiinaction-jay-cuthrell-dell-technologies/), 2020
+- [Geek Whisperers](http://geek-whisperers.com/2013/11/episode-27-the-balkanization-of-tech-conferences-and-the-long-tail-of-swag/), 2013
+- [NPR American Public Media's Marketplace](https://www.thisismarketplace.org/topics/tech/facebook-fatigue-may-be-setting), 2011
+- [NPR American Public Media's Marketplace](https://www.thisismarketplace.org/topics/tech/having-missed-mobile-boat-microsoft-name-losing-luster), 2010
 
 ### Video Interviews and Presentations
 
