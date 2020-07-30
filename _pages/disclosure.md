@@ -18,29 +18,23 @@ There is a link to this disclaimer and my disclosure(s) within the footer of eac
 
 I reserve the right to change my mind and edit content at any time. Any CMS changelog here is subject to client side edits or server side edits on GitHub as delivered by _bundle exec jekyll build_ or _gatsby build_ or _yarn build_.
 
-I was a prolific account creator and comment maker across the Interwebs — yes, even [Twitter](/on-twitter/). If there is any ambiguity around me making the comment or not, please consider the rather loose concepts around comment vetting, data ownership, data portability, and non-repudiation before you assume a comment is truly mine. Just ask me. Never assume.
+I was a prolific account creator and comment maker across the Interwebs. If there is any ambiguity around me making the comment or not, please consider the rather loose concepts around comment vetting, data ownership, data portability, and non-repudiation before you assume a comment is truly mine. Just ask me. [Never assume](https://blog.twitter.com/en_us/topics/company/2020/an-update-on-our-security-incident.html).
 
-I was a guest contributor at Telecompetitor and a writer for ReadWrite in addition to being published in a technology trade journal. However, the majority of my publishing output is behind corporate firewalls.
+I was a guest contributor at Telecompetitor and a writer for ReadWrite in addition to being published in a technology trade journal. However, the majority of my publishing output since 2010 is behind corporate firewalls.
 
-Any personal profiles on Twitter, LinkedIn, or other services on the Internet are placeholders, non-authoritative, considered deprecated, and superceded by my [website](/) and claimed verfications on [Keybase](https://keybase.io/jaycuthrell).
-
-I maintain an active personal profile on [Keybase](https://keybase.io/jaycuthrell) where I can be [contacted](/contact/).
+Any personal profiles on Twitter, LinkedIn, or other services on the Internet are placeholders, non-authoritative, exploratory, deprecated, or superceded by my [website](/) and all claimed verfications on [Keybase](https://keybase.io/jaycuthrell) where I maintain an active personal profile.
 
 ### My Employers, Clients, and Customers
 
 I am presently in a Managing Director role at [Dell Technologies](http://www.delltechnologies.com).
 
-My [CV / resumé is available exclusively on this website](/resume/).
+My [CV / resumé is available exclusively on this website](/resume/) where I also link to my LinkedIn profile and a JSON flavored GitHub repository.
 
 ### Startups
 
-At present, I am no longer an advisor to any startups.
+At present, I am no longer an advisor to any startups. I was an advisor to amazing startups were funded, acqired, and ones that did not survive.
 
-I was an advisor to amazing startups were funded, acqired, and ones that did not survive.
-
-With all startups I advise, the equity I have is commensurate with my involvement level.
-
-I have published [a blog post that outlines how I work with startups and my fuller thoughts on taking an advisory role](/be-my-advisor/) which I also link back to on [my AngelList profile](https://angel.co/jaycuthrell).
+With all startups I advise, the equity I have is commensurate with my involvement level. I have published [a blog post that outlines how I work with startups and my fuller thoughts on taking an advisory role](https://fudge.org/be-my-advisor/) which I also link back to on [my AngelList profile](https://angel.co/jaycuthrell).
 
 ### Positions
 
@@ -52,7 +46,6 @@ I’ll spare you the reporting on how my portfolio is doing. I’m not an invest
 
 ### Gifts and Advertising
 
-I refuse gifts when possible. However, I’m often presented with random tchotchke bags and the occasional high dollar gadget or two when attending conferences and events. If items are worth more than $5 or something I can’t take notes on (e.g. pens and paper) I attempt to donate or [recycle](https://www.bestbuy.com/recycle) the items. I explained this in more detail on an old [free phones](/free-phones/) post after attending a gratis Google I/O event.
+I refuse gifts when possible. However, I’m often presented with random tchotchke bags and the occasional high dollar gadget or two when attending conferences and events. If items are worth more than $5 or something I can’t take notes on (e.g. pens and paper) I attempt to donate, freecycle, or recycle the items. For example, I donated Android phones to a local developer user group after attending a gratis Google I/O event.
 
-I’m always experimenting with ways to monetize web content. I’ve used Google Adsense, Text Link Ads, Adbrite, Amazon Affiliates, etc… but I always end up taking them down after I’m familiar with the concepts. At best I’ve made $100 or so here and there.
-
+I’m always experimenting with ways to monetize web content. I’ve used several approaches over the years but I always end up taking them down after I’m familiar with the concepts. At best I’ve made $100 or so here and there. Any referral links are called out explicitly here and in any content.
