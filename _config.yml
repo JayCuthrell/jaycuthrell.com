@@ -164,5 +164,6 @@ defaults:
       read_time: true
       comments: false
       related: true
+      image: /images/jaycuthrell.jpg
       header:
-        image: /images/1500x300.jpg
+        image: /images/jaycuthrell.jpg
