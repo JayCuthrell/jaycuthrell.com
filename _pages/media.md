@@ -9,11 +9,12 @@ title: "Media"
 
 (Partial List)
 
-- <a href="https://readwrite.com/author/jay-cuthrell">ReadWrite</a>
-- <a href="https://www.telecompetitor.com/author/jcuthrell/">Telecompetitor</a>
-- <a href="https://blog.dellemc.com/en-us/author/jay-cuthrell/">Direct2DellEMC Blog</a>
-- <a href="https://community.emc.com/blogs/jay.cuthrell/">Dell EMC Community Network Blog</a>
-- <a href="https://fudge.org">fudge.org</a>
+- [fudge.org](https://fudge.org)
+- [ReadWrite](https://readwrite.com/author/jay-cuthrell)
+- [Telecompetitor](https://www.telecompetitor.com/author/jcuthrell/)
+- [Dell EMC Community Network](https://community.emc.com/blogs/jay.cuthrell/)
+- [Direct2DellEMC](https://blog.dellemc.com/en-us/author/jay-cuthrell/)
+- [Engineering Technologists Blog](https://engineeringtechnologists.com/blog)
 
 ### Presentation Samples
 
