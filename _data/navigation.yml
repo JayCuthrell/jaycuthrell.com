@@ -4,12 +4,12 @@
   url: /
 - title: About
   url: /about/
-- title: Blog 
-  url: /blog/ 
+- title: Resume
+  url: /resume/ 
 - title: Media
   url: /media/
-- title: Resume
-  url: /resume/  
+- title: Blog 
+  url: /blog/   
 - title: Disclosure 
   url: /disclosure/
 - title: Contact
