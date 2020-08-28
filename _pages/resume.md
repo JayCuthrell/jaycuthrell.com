@@ -6,14 +6,165 @@ title: "My CV / Resume"
 
 ---
 
-A minimal CV / resume is on available on [Linkedin](https://www.linkedin.com/in/jaycuthrell) solely as a placeholder to redirect here.
+For a detailed version of my CV / resume information, please [contact me directly](/contact/).
 
-A simplified [JSON version of my CV / resume is availble on GitHub](https://gist.github.com/JayCuthrell/693f6895cd49d53ed36939e234ae9c32). 
+While I do have a profile on [Linkedin](https://www.linkedin.com/in/jaycuthrell) it is presently used as a placeholder to redirect here.
 
-<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
-<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="light" data-vanity="jaycuthrell"><a class="LI-simple-link" href='https://www.linkedin.com/in/jaycuthrell?trk=profile-badge'>Jay Cuthrell</a></div>
+Formatting can be cumbersome but a very simplified [JSON version of my CV / resume is availble on GitHub](https://gist.github.com/JayCuthrell/693f6895cd49d53ed36939e234ae9c32) with a link to a rendered themed output.
 
-_For a detailed version of my CV / resume information, please [contact me directly](/contact/)._
+Experience
+==========
+
+![Dell Technologies](/images/delltech.jpg) 
+Dell Technologies
+- Field Facing Managing Director
+   - 2020 – Present
+   - Tapped as servant leader to help develop the world's best global team of [field facing](/media/) Engineering Technologists focused on the autonomous infrastructure business. Discussion leader for customer conversations, solutions, strategic alliances, and trusted facilitator in Executive Briefings around the globe as a "virtual road warrior".
+- Managing Director, Engineering
+   - 2019 – 2020
+   - Managing leader role within new product introduction organization as acting lead for cross-company interlock for Engineering. Acting lead for field planning. Continued role as acting Chief of Staff to support the SVP of Engineering for new product introduction for autonomous infrastructure.
+
+![Dell EMC](/images/dellemc.jpg) 
+Dell EMC
+- Chief of Staff, Engineering
+   - 2018 – 2019
+   - Promoted to serve as a force multiplier for SVP of Engineering for new product introduction. Remapped CTO team into a new product introduction organization. Developed high potential managing leaders at the manager, senior manager, director, and senior director levels to scale the new product introduction for autonomous infrastructure.
+- Chief of Staff, Office of the CTO
+   - 2016 – 2018
+   - Promoted to serve as proxy for SVP & CTO and a force multiplier for President of converged platforms and solutions division as an executive sponsor with key accounts. Key leader engaged for EBC’s winning multiple +$100 Million USD deals. [Extensive travel and speaking responsibilities and analyst interaction at major industry events](/media/).
+
+![EMC](/images/emc.jpg) 
+EMC
+- Director, Office of the CTO
+   - 2015 – 2016
+   - Promoted to focus on futures, cloud technology strategy, and analyst relations (Gartner, IDC, 451 Group, etc.). Key leader engaged for EBC’s winning multiple +$50 Million USD deals for VCE, EMC, and Dell EMC in Top 40 Global accounts. Competitive intelligence, market research, proof of concepts, and pre-sales field enablement. Extensive travel and customer interactions.
+
+![VCE](/images/vce.jpg) 
+VCE
+- Technologist, Office of the CTO
+   - 2013 – 2015
+   - Promoted during hyper VCE growth period to develop hybrid cloud roadmaps. Key leader engaged for EBC’s winning multiple +$25 Million USD deals for VCE, VMware, Cisco, and EMC. Continued extensive global speaking schedule during period of hyper sales growth.
+- Managing Principal Consultant for for Service Providers Telco Media Entertainment
+   - 2011 – 2012
+   - Promoted to focus on managing VCE continued growth and development of private cloud IaaS global pre-sales engineering team for Service Provider (SP) and Systems Integrator (SI) segments. Key leader engaged for EBC’s winning multiple +$10 Million USD deals for VCE, VMware, Cisco, and EMC. Extensive global speaking schedule during period of explosive sales growth and hiring.
+- Principal Consultant for Service Providers Telco Media Entertainment
+   - 2010 – 2011
+   - Led Acadia/VCE expansion of IaaS private cloud global pre-sales engineering teams. Key leader engaged for winning multiple +$1 Million USD deals for Acadia/VCE, VMware, Cisco, and EMC. Rapidly assimilated onboarding across VMware, Cisco, and EMC to support hiring of new team members.
+
+![cuthrell.com](/images/cuthrellconsulting.png) 
+cuthrell.com
+- Managing Principal Consultant
+   - 2009 – 2010
+   - Created a profitable consulting practice to provide strategic technology consulting services for cloud service providers, SaaS startups, and investment groups. Trusted proven subject matter expertise and investment analyst support through private consultations for +30 clients internationally. Featured writer for Telecompetitor and ReadWrite.
+
+![Digitel](/images/digitel.jpg) 
+Digitel Hosted Network
+- Vice President and General Manager
+   - 2007 – 2009
+   - Promoted to parent company CTO and VP/GM of ICT services division. Entrepreneurial VP/GM role with P&L responsibility for ICT and wireless services division. Executed digital transformation to IaaS and SaaS cloud for core business operations.
+
+![NeoNova Network Services](/images/neonova.png) 
+NeoNova Network Services
+- Chief Technology Officer
+   - 2002 – 2007
+   - Change agent and leader in sales, technology, and operations elements of the wholesale turnkey managed service provider backoffice business for telecommunications companies. Executed exit strategy and achieved liquidity event for all team members. Executed technical and business strategy to grow core SaaS business by +1000%.
+
+![iXL Enterprises Inc.](/images/ixl.png) 
+iXL Enterprises Inc.
+- Senior Infrastructure Architect
+   - 1999 – 2002
+   - iXL -> Scient -> the rest is .com history -> to what is now known as Publicis Groupe. Infrastructure Architect, Manager of Software Engineering, Manager of Systems Engineering, etc... extensive traveling consultations for Fortune 500 engagements and their data centers around the world. Partial Client List: General Motors, Verisign, Intel, Kraft, MetLife, First Data, IBM, Cisco, HP, Quintiles, Red Hat, Compass Group, NBC, Various eHealth Systems, Various CRO and BioPharma Companies, Various Telecommunications Companies, Various eCommerce Retailers
+
+![Nortel Networks](/images/nortel.png) 
+Nortel Networks
+- Internet Application Developer
+   - 1997 – 1999
+   - Leader of development team supporting production tools for data center and early LAMP web based services administration tool design for use by ISP administrators. Streaming server and nascent Internet applications subject matter expert for firewall testing group. Lead team growth of systems and software engineers.
+
+![AIC](/images/aic.jpg) 
+Analysts International Corporation
+- Internet Application Developer
+   - 1996 – 1997
+   - Consultant for Nortel Networks. Converted to full time Nortel Netorks employee.
+
+![North Carolina State University College of Engineering](/images/ncsu.png) 
+North Carolina State University College of Engineering
+- Graduate Research Assistant
+   - 1996
+   - Sysadmin for NCSU Department of Materials Science and Engineering on DEC Alpha 250/4-266 (Digital UNIX formerly OSF/1 AXP) and SGI Indigo2-XZ (Irix).
+
+![IBM](/images/ibm.jpg) 
+IBM
+- Cooperative Education Student
+   - 1995
+   - TCP/IP stack performance tester within the benchmark group for OS/2 Warp Connect and AIX 4.x on x86 and PowerPC platforms operating on Ethernet and Token Ring networks. Maintained TCP/IP products and infrastructure for TCP/IP labs.
+
+
+Education
+=========
+
+![North Carolina State University College of Engineering](/images/ncsu.png) 
+North Carolina State University College of Engineering
+- Bachelor of Science - BS
+- Materials Science and Engineering
+
+Patents
+=======
+
+[US9684539B1](https://patents.google.com/patent/US9684539B1/en) - Methods, systems, and computer readable mediums for logically remediating infrastructure resource components
+
+Licenses & certifications
+=========================
+
+- INFOSEC Assessment Training and Rating Program (IARTP) National Security Agency (NSA) INFOSEC Assessment Methodology (IAM) - NSA INFOSEC Assessment Training and Rating Program (IARTP)
+- Leadership Track - Dell Technologies
+- Facilitation of Executive Briefings (ABPM) - ABPM (Association of Briefing Program Managers)
+- Class-5 Soft Switch Packet Interface Card for VoIP - Tekelec
+- Class-5 Soft Switch OAM&P - Tekelec
+- Canopy Wireless Broadband Technical Training - Motorola Solutions
+- Weblogic Server Administration - Oracle
+
+Skills
+======
+
+- Servant Leadership
+- Executive Leadership
+- Team Leadership
+- Design Thinking
+- Systems Thinking
+- Telecommunications
+- Go-to-market Strategy
+- Software Development
+- Competitive Analysis
+- Professional Services
+- Strategic Consulting
+- Materials Science
+
+Advisory Board Roles
+====================
+- Racemi Advisory Board ( Exit: DXC )
+- Packet Island Advisory Board ( Exit: BroadSoft / Cisco )
+- AwayFind Advisory Board
+- CommuniGate Customer Advisory Board
+
+Honors & Awards
+================
+
+- Dell Product of the Year Award 2020
+- Dell Customer Focus Award 2019
+- Dell Excellence Award 2018
+- Dell Excellence Award 2017
+- VCE Master Engineer Award 2013
+- VMware vExpert Award 2013
+- VCE Boldness Award 2012
+- GLG Top 5% Leaders for Telco Media Entertainment 2010
+- GLG Top 5% Leaders for Telco Media Entertainment 2009
+- Digitel Founders Club Award 2008
+- Digitel Founders Club Award 2007
+- Digitel Founders Club Award 2006
+- Digitel Excellence Award 2007
+- NeoNova Excellence Award 2006
+- Digitel Founders Club Award 2005
 
 Professional Recommendations
 ============================
@@ -60,4 +211,4 @@ Professional References
 
 References available upon request.
 
-_For a detailed version of my CV / resume information, please [contact me directly](/contact/)._
+For a detailed version of my CV / resume information, please [contact me directly](/contact/).
