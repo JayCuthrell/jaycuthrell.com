@@ -10,8 +10,6 @@ For a detailed version of my CV / resume information, please [contact me directl
 
 While I do have a profile on [Linkedin](https://www.linkedin.com/in/jaycuthrell) it is presently used as a placeholder to redirect here.
 
-Formatting can be cumbersome but a very simplified [JSON version of my CV / resume is availble on GitHub](https://gist.github.com/JayCuthrell/693f6895cd49d53ed36939e234ae9c32) with a link to a rendered themed output.
-
 Experience
 ==========
 
@@ -33,13 +31,13 @@ Dell EMC
    - 2016 – 2018
    - Promoted to serve as proxy for SVP & CTO and a force multiplier for President of converged platforms and solutions division as an executive sponsor with key accounts. Key leader engaged for EBC’s winning multiple +$100 Million USD deals. [Extensive travel and speaking responsibilities and analyst interaction at major industry events](/media/).
 
-![EMC](/images/emc.jpg) 
+![EMC](/images/emc.png) 
 EMC
 - Director, Office of the CTO
    - 2015 – 2016
    - Promoted to focus on futures, cloud technology strategy, and analyst relations (Gartner, IDC, 451 Group, etc.). Key leader engaged for EBC’s winning multiple +$50 Million USD deals for VCE, EMC, and Dell EMC in Top 40 Global accounts. Competitive intelligence, market research, proof of concepts, and pre-sales field enablement. Extensive travel and customer interactions.
 
-![VCE](/images/vce.jpg) 
+![VCE](/images/vce.png) 
 VCE
 - Technologist, Office of the CTO
    - 2013 – 2015
@@ -93,7 +91,7 @@ North Carolina State University College of Engineering
    - 1996
    - Sysadmin for NCSU Department of Materials Science and Engineering on DEC Alpha 250/4-266 (Digital UNIX formerly OSF/1 AXP) and SGI Indigo2-XZ (Irix).
 
-![IBM](/images/ibm.jpg) 
+![IBM](/images/ibm.png) 
 IBM
 - Cooperative Education Student
    - 1995
