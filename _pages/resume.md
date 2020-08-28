@@ -17,7 +17,7 @@ Experience
 Dell Technologies
 - Field Facing Managing Director
    - 2020 – Present
-   - Tapped as servant leader to help develop the world's best global team of [field facing](/media/) Engineering Technologists focused on the autonomous infrastructure business. Discussion leader for customer conversations, solutions, strategic alliances, and trusted facilitator in Executive Briefings around the globe as a "virtual road warrior".
+   - Tapped as servant leader to help develop the world's best global team of field facing [Engineering Technologists](https://engineeringtechnologists.com) focused on the autonomous infrastructure business. Discussion leader for customer conversations, solutions, strategic alliances, and trusted facilitator in Executive Briefings around the globe as a "virtual road warrior".
 - Managing Director, Engineering
    - 2019 – 2020
    - Managing leader role within new product introduction organization as acting lead for cross-company interlock for Engineering. Acting lead for field planning. Continued role as acting Chief of Staff to support the SVP of Engineering for new product introduction for autonomous infrastructure.
@@ -31,7 +31,7 @@ Dell EMC
    - 2016 – 2018
    - Promoted to serve as proxy for SVP & CTO and a force multiplier for President of converged platforms and solutions division as an executive sponsor with key accounts. Key leader engaged for EBC’s winning multiple +$100 Million USD deals. [Extensive travel and speaking responsibilities and analyst interaction at major industry events](/media/).
 
-![EMC](/images/emc.png) 
+![EMC](/images/emc.jpg) 
 EMC
 - Director, Office of the CTO
    - 2015 – 2016
