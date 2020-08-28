@@ -6,12 +6,12 @@ permalink: /
 
 ---
 
-* Servant Leader 
-* Corporate Free Safety 
-* [Former CTO / VP / GM](/about/) 
-* Helped grow a business from 0 to multi $B
+* [Servant Leader](/resume/) 
+* [Corporate Free Safety](/resume/)  
+* [Former CTO / VP / GM](/resume/) 
+* [Helped grow a business from 0 to multi $B](/resume/) 
 
-William J. Cuthrell (Jay) is an innovative and sought after servant leader. Jay leverages his [extensive experiences](/about/) as a CTO, VP, and GM in high growth ICT companies as well as global infrastructure consulting roles for Fortune 500 clients to be a trusted advisor on strategic technology.
+William J. Cuthrell (Jay) is an innovative and sought after servant leader. Jay leverages his [extensive experiences](/resume/) as a CTO, VP, and GM in high growth ICT companies as well as global infrastructure consulting roles for Fortune 500 clients to be a trusted advisor on strategic technology.
 
 Jay’s expertise demonstrated through strong growth and change cycles provides a unique perspective into the future of the technology industry. His previous engagements include providing a key role as a consultant for service providers, startup companies, and investment groups. Jay is a [published industry author](/media/) as well as a frequent [corporate blogger](/media/).
 
