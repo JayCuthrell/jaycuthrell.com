@@ -10,6 +10,15 @@ For a detailed version of my CV / resume information, please [contact me directl
 
 While I do have a profile on [Linkedin](https://www.linkedin.com/in/jaycuthrell) it is presently used as a placeholder to redirect here.
 
+Summary
+=======
+
+I am a proud team member of a business that grew from zero to multi-billion dollar run rates by enabling digital transformation via IaaS, PaaS, and SaaS multicloud platforms. It is my mission to delight customers, deliver sustainable sales growth, and provide innovative servant leadership.
+
+- Extensive customer focus in product development, sales wins, and consulting internationally.
+- Highly sought after public speaker and group discussion leader with analysts and customers. 
+- Held successful CTO, VP, and GM roles in rapid-growth ICT and service provider companies.
+
 Experience
 ==========
 
