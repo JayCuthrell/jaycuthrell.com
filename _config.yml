@@ -12,8 +12,6 @@ words_per_minute: 100
 locale: "en_US"
 location: "USA"
 
-remote_theme: "mmistakes/so-simple-theme@3.2.0"
-
 compress_html:
   clippings: all
   startings: [html, head, body]
@@ -44,7 +42,6 @@ exclude:
   - vendor/gems/
   - vendor/ruby/
 
-
 site.github.repository_url: https://github.com/JayCuthrell/jaycuthrell.com/commits/minimal-mistakes/
 repository_url: https://github.com/JayCuthrell/jaycuthrell.com/commits/minimal-mistakes/
 
@@ -58,10 +55,6 @@ lsi: false
 excerpt_separator: "\n\n"
 incremental: false
 
-#sass:
-#  sass_dir: -_sass
-#  style: expanded
-
 date_format: "%B %-d, %Y"
 mathjax: false 
 
@@ -71,8 +64,6 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
-
-
 
 plugins:
   - jekyll-sitemap
@@ -92,7 +83,6 @@ kramdown:
   toc_levels: 1..6
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
-
 
 author:
   name: Jay Cuthrell
@@ -131,7 +121,6 @@ twitter:
   username: JayCuthrell
   card: summary
 
-# Pagination settings
 pagination:
   enabled: true
   debug: false
