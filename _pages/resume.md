@@ -173,6 +173,17 @@ Honors & Awards
 - NeoNova Excellence Award 2006
 - Digitel Founders Club Award 2005
 
+
+Pre-Sales and Field CTO Summary
+===============================
+
+Pre-sales wins that I have been involved in span multiple segments such as service providers (telco, media, entertainment, IaaS, PaaS, SaaS), independent software vendors (ISVs), independent hardware vendors (IHVs), systems integrators, various federal governments, United States SLED, various military, and various enterprise verticals. Types of enterprise wins I have been involved in include utilities, legal, construction, mining, manufacturing, finance, insurance, healthcare, textiles, automotive, retail, and more. [An abbreviated sample of publicly referenceable customers may be available online](https://www.delltechnologies.com/en-us/converged-infrastructure/customers/index.htm). 
+
+My role in the pre-sales process and closing was and is to be a trusted advisor and road warrior aligned to the MEDDIC B2B sales qualification methodology. As a trusted advisor, my role was "soup to nuts" and holistic from qualification to bookings to post-sale "land and expand" account lifecycle management. Specifically, my pre-sales role involved high touch level strategy for credible product positioning, directed competitive analysis, RFx influencing, establishing success criteria for customer acceptance, cross-functional proof of concept test planning, C-level presentation in person in region globally, C-level presentations at executive briefing centers globally, ongoing C-level executive sponsorship 1:1 meetings at conference events, down to specific bill of materials and services contract creation through review and execution during delivery and implementation working with customer advocacy and customer success managers.
+
+Most recently for 2020, my field facing pre-sales role is as a virtual road warrior. As a virtual road warrior the presentation experience now involves use of Zoom, Microsoft Teams, Google Meet, Slack, or Cisco WebEx depending on the customer security posture requirements for virtual executive briefings. 
+
+
 Professional Recommendations
 ============================
 
