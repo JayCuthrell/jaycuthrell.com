@@ -1,3 +1,5 @@
+# Primary redirect
+/blog https://fudge.org/authors/Jay-Cuthrell
 # Redirect default Netlify subdomain to primary domain
 https://jaycuthrellcom.netlify.com/* https://jaycuthrell.com/:splat 301!
 # Redirect older blog url slugs
@@ -10,26 +12,26 @@ https://jaycuthrellcom.netlify.com/* https://jaycuthrell.com/:splat 301!
 /a-timely-question/    https://fudge.org/?migration=pending
 /back-to-my-consulting-roots/    https://fudge.org/?migration=pending
 /balkanize-rinse-repeat-ad-infinitum/    https://fudge.org/?migration=pending
-/be-my-advisor/    https://fudge.org/?migration=pending
+/be-my-advisor/    https://fudge.org/be-my-advisor
 /blackberry-spf-records/    https://fudge.org/?migration=pending
 /burl-ives-workloads/    https://fudge.org/?migration=pending
 /buzzwords-to-billions/    https://fudge.org/?migration=pending
 /calea-and-me/    https://fudge.org/?migration=pending
-/cat-diapers/    https://fudge.org/?migration=pending
+/cat-diapers/    https://fudge.org/cat-diapers
 /color-nicholas-gone/    https://fudge.org/?migration=pending
-/consolidation/    https://fudge.org/?migration=pending
-/converged-thoughts-1/    https://fudge.org/?migration=pending
-/converged-thoughts-10/    https://fudge.org/?migration=pending
-/converged-thoughts-11/    https://fudge.org/?migration=pending
-/converged-thoughts-12/    https://fudge.org/?migration=pending
-/converged-thoughts-2/    https://fudge.org/?migration=pending
-/converged-thoughts-3/    https://fudge.org/?migration=pending
-/converged-thoughts-4/    https://fudge.org/?migration=pending
-/converged-thoughts-5/    https://fudge.org/?migration=pending
-/converged-thoughts-6/    https://fudge.org/?migration=pending
-/converged-thoughts-7/    https://fudge.org/?migration=pending
-/converged-thoughts-8/    https://fudge.org/?migration=pending
-/converged-thoughts-9/    https://fudge.org/?migration=pending
+/consolidation/    https://fudge.org/consolidation
+/converged-thoughts-1/    https://fudge.org/converged-thoughts-one
+/converged-thoughts-10/    https://fudge.org/converged-thoughts-ten
+/converged-thoughts-11/    https://fudge.org/converged-thoughts-eleven
+/converged-thoughts-12/    https://fudge.org/converged-thoughts-twelve
+/converged-thoughts-2/    https://fudge.org/converged-thoughts-two
+/converged-thoughts-3/    https://fudge.org/converged-thoughts-three
+/converged-thoughts-4/    https://fudge.org/converged-thoughts-four
+/converged-thoughts-5/    https://fudge.org/converged-thoughts-five
+/converged-thoughts-6/    https://fudge.org/converged-thoughts-six
+/converged-thoughts-7/    https://fudge.org/converged-thoughts-seven
+/converged-thoughts-8/    https://fudge.org/converged-thoughts-eight
+/converged-thoughts-9/    https://fudge.org/converged-thoughts-nine
 /danger-will-robinson/    https://fudge.org/?migration=pending
 /dell-emc-converged-platforms-and-solutions/    https://fudge.org/?migration=pending
 /design-impact/    https://fudge.org/?migration=pending
