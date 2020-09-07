@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
-gem 'jekyll', "~> 4.0"
+gem 'jekyll', ">= 4.0"
 gem "jekyll-seo-tag"
 gem 'jekyll-sitemap', ">= 1.3.0"
 gem 'jekyll-redirect-from'
