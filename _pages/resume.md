@@ -24,19 +24,19 @@ Experience
 
 ![Dell Technologies](/images/delltech.jpg) 
 Dell Technologies
-- Field Facing Managing Director
+- Managing Director, Engineering Technologists
    - 2020 – Present
    - Tapped as servant leader to help develop the world's best global team of field facing [Engineering Technologists](https://engineeringtechnologists.com) focused on the autonomous infrastructure business. Discussion leader for customer conversations, solutions, strategic alliances, and trusted facilitator in Executive Briefings around the globe as a "virtual road warrior".
-- Managing Director, Engineering
+- Managing Director, Software Engineering
    - 2019 – 2020
    - Managing leader role within new product introduction organization as acting lead for cross-company interlock for Engineering. Acting lead for field planning. Continued role as acting Chief of Staff to support the SVP of Engineering for new product introduction for autonomous infrastructure.
 
 ![Dell EMC](/images/dellemc.jpg) 
 Dell EMC
-- Chief of Staff, Engineering
+- Director and Chief of Staff, Software Engineering
    - 2018 – 2019
    - Promoted to serve as a force multiplier for SVP of Engineering for new product introduction. Remapped CTO team into a new product introduction organization. Developed high potential managing leaders at the manager, senior manager, director, and senior director levels to scale the new product introduction for autonomous infrastructure.
-- Chief of Staff, Office of the CTO
+- Director and Chief of Staff, Office of the CTO
    - 2016 – 2018
    - Promoted to serve as proxy for SVP & CTO and a force multiplier for President of converged platforms and solutions division as an executive sponsor with key accounts. Key leader engaged for EBC’s winning multiple +$100 Million USD deals. [Extensive travel and speaking responsibilities and analyst interaction at major industry events](/media/).
 
@@ -48,7 +48,7 @@ EMC
 
 ![VCE](/images/vce.png) 
 VCE
-- Technologist, Office of the CTO
+- Engineering Technologist, Office of the CTO
    - 2013 – 2015
    - Promoted during hyper VCE growth period to develop hybrid cloud roadmaps. Key leader engaged for EBC’s winning multiple +$25 Million USD deals for VCE, VMware, Cisco, and EMC. Continued extensive global speaking schedule during period of hyper sales growth.
 - Managing Principal Consultant for for Service Providers Telco Media Entertainment
@@ -60,13 +60,13 @@ VCE
 
 ![cuthrell.com](/images/cuthrellconsulting.png) 
 cuthrell.com
-- Managing Principal Consultant
+- CEO and Managing Principal Consultant
    - 2009 – 2010
    - Created a profitable consulting practice to provide strategic technology consulting services for cloud service providers, SaaS startups, and investment groups. Trusted proven subject matter expertise and investment analyst support through private consultations for +30 clients internationally. Featured writer for Telecompetitor and ReadWrite.
 
 ![Digitel](/images/digitel.jpg) 
 Digitel Hosted Network
-- Vice President and General Manager
+- Vice President, General Manager, and Chief Technology Officer
    - 2007 – 2009
    - Promoted to parent company CTO and VP/GM of ICT services division. Entrepreneurial VP/GM role with P&L responsibility for ICT and wireless services division. Executed digital transformation to IaaS and SaaS cloud for core business operations.
 
@@ -74,11 +74,11 @@ Digitel Hosted Network
 NeoNova Network Services
 - Chief Technology Officer
    - 2002 – 2007
-   - Change agent and leader in sales, technology, and operations elements of the wholesale turnkey managed service provider backoffice business for telecommunications companies. Executed exit strategy and achieved liquidity event for all team members. Executed technical and business strategy to grow core SaaS business by +1000%.
+   - Change agent and leader in sales, software development, technology, and operations elements of the wholesale turnkey managed service provider backoffice business for telecommunications companies. Executed exit strategy and achieved liquidity event for all team members. Executed technical and business strategy to grow core SaaS business by +1000%.
 
 ![iXL Enterprises Inc.](/images/ixl.png) 
 iXL Enterprises Inc.
-- Senior Infrastructure Architect
+- Senior Infrastructure Architect and Manager of Software and Systems Engineering
    - 1999 – 2002
    - iXL -> Scient -> the rest is .com history -> to what is now known as Publicis Groupe. Infrastructure Architect, Manager of Software Engineering, Manager of Systems Engineering, etc... extensive traveling consultations for Fortune 500 engagements and their data centers around the world. Partial Client List: General Motors, Verisign, Intel, Kraft, MetLife, First Data, IBM, Cisco, HP, Quintiles, Red Hat, Compass Group, NBC, Various eHealth Systems, Various CRO and BioPharma Companies, Various Telecommunications Companies, Various eCommerce Retailers
 
@@ -86,13 +86,13 @@ iXL Enterprises Inc.
 Nortel Networks
 - Internet Application Developer
    - 1997 – 1999
-   - Leader of development team supporting production tools for data center and early LAMP web based services administration tool design for use by ISP administrators. Streaming server and nascent Internet applications subject matter expert for firewall testing group. Lead team growth of systems and software engineers.
+   - Leader of software development team supporting production tools for data center and early LAMP web based services administration tool design for use by ISP administrators. Streaming server and nascent Internet applications subject matter expert for firewall testing group. Lead team growth of systems and software engineers.
 
 ![AIC](/images/aic.jpg) 
 Analysts International Corporation
 - Internet Application Developer
    - 1996 – 1997
-   - Consultant for Nortel Networks. Converted to full time Nortel Netorks employee.
+   - Software development consultant for Nortel Networks. Converted to full time Nortel Netorks employee.
 
 ![North Carolina State University College of Engineering](/images/ncsu.png) 
 North Carolina State University College of Engineering
