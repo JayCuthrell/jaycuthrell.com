@@ -85,7 +85,8 @@ NeoNova Network Services
 iXL Enterprises Inc.
 - Senior Infrastructure Architect and Manager of Software and Systems Engineering
    - 1999 – 2002
-   - iXL -> Scient -> the rest is .com history -> to what is now known as Publicis Groupe. Infrastructure Architect, Manager of Software Engineering, Manager of Systems Engineering, etc... extensive traveling consultations for Fortune 500 engagements and their data centers around the world. Partial Client List: General Motors, Verisign, Intel, Kraft, MetLife, First Data, IBM, Cisco, HP, Quintiles, Red Hat, Compass Group, NBC, Various eHealth Systems, Various CRO and BioPharma Companies, Various Telecommunications Companies, Various eCommerce Retailers
+   - iXL -> Scient -> the rest is .com history -> to what is now known as Publicis Groupe. Infrastructure Architect, Manager of Software Engineering, Manager of Systems Engineering, etc... extensive traveling consultations for Fortune 500 engagements and their data centers around the world.
+   - Partial Client List: General Motors, Verisign, Intel, Kraft, MetLife, First Data, IBM, Cisco, HP, Quintiles, Red Hat, Compass Group, NBC, Various eHealth Systems, Various CRO and BioPharma Companies, Various Telecommunications Companies, Various eCommerce Retailers
 
 ![Nortel Networks](/images/nortel.png) 
 Nortel Networks
