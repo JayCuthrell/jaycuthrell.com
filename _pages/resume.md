@@ -2,13 +2,18 @@
 layout: post
 permalink: /resume/
 related: true
-title: "My CV / Resume"
+title: "William Jason Cuthrell (Jay)"
 
 ---
 
-For a detailed version of my CV / resume information, please [contact me directly](/contact/).
+William Jason Cuthrell (Jay)
 
-While I do have a profile on [Linkedin](https://www.linkedin.com/in/jaycuthrell) it is presently used as a placeholder to redirect here.
+[jaycuthrell.com](https://jaycuthrell.com)
+
+[jay@cuthrell.com](mailto:jay@cuthrell.com?SUBJECT=Your+online+resume)
+
+[+1-415-763-8343](tel:+1-415-763-8343)
+
 
 Summary
 =======
@@ -19,8 +24,8 @@ I am a proud team member of a business that grew from zero to multi-billion doll
 - Highly sought after public speaker and group discussion leader with analysts and customers. 
 - Held successful CTO, VP, and GM roles in rapid-growth ICT and service provider companies.
 
-Experience
-==========
+Career Highlights
+=================
 
 ![Dell Technologies](/images/delltech.jpg) 
 Dell Technologies
@@ -235,4 +240,7 @@ Professional References
 
 References available upon request.
 
-For a detailed version of my CV / resume information, please [contact me directly](/contact/).
+Role Specific Versions
+======================
+
+For role specific versions of my CV / resume information, please [contact me directly](/contact/).
