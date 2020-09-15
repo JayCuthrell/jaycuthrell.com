@@ -6,8 +6,6 @@ title: "William Jason Cuthrell (Jay)"
 
 ---
 
-William Jason Cuthrell (Jay)
-
 [jaycuthrell.com](https://jaycuthrell.com)
 
 [jay@cuthrell.com](mailto:jay@cuthrell.com?SUBJECT=Your+online+resume)
