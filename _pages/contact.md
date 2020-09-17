@@ -13,14 +13,10 @@ There are many ways to contact me. This page updates as my [preferred methods ev
 - I also use [Signal](https://signal.org/install/). Search for +1-415-763-8343.
 - I also use [Tails](https://tails.boum.org/about/index.en.html), [Heads](https://heads.dyne.org/about.html), [Whonix](https://www.whonix.org/wiki/Main_Page), and [Hidden VM](https://github.com/aforensics/HiddenVM).
 
-I use phone, SMS, and email but prefer to establish a second channel from the list above.
-- Personal
-   - Call or text [+1-415-763-8343](tel:1-415-763-8343)
-   - Email [jay@cuthrell.com](mailto:jay@cuthrell.com?SUBJECT=2020+via+jaycuthrell.com)
-- Work
-   - Call or text [+1-512-820-9871](tel:1-512-820-9871)
-   - Email [jay.cuthrell@dell.com](mailto:jay.cuthrell@dell.com?SUBJECT=2020+via+jaycuthrell.com)
-   - Zoom [https://calendly.com/jaycuthrell](https://calendly.com/jaycuthrell)
+I use phone, SMS, email, and video conference apps but prefer to establish a second channel from the list above.
+- Call or text [+1-415-763-8343](tel:1-415-763-8343)
+- Email [jay@cuthrell.com](mailto:jay@cuthrell.com?SUBJECT=2020+via+jaycuthrell.com)
+- Zoom and Google Meet via Calendly [https://calendly.com/jaycuthrell](https://calendly.com/jaycuthrell)
 
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
