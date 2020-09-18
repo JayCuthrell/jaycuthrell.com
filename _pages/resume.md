@@ -30,7 +30,6 @@ Dell Technologies
 - Managing Director, Engineering Technologists
    - 2020 – 2020
    - Tapped as servant leader to help develop the world's best global team of field facing [Engineering Technologists](https://engineeringtechnologists.com) focused on the autonomous infrastructure business. Discussion leader for customer conversations, solutions, strategic alliances, and trusted facilitator in Executive Briefings around the globe as a "virtual road warrior".
-   - Full stack: SFDC, Chatter, Workday, Concur, Marketo, Boomi, ServiceNow, JIRA, Confluence, SmartBear Zephyr, Rally, Slack Enterprise Grid, Microsoft Teams, Globoforce, Anaqua, SAP Ariba, VMware, Office 365, Workspace ONE, BlackBerry Cylance, JIVE, RSA Archer, Zoom, EdCast, Trello, Pivotal Concourse, JFrog Artifactory, Docker, Helm, Red Hat Ansible Tower, Istio, FreeIPA, OpenNebula, Heketi, AWX, Kubernetes, Cloud Foundation, Grafana, Prometheus, Elastic Stack, Splunk, React, Angular, Ruby, Python, PyPi, NPM, Node, Yarn, Rust, Go, Jenkins, Maven, Gradle, GitHub for Enterprise, GitHub, Flyway, GraphQL, SQLite, Sqitch, Shibboleth, Service Mesh, HashiCorp Vault, Terraform, ELK, Black Duck, Swagger, Stoplight, Java, Spring, Ubuntu, CentOS, GlusterFS, Vertiv, Panduit, Emerson, APC, NEMA, Corning
 
 - Managing Director, Software Engineering
    - 2019 – 2020
@@ -68,21 +67,18 @@ cuthrell.com
 - CEO and Managing Principal Consultant
    - 2009 – 2010
    - Created a profitable consulting practice to provide strategic technology consulting services for cloud service providers, SaaS startups, and investment groups. Trusted proven subject matter expertise and investment analyst support through private consultations for +30 clients internationally. Featured writer for Telecompetitor and ReadWrite.
-   - Full Stack: Scrum, Agile, LAMP, Front End, Back End, Dojo Toolkit, Zend, Colocation, IaaS, AWS EC2 S3, Google Apps, Google App Engine
 
 ![Digitel](/images/digitel.jpg) 
 Digitel Hosted Network
 - Vice President, General Manager, and Chief Technology Officer
    - 2007 – 2009
    - Promoted to parent company CTO and VP/GM of ICT services division. Entrepreneurial VP/GM role with P&L responsibility for ICT and wireless services division. Executed digital transformation to IaaS and SaaS cloud for core business operations.
-   - Full Stack: Cisco, Unified Communications, Tekelec, Sun, Solaris, Dell, IBM, Red Hat, CentOS, LAMP MVC, Asterisk, SIP trunks, CommuniGate, Voicemail, SMTP, IMAP, LDAP, E911, Hosting, Carriers, Data Centers, Colocation, Peering, Billing, SaaS, MSP, WISP, Google Apps
 
 ![NeoNova Network Services](/images/neonova.png) 
 NeoNova Network Services
 - Chief Technology Officer
    - 2002 – 2007
    - Change agent and leader in sales, software development, technology, and operations elements of the wholesale turnkey managed service provider backoffice business for telecommunications companies. Executed exit strategy and achieved liquidity event for all team members. Executed technical and business strategy to grow core SaaS business by +1000%.
-   - Full Stack: Cisco, NetApp, ServerIron, Red Hat, CentOS, LAMP MVC, RADIUS, LDAP, RRDB, VoIP, IPTV, Hosting, Streaming, Gaming, Carriers, NEBS, Data Centers, Colocation, Peering, BGP, DNS, Billing, Oracle, Distributed, Agile, DevOps, SaaS, ASP, MSP, Telcos, CMTS, IP DSLAM, L2TP, FTTX, Licensed Spectrum, ISM, WISP, Antispam, CommuniGate, CALEA
 
 ![iXL Enterprises Inc.](/images/ixl.png) 
 iXL Enterprises Inc.
@@ -190,8 +186,7 @@ Pre-sales wins that I have been involved in span multiple segments such as servi
 
 My role in the pre-sales process and closing was and is to be a trusted advisor and road warrior aligned to the MEDDIC B2B sales qualification methodology. As a trusted advisor, my role was "soup to nuts" and holistic from qualification to bookings to post-sale "land and expand" account lifecycle management. Specifically, my pre-sales role involved high touch level strategy for credible product positioning, directed competitive analysis, RFx influencing, establishing success criteria for customer acceptance, cross-functional proof of concept test planning, C-level presentation in person in region globally, C-level presentations at executive briefing centers globally, ongoing C-level executive sponsorship 1:1 meetings at conference events, down to specific bill of materials and services contract creation through review and execution during delivery and implementation working with customer advocacy and customer success managers.
 
-Most recently for 2020, my field facing pre-sales role is as a virtual road warrior. As a virtual road warrior the presentation experience now involves use of Zoom, Microsoft Teams, Google Meet, Slack, or Cisco WebEx depending on the customer security posture requirements for virtual executive briefings. 
-
+Most recently for 2020, my field facing pre-sales role is as a virtual road warrior. As a virtual road warrior the presentation experience now involves use of Zoom, Microsoft Teams, Google Meet, Slack, or Cisco WebEx depending on the customer security posture requirements for virtual executive briefings.
 
 Professional Recommendations
 ============================
