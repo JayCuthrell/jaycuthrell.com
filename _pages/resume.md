@@ -28,7 +28,7 @@ Career Highlights
 ![Dell Technologies](/images/delltech.jpg) 
 Dell Technologies
 - Managing Director, Engineering Technologists
-   - 2020 – Present
+   - 2020 – 2020
    - Tapped as servant leader to help develop the world's best global team of field facing [Engineering Technologists](https://engineeringtechnologists.com) focused on the autonomous infrastructure business. Discussion leader for customer conversations, solutions, strategic alliances, and trusted facilitator in Executive Briefings around the globe as a "virtual road warrior".
    - Full stack: SFDC, Chatter, Workday, Concur, Marketo, Boomi, ServiceNow, JIRA, Confluence, SmartBear Zephyr, Rally, Slack Enterprise Grid, Microsoft Teams, Globoforce, Anaqua, SAP Ariba, VMware, Office 365, Workspace ONE, BlackBerry Cylance, JIVE, RSA Archer, Zoom, EdCast, Trello, Pivotal Concourse, JFrog Artifactory, Docker, Helm, Red Hat Ansible Tower, Istio, FreeIPA, OpenNebula, Heketi, AWX, Kubernetes, Cloud Foundation, Grafana, Prometheus, Elastic Stack, Splunk, React, Angular, Ruby, Python, PyPi, NPM, Node, Yarn, Rust, Go, Jenkins, Maven, Gradle, GitHub for Enterprise, GitHub, Flyway, GraphQL, SQLite, Sqitch, Shibboleth, Service Mesh, HashiCorp Vault, Terraform, ELK, Black Duck, Swagger, Stoplight, Java, Spring, Ubuntu, CentOS, GlusterFS, Vertiv, Panduit, Emerson, APC, NEMA, Corning
 
