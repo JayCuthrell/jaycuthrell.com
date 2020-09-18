@@ -8,7 +8,7 @@ title: "About me"
 
 Back in the mid to late 90s the first computers I was paid to work on were made by Dell. IIRC, they were Dell XPS P100 with a Buslogic SCSI card and a DEC Tulip Ethernet card running Slackware and Red Hat Linux.
 
-Presently, I am in a servant leader role as a [Managing Director at Dell Technologies](/resume/).
+Most recently, I was in a servant leader role as a [Managing Director at Dell Technologies](/resume/).
 
 The _hindsight 20/20 storytelling_ goes something like this... but [my meandering career path](/resume/) was anything but planned.
 
@@ -29,6 +29,7 @@ The _hindsight 20/20 storytelling_ goes something like this... but [my meanderin
 * By October 2014, VCE is considered to be the most successful joint venture in IT history. 
 * By 2015, VCE exceeded $3.0 Billion Annual Run Rate and becomes an EMC Company. 
 * In October 2015, Dell and EMC agree to largest merger in IT history for a reported $67 Billion. 
-* Today, I get to serve amazing team members all over the world working at the intersection of technology and human progress.
+* By late 2016, Dell EMC were combined and by 2020 became known as Dell Technologies.
+* In 2020, my time at Dell Technologies ended and I'm on the search my next adventure.
 
 [To be continued...](/resume/)
