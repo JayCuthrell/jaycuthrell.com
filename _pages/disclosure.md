@@ -26,8 +26,6 @@ Any personal profiles on Twitter, LinkedIn, or other services on the Internet ar
 
 ### My Employers, Clients, and Customers
 
-I am presently in a Managing Director role at [Dell Technologies](http://www.delltechnologies.com).
-
 My [CV / resumé is available exclusively on this website](/resume/) where I also link to my LinkedIn profile and a JSON flavored GitHub repository.
 
 ### Startups
