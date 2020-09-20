@@ -97,7 +97,7 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/jaycuthrell"
     - label: "Blog"
-      icon: "fas fa-rss-square"
+      icon: "fas fa-link"
       url: "https://fudge.org"
     - label: "Linkedin"
       icon: "fab fa-linkedin"
