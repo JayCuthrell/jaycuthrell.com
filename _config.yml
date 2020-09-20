@@ -97,11 +97,17 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/jaycuthrell"
     - label: "Blog"
-      icon: "fas fa-rss"
+      icon: "fas fa-rss-square"
       url: "https://fudge.org"
     - label: "Linkedin"
       icon: "fab fa-linkedin"
       url: "https://linkedin.com/in/jaycuthrell"
+    - label: "Phone"
+      icon: "fas fa-mobile-alt"
+      url: "tel:+1-415-763-8343"
+    - label: "Email"
+      icon: "far fa-envelope"
+      url: "mailto:jay@cuthrell.com"
 
 owner:
   avatar: /images/bio-photo.jpg
