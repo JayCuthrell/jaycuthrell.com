@@ -104,10 +104,10 @@ author:
       url: "https://linkedin.com/in/jaycuthrell"
     - label: "Phone"
       icon: "fas fa-mobile-alt"
-      url: "tel:+1-415-763-8343"
+      url: "https://jaycuthrell.com/contact/"
     - label: "Email"
       icon: "far fa-envelope"
-      url: "mailto:jay@cuthrell.com"
+      url: "https://jaycuthrell.com/contact/"
 
 owner:
   avatar: /images/bio-photo.jpg
