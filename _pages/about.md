@@ -6,13 +6,11 @@ title: "About me"
 
 ---
 
-Back in the mid to late 90s the first computers I was paid to work on were made by Dell. IIRC, they were Dell XPS P100 with a Buslogic SCSI card and a DEC Tulip Ethernet card running Slackware and Red Hat Linux.
-
-Most recently, I was in a servant leader role as a [Managing Director at Dell Technologies](/resume/).
-
 The _hindsight 20/20 storytelling_ goes something like this... but [my meandering career path](/resume/) was anything but planned.
 
-* I was born and raised in Beaufort, North Carolina. 
+* I was born and raised in Beaufort, North Carolina.
+* During high school, I landed an Office of Naval Research internship at Duke University Marine Laboratory.
+* Before college, I landed an Department of Energy honors program slot at Argonne National Laboratory.
 * Eventually, I graduated from North Carolina State University with a BS in Materials Science and Engineering. 
 * After my co-op at IBM doing TCP/IP benchmarking in development data centers, I dropped out of graduate school to be a digital nomad. 
 * My first consulting roles involved nascent LAMP stacks for web based OAM&P at Nortel using Dell hardware in production data centers and side-gigs with stealth startups. 
