@@ -26,7 +26,7 @@ Any personal profiles on Twitter, LinkedIn, or other services on the Internet ar
 
 ### My Employers, Clients, and Customers
 
-My [CV / resumé is available exclusively on this website](/resume/) where I also link to my LinkedIn profile and a JSON flavored GitHub repository.
+My [CV / resumé is available exclusively on this website](/resume/) and I may update other formats such as my [LinkedIn profile](https://linkedin.com/in/jaycuthrell) from time to time.
 
 ### Startups
 
