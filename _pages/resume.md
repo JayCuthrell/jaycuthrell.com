@@ -16,125 +16,110 @@ title: "William Jason Cuthrell (Jay)"
 Summary
 =======
 
-It is my mission to delight customers, deliver sustainable sales growth, and provide innovative servant leadership.
+It is my mission to delight customers, deliver sustainable sales growth, and provide innovative servant leadership. I accelerate business by applying rapid growth skill sets, communication skills, and essential relevant technical expertise.
 
 - Extensive customer focus in sales wins, product development, and consulting internationally.
 - Highly sought after public speaker and group discussion leader with analysts and customers. 
 - Held successful CTO, VP, and GM roles in rapid-growth ICT and service provider companies.
+
 
 Career Highlights
 =================
 
 ![Dell Technologies](/images/delltech.jpg) 
 Dell Technologies
-- Managing Director, Engineering Technologists
-   - 2020 – 2020
-   - Tapped as servant leader to help develop the world's best global team of field facing [Engineering Technologists](https://engineeringtechnologists.com) focused on the autonomous infrastructure business. Discussion leader for customer conversations, solutions, strategic alliances, and trusted facilitator in Executive Briefings around the globe as a "virtual road warrior".
 
-- Managing Director, Software Engineering
-   - 2019 – 2020
-   - Managing leader role within new product introduction organization as acting lead for cross-company interlock for Engineering. Acting lead for field planning. Continued role as acting Chief of Staff to support the SVP of Engineering for new product introduction for autonomous infrastructure.
+_Managing Director, Engineering Technologists, New Product Introduction - 2020 – 2020_
+
+_Managing Director, Engineering Interlock, New Product Introduction - 2019 – 2020_
 
 ![Dell EMC](/images/dellemc.jpg) 
 Dell EMC
-- Director and Chief of Staff, Software Engineering
-   - 2018 – 2019
-   - Promoted to serve as a force multiplier for SVP of Engineering for new product introduction. Remapped CTO team into a new product introduction organization. Developed high potential managing leaders at the manager, senior manager, director, and senior director levels to scale the new product introduction for autonomous infrastructure.
-- Director and Chief of Staff, Office of the CTO
-   - 2016 – 2018
-   - Promoted to serve as proxy for SVP & CTO and a force multiplier for President of converged platforms and solutions division as an executive sponsor with key accounts. Key leader engaged for EBC’s winning multiple +$100 Million USD deals. [Extensive travel and speaking responsibilities and analyst interaction at major industry events](/media/).
+
+_Director and Chief of Staff, Software and Platform Engineering, New Product Introduction - 2018 – 2019_
+
+_Director and Chief of Staff, Office of the CTO - 2016 – 2018_
 
 ![EMC](/images/emc.jpg) 
 EMC
-- Director, Office of the CTO
-   - 2015 – 2016
-   - Promoted to focus on futures, cloud technology strategy, and analyst relations (Gartner, IDC, 451 Group, etc.). Key leader engaged for EBC’s winning multiple +$50 Million USD deals for VCE, EMC, and Dell EMC in Top 40 Global accounts. Competitive intelligence, market research, proof of concepts, and pre-sales field enablement. Extensive travel and customer interactions.
+
+_Field CTO, Office of the CTO - 2015 – 2016_
 
 ![VCE](/images/vce.png) 
 VCE
-- Engineering Technologist, Office of the CTO
-   - 2013 – 2015
-   - Promoted during hyper VCE growth period to develop hybrid cloud roadmaps. Key leader engaged for EBC’s winning multiple +$25 Million USD deals for VCE, VMware, Cisco, and EMC. Continued extensive global speaking schedule during period of hyper sales growth.
-- Managing Principal Consultant for for Service Providers Telco Media Entertainment
-   - 2011 – 2012
-   - Promoted to focus on managing VCE continued growth and development of private cloud IaaS global pre-sales engineering team for Service Provider (SP) and Systems Integrator (SI) segments. Key leader engaged for EBC’s winning multiple +$10 Million USD deals for VCE, VMware, Cisco, and EMC. Extensive global speaking schedule during period of explosive sales growth and hiring.
-- Principal Consultant for Service Providers Telco Media Entertainment
-   - 2010 – 2011
-   - Led Acadia/VCE expansion of IaaS private cloud global pre-sales engineering teams. Key leader engaged for winning multiple +$1 Million USD deals for Acadia/VCE, VMware, Cisco, and EMC. Rapidly assimilated onboarding across VMware, Cisco, and EMC to support hiring of new team members.
+
+_Field CTO, Office of the CTO - 2013 – 2015_
+
+_Managing Principal Consultant, Service Providers Telco Media Entertainment - 2011 – 2012_
+
+_Principal Consultant, Service Providers Telco Media Entertainment - 2010 – 2011_
 
 ![cuthrell.com](/images/cuthrellconsulting.png) 
-cuthrell.com
-- CEO and Managing Principal Consultant
-   - 2009 – 2010
-   - Created a profitable consulting practice to provide strategic technology consulting services for cloud service providers, SaaS startups, and investment groups. Trusted proven subject matter expertise and investment analyst support through private consultations for +30 clients internationally. Featured writer for Telecompetitor and ReadWrite.
+Cuthrell Consulting
+
+_Managing Principal Consultant - 2009 – 2010_
 
 ![Digitel](/images/digitel.jpg) 
 Digitel Hosted Network
-- Vice President, General Manager, and Chief Technology Officer
-   - 2007 – 2009
-   - Promoted to parent company CTO and VP/GM of ICT services division. Entrepreneurial VP/GM role with P&L responsibility for ICT and wireless services division. Executed digital transformation to IaaS and SaaS cloud for core business operations.
+
+_Vice President, General Manager, and Chief Technology Officer - 2007 – 2009_
 
 ![NeoNova Network Services](/images/neonova.png) 
 NeoNova Network Services
-- Chief Technology Officer
-   - 2002 – 2007
-   - Change agent and leader in sales, software development, technology, and operations elements of the wholesale turnkey managed service provider backoffice business for telecommunications companies. Executed exit strategy and achieved liquidity event for all team members. Executed technical and business strategy to grow core SaaS business by +1000%.
+
+_Chief Technology Officer - 2002 – 2007_
 
 ![iXL Enterprises Inc.](/images/ixl.png) 
 iXL Enterprises Inc.
-- Senior Infrastructure Architect and Manager of Software and Systems Engineering
-   - 1999 – 2002
-   - iXL -> Scient -> the rest is .com history -> to what is now known as Publicis Groupe. Infrastructure Architect, Manager of Software Engineering, Manager of Systems Engineering, etc... extensive traveling consultations for Fortune 500 engagements and their data centers around the world.
-   - Partial Client List: General Motors, Verisign, Intel, Kraft, MetLife, First Data, IBM, Cisco, HP, Quintiles, Red Hat, Compass Group, NBC, Various eHealth Systems, Various CRO and BioPharma Companies, Various Telecommunications Companies, Various eCommerce Retailers
+
+_Senior Infrastructure Architect and Manager of Software and Systems Engineering - 1999 – 2002_
 
 ![Nortel Networks](/images/nortel.png) 
 Nortel Networks
-- Internet Application Developer
-   - 1997 – 1999
-   - Leader of software development team supporting production tools for data center and early LAMP web based services administration tool design for use by ISP administrators. Streaming server and nascent Internet applications subject matter expert for firewall testing group. Lead team growth of systems and software engineers.
+
+_Internet Application Developer - 1997 – 1999_
 
 ![AIC](/images/aic.jpg) 
 Analysts International Corporation
-- Internet Application Developer
-   - 1996 – 1997
-   - Software development consultant for Nortel Networks. Converted to full time Nortel Netorks employee.
+
+_Internet Application Developer - 1996 – 1997_
 
 ![North Carolina State University College of Engineering](/images/ncsu.png) 
 North Carolina State University College of Engineering
-- Graduate Research Assistant
-   - 1996
-   - Sysadmin for NCSU Department of Materials Science and Engineering on DEC Alpha 250/4-266 (Digital UNIX formerly OSF/1 AXP) and SGI Indigo2-XZ (Irix).
+
+_Graduate Research Assistant - 1996_
 
 ![IBM](/images/ibm.png) 
 IBM
-- Cooperative Education Student
-   - 1995
-   - TCP/IP stack performance tester within the benchmark group for OS/2 Warp Connect and AIX 4.x on x86 and PowerPC platforms operating on Ethernet and Token Ring networks. Maintained TCP/IP products and infrastructure for TCP/IP labs.
+
+_Cooperative Education Student - 1995_
 
 
 Education
 =========
 
-![North Carolina State University College of Engineering](/images/ncsu.png) 
 North Carolina State University College of Engineering
 - Bachelor of Science - BS
 - Materials Science and Engineering
+
 
 Patents
 =======
 
 [US9684539B1](https://patents.google.com/patent/US9684539B1/en) - Methods, systems, and computer readable mediums for logically remediating infrastructure resource components
 
-Licenses & certifications
+
+Licenses & Certifications
 =========================
 
 - INFOSEC Assessment Training and Rating Program (IARTP) National Security Agency (NSA) INFOSEC Assessment Methodology (IAM) - NSA INFOSEC Assessment Training and Rating Program (IARTP)
-- Leadership Track - Dell Technologies
+- Leadership Track (+50 course modules completed) - Dell Technologies
 - Facilitation of Executive Briefings (ABPM) - ABPM (Association of Briefing Program Managers)
 - Class-5 Soft Switch Packet Interface Card for VoIP - Tekelec
 - Class-5 Soft Switch OAM&P - Tekelec
 - Canopy Wireless Broadband Technical Training - Motorola Solutions
 - Weblogic Server Administration - Oracle
+
 
 Skills
 ======
@@ -152,12 +137,14 @@ Skills
 - Strategic Consulting
 - Materials Science
 
+
 Advisory Board Roles
 ====================
 - Racemi Advisory Board ( Exit: DXC )
 - Packet Island Advisory Board ( Exit: BroadSoft / Cisco )
 - AwayFind Advisory Board
 - CommuniGate Customer Advisory Board
+
 
 Honors & Awards
 ================
@@ -187,6 +174,7 @@ Pre-sales wins that I have been involved in span multiple segments such as servi
 My role in the pre-sales process and closing was and is to be a trusted advisor and road warrior aligned to the MEDDIC B2B sales qualification methodology. As a trusted advisor, my role was "soup to nuts" and holistic from qualification to bookings to post-sale "land and expand" account lifecycle management. Specifically, my pre-sales role involved high touch level strategy for credible product positioning, directed competitive analysis, RFx influencing, establishing success criteria for customer acceptance, cross-functional proof of concept test planning, C-level presentation in person in region globally, C-level presentations at executive briefing centers globally, ongoing C-level executive sponsorship 1:1 meetings at conference events, down to specific bill of materials and services contract creation through review and execution during delivery and implementation working with customer advocacy and customer success managers.
 
 Most recently for 2020, my field facing pre-sales role is as a virtual road warrior. As a virtual road warrior the presentation experience now involves use of Zoom, Microsoft Teams, Google Meet, Slack, or Cisco WebEx depending on the customer security posture requirements for virtual executive briefings.
+
 
 Professional Recommendations
 ============================
@@ -227,11 +215,13 @@ how to get there. Jay is on the ball with the news of the day and the trends of 
 _"Jay is one of the strongest and most resourceful leaders I've had the pleasure to work with."_ - Senior Vice President of Engineering, B2B Enterprise Software Company
 
 _"I worked with Jay on assessing the technical capabilities of potential portfolio companies. He demonstrated a unique ability to not only master the complexity of the technologies but also to assess and describe them in plain English to our shareholders."_ - General Partner, VC Fund
+ 
 
 Professional References
 =======================
 
 References available upon request.
+
 
 Role Specific Versions
 ======================
