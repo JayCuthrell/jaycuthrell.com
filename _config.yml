@@ -1,16 +1,25 @@
+theme: jekyll-theme-so-simple
+skin: "/assets/css/skins/default.css"
+locale: "en_US"
+title: "Jay Cuthrell jaycuthrell.com"
 url: "https://jaycuthrell.com"
 absolute_url: "https://jaycuthrell.com"
 baseurl: ""
 name: "Jay Cuthrell"
-title: "jaycuthrell.com"
 description: "jaycuthrell.com"
 logo: "/images/jaycuthrell.jpg"
 search: false 
 search_full_content: true
 read_time: true
-words_per_minute: 100
-locale: "en_US"
+words_per_minute: 200
 location: "USA"
+
+google_fonts:
+  - name: "Source Sans Pro"
+    weights: "400,400i,700,700i"
+  - name: "Lora"
+    weights: "400,400i,700,700i"
+
 
 compress_html:
   clippings: all

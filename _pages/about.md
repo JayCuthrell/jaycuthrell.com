@@ -13,7 +13,7 @@ The _hindsight 20/20 storytelling_ goes something like this... but [my meanderin
 * Before college, I landed an Department of Energy honors program slot at Argonne National Laboratory.
 * Eventually, I graduated from North Carolina State University with a BS in Materials Science and Engineering. 
 * After my co-op at IBM doing TCP/IP benchmarking in development data centers, I dropped out of graduate school to be a digital nomad. 
-* My first consulting roles involved nascent LAMP stacks for web based OAM&P at Nortel using Dell hardware in production data centers and side-gigs with stealth startups. 
+* My first consulting roles involved nascent LAMP stacks for web based OAM&P at Nortel in both development and production data centers and side-gigs with stealth startups. 
 * By 1999, I was consulting at Fortune 500 companies while managing software engineers and infrastructure architects for boutique .com consulting firms in state of the art production data centers, peering points, and colo's around the globe. 
 * By 2002, I was hired as CTO at NeoNova to digitally transform and grow a business that manages Internet services and data centers for telecommunications companies.
 * By 2007, I was hired as VP, GM, and CTO at Digitel to digitally transform and grow a business that manages converged voice and data services in peering points and data centers for VARs. 
