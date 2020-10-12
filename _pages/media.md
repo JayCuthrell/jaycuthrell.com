@@ -49,7 +49,7 @@ Over the years I've collected a few digital mementos to compliment the physical 
 
 (Partial List)
 
-- Over 100 Executive Briefings as of 2020
+- Over 200 Executive Briefings as of 2020
 - Gartner Symposium, 2017, 2012
 - VMworld, 2016, 2015, 2014, 2012
 - Cisco Live, 2016
