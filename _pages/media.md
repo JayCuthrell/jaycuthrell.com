@@ -14,7 +14,6 @@ Over the years I've collected a few digital mementos to compliment the physical 
 - [fudge.org](https://fudge.org)
 - [ReadWrite](https://readwrite.com/author/jay-cuthrell)
 - [Telecompetitor](https://www.telecompetitor.com/author/jcuthrell/)
-- [Dell EMC Community Network](https://community.emc.com/blogs/jay.cuthrell/)
 - [Direct2DellEMC](https://blog.dellemc.com/en-us/author/jay-cuthrell/)
 
 ### Quoted Articles
