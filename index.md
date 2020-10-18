@@ -6,7 +6,7 @@ permalink: /
 
 ---
 
-[Servant Leader](/resume/) | [Corporate Free Safety](/resume/) | [ CEO / CRO / CPO / CMO / CSO / CTO / VP / GM](/resume/) 
+[Servant Leader](/resume/) | [Corporate Free Safety](/resume/) | [CEO / CRO / CPO / CMO / CSO / CTO](/resume/) 
 
 William J. Cuthrell (Jay) is an innovative technology executive and sought after servant leader. He is a prolific influencer and author, capable of communicating with ease at C-suite and practitioner levels across both traditional and emerging mediums on digital transformation strategy in holistic full stack engagements. His passion is taking vision from strategy to reality to become growth engines. Jay’s expertise demonstrated through strong growth and change cycles provides a unique perspective into the future of the technology industry. 
 
