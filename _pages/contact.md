@@ -18,11 +18,6 @@ I use phone, SMS, email, and video conference apps but prefer to establish a sec
 - Email [jay@cuthrell.com](mailto:jay@cuthrell.com?SUBJECT=2020+via+jaycuthrell.com)
 - Zoom and Google Meet via Calendly [https://calendly.com/jaycuthrell](https://calendly.com/jaycuthrell)
 
-<!-- Calendly inline widget begin -->
-<div class="calendly-inline-widget" data-url="https://calendly.com/jaycuthrell/15min?hide_event_type_details=1&hide_gdpr_banner=1" style="min-width:320px;height:950px;"></div>
-<script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js"></script>
-<!-- Calendly inline widget end -->
-
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 Comment: https://keybase.io/download
