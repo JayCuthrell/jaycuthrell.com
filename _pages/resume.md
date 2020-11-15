@@ -74,26 +74,6 @@ iXL Enterprises Inc.
 
 _Senior Infrastructure Architect and Manager of Software and Systems Engineering - 1999 – 2002_
 
-![Nortel Networks](/images/nortel.png) 
-Nortel Networks
-
-_Internet Application Developer - 1997 – 1999_
-
-![AIC](/images/aic.jpg) 
-Analysts International Corporation
-
-_Internet Application Developer - 1996 – 1997_
-
-![North Carolina State University College of Engineering](/images/ncsu.png) 
-North Carolina State University College of Engineering
-
-_Graduate Research Assistant - 1996_
-
-![IBM](/images/ibm.png) 
-IBM
-
-_Cooperative Education Student - 1995_
-
 
 Education
 =========
