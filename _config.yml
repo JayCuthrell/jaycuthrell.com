@@ -26,7 +26,7 @@ compress_html:
   startings: [html, head, body]
 
 analytics: 
-  provider: custom
+  provider: google
 
 bing_site_verification: "0081F9215265B8A63E46065BC9F094FA"
 google_site_verification: "kRIQtgrJdRIqXieQD4fef0H2A-ejkIayF78XcMBjUbI"
