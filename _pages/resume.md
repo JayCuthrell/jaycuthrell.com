@@ -29,50 +29,26 @@ Career Highlights
 ![Dell Technologies](/images/delltech.jpg) 
 Dell Technologies
 
-_Managing Director, Engineering Technologists, New Product Introduction - 2020 – 2020_
-
-_Managing Director, Engineering Interlock, New Product Introduction - 2019 – 2020_
-
 ![Dell EMC](/images/dellemc.jpg) 
 Dell EMC
-
-_Director and Chief of Staff, Software and Platform Engineering, New Product Introduction - 2018 – 2019_
-
-_Director and Chief of Staff, Office of the CTO - 2016 – 2018_
 
 ![EMC](/images/emc.jpg) 
 EMC
 
-_Field CTO, Office of the CTO - 2015 – 2016_
-
 ![VCE](/images/vce.png) 
 VCE
-
-_Field CTO, Office of the CTO - 2013 – 2015_
-
-_Managing Principal Consultant, Service Providers Telco Media Entertainment - 2011 – 2012_
-
-_Principal Consultant, Service Providers Telco Media Entertainment - 2010 – 2011_
 
 ![cuthrell.com](/images/cuthrellconsulting.png) 
 Cuthrell Consulting
 
-_Managing Principal Consultant - 2009 – 2010_
-
 ![Digitel](/images/digitel.jpg) 
 Digitel Hosted Network
-
-_Vice President, General Manager, and Chief Technology Officer - 2007 – 2009_
 
 ![NeoNova Network Services](/images/neonova.png) 
 NeoNova Network Services
 
-_Chief Technology Officer - 2002 – 2007_
-
 ![iXL Enterprises Inc.](/images/ixl.png) 
 iXL Enterprises Inc.
-
-_Senior Infrastructure Architect and Manager of Software and Systems Engineering - 1999 – 2002_
 
 
 Education
