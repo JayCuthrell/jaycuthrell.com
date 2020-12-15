@@ -15,7 +15,8 @@ There are many ways to contact me. This page updates as my [preferred methods ev
 
 I use phone, SMS, email, and video conference apps but prefer to establish a second channel from the list above.
 - Call or text [+1-415-763-8343](tel:1-415-763-8343)
-- Email [jay@cuthrell.com](mailto:jay@cuthrell.com?SUBJECT=2020+via+jaycuthrell.com)
+- Personal Email [jay@cuthrell.com](mailto:jay@cuthrell.com?SUBJECT=2020+via+jaycuthrell.com)
+- Work Email [jay.cuthrell@factioninc.com](mailto:jay.cuthrell@factioninc.com?SUBJECT=2020+via+jaycuthrell.com)
 - Zoom and Google Meet via Calendly [https://calendly.com/jaycuthrell](https://calendly.com/jaycuthrell)
 
 ```
