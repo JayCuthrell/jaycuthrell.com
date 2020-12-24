@@ -26,6 +26,9 @@ It is my mission to delight customers, deliver sustainable sales growth, and pro
 Career Highlights
 =================
 
+![Faction](/images/faction.jpg) 
+Faction
+
 ![Dell Technologies](/images/delltech.jpg) 
 Dell Technologies
 
