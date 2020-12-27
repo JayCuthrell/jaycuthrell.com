@@ -7,6 +7,7 @@ title: "Media"
 
 Over the years I've collected a few digital mementos to compliment the physical mementos I've lost in various relocations for [my career](/resume/). Below are samples of my writing, presentations, speaking, interviews, and possibly political aspiration limiting corporate videos. :smile:
 
+* TOC 
 {:toc}
 
 ### Writing and Blogging Samples
