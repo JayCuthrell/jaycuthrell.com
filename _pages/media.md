@@ -58,6 +58,7 @@ Over the years I've collected a few digital mementos to compliment the physical 
 - Cisco Live, 2016
 - EMC World, 2015
 - Switch SUPERNAP InNEVation Series, 2015
+- Chicago VMware User Group (VMUG), 2013
 - Montana.Gov IT Conference, 2013
 - Montana Telecom Conference, 2013
 - Capital Group Tech Expo, 2013
