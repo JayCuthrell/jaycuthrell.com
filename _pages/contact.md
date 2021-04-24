@@ -8,17 +8,22 @@ keywords: "4157638343 415.763.8343 415-763-8343 +1-415-763-8343 (415)763-8343 @j
 
 ---
 
-There are many ways to contact me. This page updates as my [preferred methods evolve](https://ssd.eff.org/en). 
+There are many ways to contact me. This page updates as my [preferred methods evolve](https://ssd.eff.org/en).
+
 - I use and _prefer_ [Keybase](https://keybase.io/download). Search for [jaycuthrell](https://keybase.io/jaycuthrell).
 - I also use [Signal](https://signal.org/install/). Search for +1-415-763-8343.
 - I also use [Tails](https://tails.boum.org/about/index.en.html), [Heads](https://heads.dyne.org/about.html), [Whonix](https://www.whonix.org/wiki/Main_Page), and [Hidden VM](https://github.com/aforensics/HiddenVM).
 
 I use phone, SMS, email, and video conference apps but prefer to establish a second channel from the list above.
-- Personal Mobile [+1-415-763-8343](tel:1-415-763-8343)
-- Personal Email [jay@cuthrell.com](mailto:jay@cuthrell.com?SUBJECT=2020+via+jaycuthrell.com)
-- Work Phone [+1-303-532-4734 #3034](tel:1-303-532-4734,3034)
-- Work Email [jay.cuthrell@factioninc.com](mailto:jay.cuthrell@factioninc.com?SUBJECT=2020+via+jaycuthrell.com)
-- Work Meeting Request [https://meetings.grooveapp.com/jay-cuthrell](https://meetings.grooveapp.com/jay-cuthrell)
+
+- Personal 
+   - Personal Mobile [+1-415-763-8343](tel:1-415-763-8343)
+   - Personal Email [jay@cuthrell.com](mailto:jay@cuthrell.com?SUBJECT=2021+via+jaycuthrell.com)
+   - Personal Meeting Request [https://calendly.com/jaycuthrell](https://calendly.com/jaycuthrell)
+- Work
+   - Work Phone [+1-303-532-4734 #3034](tel:1-303-532-4734,3034)
+   - Work Email [jay.cuthrell@factioninc.com](mailto:jay.cuthrell@factioninc.com?SUBJECT=2021+via+jaycuthrell.com)
+   - Work Meeting Request [https://meetings.grooveapp.com/jay-cuthrell](https://meetings.grooveapp.com/jay-cuthrell)
 
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
