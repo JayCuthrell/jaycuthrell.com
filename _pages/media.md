@@ -90,6 +90,10 @@ Over the years I've collected a few digital mementos to compliment the physical 
 
 (Partial List)
 
+#### Supporting Data and Analytics Infrastructure, Tools, and Strategies That Drive Innovation 2020
+
+<iframe width="300" height="168" src="https://www.youtube.com/embed/jasHUs42UjU?start=525" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 #### Gartner I&O Data Center 2017
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/GartnerIO?src=hash&amp;ref_src=twsrc%5Etfw">#GartnerIO</a> was a blast last week! Hear three things <a href="https://twitter.com/JayCuthrell?ref_src=twsrc%5Etfw">@JayCuthrell</a> learned this year. What did you learn? <a href="https://t.co/Zbid0oHCtg">pic.twitter.com/Zbid0oHCtg</a></p>&mdash; Dell EMC Converged (@DellEMC_CI) <a href="https://twitter.com/DellEMC_CI/status/939549288975265792?ref_src=twsrc%5Etfw">December 9, 2017</a></blockquote>
