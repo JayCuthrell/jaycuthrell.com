@@ -90,7 +90,7 @@ Over the years I've collected a few digital mementos to compliment the physical 
 
 (Partial List)
 
-#### Supporting Data and Analytics Infrastructure, Tools, and Strategies That Drive Innovation 2020
+#### EcoCast Data Analytics Strategies 2020
 
 <iframe width="300" height="168" src="https://www.youtube.com/embed/jasHUs42UjU?start=525" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
