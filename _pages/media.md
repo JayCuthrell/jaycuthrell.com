@@ -18,6 +18,7 @@ Over the years I've collected a few digital mementos to compliment the physical 
 - [ReadWrite](https://readwrite.com/author/jay-cuthrell)
 - [Telecompetitor](https://www.telecompetitor.com/author/jcuthrell/)
 - [Direct2DellEMC](https://blog.dellemc.com/en-us/author/jay-cuthrell/)
+- [TechNative](https://technative.io/the-path-to-multi-cloud-how-converging-technologies-and-innovations-require-multi-cloud-strategy/)
 
 ### Quoted Articles
 
