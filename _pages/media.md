@@ -14,11 +14,11 @@ Over the years I've collected a few digital mementos to compliment the physical 
 
 (Partial List)
 
-- [fudge.org](https://fudge.org)
-- [ReadWrite](https://readwrite.com/author/jay-cuthrell)
-- [Telecompetitor](https://www.telecompetitor.com/author/jcuthrell/)
-- [Direct2DellEMC](https://blog.dellemc.com/en-us/author/jay-cuthrell/)
-- [TechNative](https://technative.io/the-path-to-multi-cloud-how-converging-technologies-and-innovations-require-multi-cloud-strategy/)
+- [fudge.org](https://fudge.org), 1998 to Present
+- [Direct2DellEMC](https://blog.dellemc.com/en-us/author/jay-cuthrell/), 2010 to 2020
+- [ReadWrite](https://readwrite.com/author/jay-cuthrell), 2010
+- [Telecompetitor](https://www.telecompetitor.com/author/jcuthrell/), 2009 to 2010
+
 
 ### Quoted Articles
 
@@ -43,10 +43,10 @@ Over the years I've collected a few digital mementos to compliment the physical 
 
 (Partial List)
 
-- [Slideshare "2010: A Service Odyssey"](https://www.slideshare.net/JayCuthrell/2010-a-service-provider-odyssey-150063447)
-- [Multi-format "2015: The 5 P's of Workloads"](https://fudge.org/The-5-P's-of-Workloads)
-- [Multi-format "2017: On Twitter, Big Data, Governance, and Innovation"](https://fudge.org/on-twitter/)
-- [Video "2017: Figuring Out Your IT Transformation Path When Once Size Does Not Fit All"](https://gartner.mediasite.com/Mediasite/Play/0cb97eb8bc474bc0ae380dd9e6f2e6ab1d)
+- [Multi-format "2017: On Twitter, Big Data, Governance, and Innovation"](https://fudge.org/on-twitter/), 2017
+- [Video "2017: Figuring Out Your IT Transformation Path When Once Size Does Not Fit All"](https://gartner.mediasite.com/Mediasite/Play/0cb97eb8bc474bc0ae380dd9e6f2e6ab1d), 2017
+- [Multi-format "2015: The 5 P's of Workloads"](https://fudge.org/The-5-P's-of-Workloads), 2015
+- [Slideshare "2010: A Service Odyssey"](https://www.slideshare.net/JayCuthrell/2010-a-service-provider-odyssey-150063447), 2010
 
 ### Speaking and Industry Event Presentations
 
@@ -100,10 +100,6 @@ Over the years I've collected a few digital mementos to compliment the physical 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/GartnerIO?src=hash&amp;ref_src=twsrc%5Etfw">#GartnerIO</a> was a blast last week! Hear three things <a href="https://twitter.com/JayCuthrell?ref_src=twsrc%5Etfw">@JayCuthrell</a> learned this year. What did you learn? <a href="https://t.co/Zbid0oHCtg">pic.twitter.com/Zbid0oHCtg</a></p>&mdash; Dell EMC Converged (@DellEMC_CI) <a href="https://twitter.com/DellEMC_CI/status/939549288975265792?ref_src=twsrc%5Etfw">December 9, 2017</a></blockquote>
 
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-#### Gartner Symposium ITXPO 2017
-
-<iframe width="300" height="168" frameborder="0" scrolling="auto" marginheight="0" marginwidth="0" src="https://gartner.mediasite.com/Mediasite/Play/0cb97eb8bc474bc0ae380dd9e6f2e6ab1d"></iframe>
 
 #### Quali Systems Interview Cisco Live 2014
 
