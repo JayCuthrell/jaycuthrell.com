@@ -71,13 +71,14 @@ Patents
 Licenses & Certifications
 =========================
 
-- INFOSEC Assessment Training and Rating Program (IARTP) National Security Agency (NSA) INFOSEC Assessment Methodology (IAM) - NSA INFOSEC Assessment Training and Rating Program (IARTP)
+
 - Leadership Track (+50 course modules completed) - Dell Technologies
 - Facilitation of Executive Briefings (ABPM) - ABPM (Association of Briefing Program Managers)
 - Class-5 Soft Switch Packet Interface Card for VoIP - Tekelec
 - Class-5 Soft Switch OAM&P - Tekelec
 - Canopy Wireless Broadband Technical Training - Motorola Solutions
 - Weblogic Server Administration - Oracle
+- INFOSEC Assessment Training and Rating Program (IARTP) National Security Agency (NSA) INFOSEC Assessment Methodology (IAM)
 
 
 Skills
@@ -128,7 +129,7 @@ Honors & Awards
 Pre-Sales and Field CTO Summary
 ===============================
 
-Pre-sales wins that I have been involved in span multiple segments such as service providers (telco, media, entertainment, IaaS, PaaS, SaaS), independent software vendors (ISVs), independent hardware vendors (IHVs), systems integrators, various federal governments, United States SLED, various military, and various enterprise verticals. Types of enterprise wins I have been involved in include utilities, legal, construction, mining, manufacturing, finance, insurance, healthcare, textiles, automotive, retail, and more. [An abbreviated sample of publicly referenceable customers may be available online](https://www.delltechnologies.com/en-us/converged-infrastructure/customers/index.htm). 
+Pre-sales wins that I have been involved in span multiple segments such as service providers (telco, media, entertainment, IaaS, PaaS, SaaS), independent software vendors (ISVs), independent hardware vendors (IHVs), systems integrators, various federal governments, United States SLED, various military, and various enterprise verticals. Types of enterprise wins I have been involved in include utilities, legal, construction, mining, manufacturing, finance, insurance, healthcare, textiles, automotive, retail, and more. 
 
 My role in the pre-sales process and closing was and is to be a trusted advisor and road warrior aligned to the MEDDIC B2B sales qualification methodology. As a trusted advisor, my role was "soup to nuts" and holistic from qualification to bookings to post-sale "land and expand" account lifecycle management. Specifically, my pre-sales role involved high touch level strategy for credible product positioning, directed competitive analysis, RFx influencing, establishing success criteria for customer acceptance, cross-functional proof of concept test planning, C-level presentation in person in region globally, C-level presentations at executive briefing centers globally, ongoing C-level executive sponsorship 1:1 meetings at conference events, down to specific bill of materials and services contract creation through review and execution during delivery and implementation working with customer advocacy and customer success managers.
 
