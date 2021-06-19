@@ -42,6 +42,37 @@ I may actively trade in the stock market. When I produce content on this website
 
 I invest primarily in mutual funds and index funds but may also participate in automatic rebalancing services such as Wealthfront. If you are interested, this [Wealthfront invitation referral link](http://wlth.fr/1RjvsX3) may provide you with a discount and/or advisory fee relief in addition to lowering my own advisory fees. Be sure to read all the fine print from [Wealthfront disclosures](https://www.wealthfront.com/legal/disclosure) (as of May 2015) therein. YMMV.
 
+I currently hold these public stocks (in alphabetical order):
+
+```
+AAPL
+AMZN
+AVGO
+CHWY
+COR
+CRM
+DDOG
+DELL
+DLR
+EBAY
+EQIX
+GOOG
+MSFT
+NFLX
+OKTA
+PANW
+PING
+QCOM
+RBLX
+SNAP
+SNOW
+SPLK
+TSLA
+TWLO
+TWTR
+UPS
+```
+
 I’ll spare you the reporting on how my portfolio is doing. I’m not an investment professional. Do your own homework and remember that everything you are reading here and elsewhere from me does not constitute investment advice in any way shape or form.
 
 ### Gifts and Advertising
