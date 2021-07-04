@@ -58,6 +58,7 @@ EBAY
 EQIX
 GOOG
 MSFT
+MU
 NFLX
 OKTA
 PANW
@@ -71,6 +72,7 @@ TSLA
 TWLO
 TWTR
 UPS
+XMTR
 ```
 
 I’ll spare you the reporting on how my portfolio is doing. I’m not an investment professional. Do your own homework and remember that everything you are reading here and elsewhere from me does not constitute investment advice in any way shape or form.
