@@ -5,7 +5,7 @@ title: "Media"
 
 ---
 
-Over the years I've collected a few digital mementos to compliment the physical mementos I've lost in various relocations for [my career](/resume/). Below are samples of my writing, presentations, speaking, interviews, and possibly political aspiration limiting corporate videos. :smile:
+Over the years I've collected a few digital mementos to compliment the physical mementos I've lost in various relocations for [my career](/resume/). Below are samples of my writing, presentations, speaking, interviews, and possibly political aspiration limiting corporate videos. This list will vary from periodic edits and the pernicious eventuality of link rot. :smile:
 
 * TOC 
 {:toc}
@@ -44,8 +44,9 @@ Over the years I've collected a few digital mementos to compliment the physical 
 
 (Partial List)
 
-- [Multi-format "2017: On Twitter, Big Data, Governance, and Innovation"](https://fudge.org/on-twitter/), 2017
-- [Multi-format "2015: The 5 P's of Workloads"](https://fudge.org/The-5-P's-of-Workloads), 2015
+Note: These were presented by [a very enthusiastic consultant](https://cuthrell.com) on the very far end of a mostly empty building on the EMC campus in Hopkinton MA circa 2010 to the Acadia.com and Virtual Computing Environment coalition team members badged as VMware, Cisco, and EMC for what would eventually become known as [VCE](https://en.wikipedia.org/wiki/VCE_(company))
+
+- [Slideshare "2010: Private Clouds for Service Providers"](https://www.slideshare.net/JayCuthrell/acadia-final-pitch-private-clouds-for-service-providers-2010), 2010
 - [Slideshare "2010: A Service Odyssey"](https://www.slideshare.net/JayCuthrell/2010-a-service-provider-odyssey-150063447), 2010
 
 ### Speaking and Industry Event Presentations
@@ -54,7 +55,8 @@ Over the years I've collected a few digital mementos to compliment the physical 
 
 - Over 200 Executive Briefings as of 2021
 - IT Renovation Day, 2021
-- EcoCast 2020, 2021
+- Transforming Data with Intelligence, 2021
+- EcoCast 2021
 - Facilitation of Executive Briefings - Association of Briefing Program Managers (ABPM), 2018
 - Gartner Symposium, 2017, 2012
 - VMworld, 2016, 2015, 2014, 2012
@@ -93,7 +95,7 @@ Over the years I've collected a few digital mementos to compliment the physical 
 
 (Partial List)
 
-#### EcoCast Data Analytics Strategies 2020
+#### EcoCast Data Analytics Strategies 2021
 
 <iframe width="300" height="168" src="https://www.youtube.com/embed/jasHUs42UjU?start=525" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -102,10 +104,6 @@ Over the years I've collected a few digital mementos to compliment the physical 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/GartnerIO?src=hash&amp;ref_src=twsrc%5Etfw">#GartnerIO</a> was a blast last week! Hear three things <a href="https://twitter.com/JayCuthrell?ref_src=twsrc%5Etfw">@JayCuthrell</a> learned this year. What did you learn? <a href="https://t.co/Zbid0oHCtg">pic.twitter.com/Zbid0oHCtg</a></p>&mdash; Dell EMC Converged (@DellEMC_CI) <a href="https://twitter.com/DellEMC_CI/status/939549288975265792?ref_src=twsrc%5Etfw">December 9, 2017</a></blockquote>
 
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-#### Quali Systems Interview Cisco Live 2014
-
-<iframe width="300" height="168" src="https://www.youtube.com/embed/w0MK0XqgNvU?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 #### Oracle OpenWorld 2013 - theCUBE
 
@@ -134,8 +132,6 @@ Over the years I've collected a few digital mementos to compliment the physical 
 ### Speaking Photos
 
 (Partial List)
-
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Another great <a href="https://twitter.com/DellEMC?ref_src=twsrc%5Etfw">@DellEMC</a> briefing experience - fun watching experts like <a href="https://twitter.com/JayCuthrell?ref_src=twsrc%5Etfw">@JayCuthrell</a> educate customers!<a href="https://twitter.com/hashtag/BetterTogether?src=hash&amp;ref_src=twsrc%5Etfw">#BetterTogether</a> <a href="https://t.co/29GhfonzBG">pic.twitter.com/29GhfonzBG</a></p>&mdash; Brian Carpenter (@intheDC) <a href="https://twitter.com/intheDC/status/790583790808686593?ref_src=twsrc%5Etfw">October 24, 2016</a></blockquote>
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/JayCuthrell?ref_src=twsrc%5Etfw">@JayCuthrell</a> kicks off his <a href="https://twitter.com/hashtag/BigData?src=hash&amp;ref_src=twsrc%5Etfw">#BigData</a> talk while we enjoy <a href="https://twitter.com/shakeshack?ref_src=twsrc%5Etfw">@SHAKESHACK</a> @ our luncheon <a href="https://twitter.com/hashtag/VegasTech?src=hash&amp;ref_src=twsrc%5Etfw">#VegasTech</a> <a href="http://t.co/Qb2UbQeQ2C">http://t.co/Qb2UbQeQ2C</a> <a href="http://t.co/0SzORoN4z9">pic.twitter.com/0SzORoN4z9</a></p>&mdash; Innevation (@Innevation) <a href="https://twitter.com/Innevation/status/560895041179516928?ref_src=twsrc%5Etfw">January 29, 2015</a></blockquote>
 
