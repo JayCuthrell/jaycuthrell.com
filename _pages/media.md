@@ -15,6 +15,7 @@ Over the years I've collected a few digital mementos to compliment the physical 
 (Partial List)
 
 - [fudge.org](https://fudge.org), 1998 to Present
+- [Fudge Sunday Newsletter](https://sunday.fudge.org), 2019 to Present
 - [Direct2DellEMC](https://blog.dellemc.com/en-us/author/jay-cuthrell/), 2010 to 2020
 - [ReadWrite](https://readwrite.com/author/jay-cuthrell), 2010
 - [Telecompetitor](https://www.telecompetitor.com/author/jcuthrell/), 2009 to 2010
@@ -44,7 +45,6 @@ Over the years I've collected a few digital mementos to compliment the physical 
 (Partial List)
 
 - [Multi-format "2017: On Twitter, Big Data, Governance, and Innovation"](https://fudge.org/on-twitter/), 2017
-- [Video "2017: Figuring Out Your IT Transformation Path When Once Size Does Not Fit All"](https://gartner.mediasite.com/Mediasite/Play/0cb97eb8bc474bc0ae380dd9e6f2e6ab1d), 2017
 - [Multi-format "2015: The 5 P's of Workloads"](https://fudge.org/The-5-P's-of-Workloads), 2015
 - [Slideshare "2010: A Service Odyssey"](https://www.slideshare.net/JayCuthrell/2010-a-service-provider-odyssey-150063447), 2010
 
@@ -52,7 +52,9 @@ Over the years I've collected a few digital mementos to compliment the physical 
 
 (Partial List)
 
-- Over 200 Executive Briefings as of 2020
+- Over 200 Executive Briefings as of 2021
+- IT Renovation Day 2021
+- EcoCast 2020, 2021
 - Facilitation of Executive Briefings - Association of Briefing Program Managers (ABPM), 2018
 - Gartner Symposium, 2017, 2012
 - VMworld, 2016, 2015, 2014, 2012
