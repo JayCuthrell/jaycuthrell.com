@@ -53,7 +53,7 @@ Over the years I've collected a few digital mementos to compliment the physical 
 (Partial List)
 
 - Over 200 Executive Briefings as of 2021
-- IT Renovation Day 2021
+- IT Renovation Day, 2021
 - EcoCast 2020, 2021
 - Facilitation of Executive Briefings - Association of Briefing Program Managers (ABPM), 2018
 - Gartner Symposium, 2017, 2012
