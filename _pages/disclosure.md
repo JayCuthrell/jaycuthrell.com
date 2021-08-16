@@ -10,6 +10,9 @@ Here are my disclosures that I make reasonable attempts to keep current. While I
 
 In general, the words, images, or what can be summed up as a variety of purposeful output found at this website and elsewhere on the Internets are my opinions. These momentary captures of the vortex of consciousness and mutable communications reflect my opinions and not those of anything or anyone else. That’s what many folks like to call a disclaimer. This disclaimer is mine. It’s pretty fancy if I do say so myself. Which I just did.
 
+* TOC 
+{:toc}
+
 ### Content
 
 This is my primary personal website and other variations elsewhere on the Internet are non-authoritative and considered deprecated.
