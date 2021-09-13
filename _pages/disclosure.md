@@ -43,7 +43,7 @@ With all startups I advise, the equity I have is commensurate with my involvemen
 
 I may actively trade in the stock market. When I produce content on this website I will disclose my position or interest in reference by linking to this positions statement. 
 
-I invest primarily in mutual funds and index funds but may also participate in automatic rebalancing services such as Wealthfront. If you are interested, this [Wealthfront invitation referral link](http://wlth.fr/1RjvsX3) may provide you with a discount and/or advisory fee relief in addition to lowering my own advisory fees. Be sure to read all the fine print from [Wealthfront disclosures](https://www.wealthfront.com/legal/disclosure) (as of May 2015) therein. YMMV.
+I invest primarily in a variety of funds that may include environmental, social and governance factors oriented funds such as ([SHE](https://www.ssga.com/us/en/intermediary/etfs/funds/spdr-ssga-gender-diversity-index-etf-she)) but may also participate in automatic rebalancing services such as Wealthfront. If you are interested, this [Wealthfront invitation referral link](http://wlth.fr/1RjvsX3) may provide you with a discount and/or advisory fee relief in addition to lowering my own advisory fees. Be sure to read all the fine print from [Wealthfront disclosures](https://www.wealthfront.com/legal/disclosure) (as of May 2015) therein. YMMV.
 
 I currently hold these public stocks (in alphabetical order):
 
@@ -58,10 +58,12 @@ ASAN
 ATVI
 AVGO
 AXP
+AYX
 AZO
 BASE
 BILL
 BOX
+CBRE
 CFLT
 CHKP
 CHWY
@@ -86,16 +88,19 @@ DT
 EBAY
 EQIX
 FIVN
+FROG
 FSLY
 FTNT
 GOOG
 HLT
+HUBS
 IRM
 JAMF
 KNBE
 LYFT
 MA
 MAR
+MDB
 ME
 MNDY
 MNTV
@@ -104,11 +109,13 @@ MU
 NET
 NFLX
 NOW
+NVDA
 OKTA
 OMCL
 PANW
 PATH
 PCTY
+PD
 PING
 PLTR
 PYPL
@@ -125,6 +132,9 @@ SPLK
 SPOT
 SPRT
 SPT
+SQ
+SUMO
+SWCH
 TDY
 TEAM
 TENB
@@ -148,7 +158,6 @@ XMTR
 XPEL
 ZM
 ZS
-
 
 
 I’ll spare you the reporting on how my portfolio is doing. I’m not an investment professional. Do your own homework and remember that everything you are reading here and elsewhere from me does not constitute investment advice in any way shape or form.
