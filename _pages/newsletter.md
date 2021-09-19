@@ -11,7 +11,7 @@ title: "Subscribe to my newsletter"
 Start the week more informed than the week before.
 
 <div id="revue-embed">
-  <form action="http://sunday.fudge.org/add_subscriber" method="post" id="revue-form" name="revue-form"  target="_blank">
+  <form action="https://sunday.fudge.org/add_subscriber" method="post" id="revue-form" name="revue-form"  target="_blank">
   <div class="revue-form-group">
     <label for="member_email">Email address</label>
     <input class="revue-form-field" placeholder="Your email address..." type="email" name="member[email]" id="member_email">
