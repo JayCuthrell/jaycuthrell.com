@@ -35,7 +35,9 @@ Or, complete the form below:
   </form>
 </div>
 
-
+- [Fudge Sunday - Cloud in Public: DevCommsOps](https://www.getrevue.co/profile/jaycuthrell/issues/fudge-sunday-cloud-in-public-devcommsops-805563) 2021 Oct 18
+- [Fudge Sunday - Cloud in Public: Engineering SLO](https://www.getrevue.co/profile/jaycuthrell/issues/fudge-sunday-cloud-in-public-engineering-slo-794553) 2021 Oct 11
+- [Fudge Sunday - Cloud in Public: Status Dashboards](https://www.getrevue.co/profile/jaycuthrell/issues/fudge-sunday-cloud-in-public-status-dashboards-783150) 2021 Oct 03
 - [Fudge Sunday - Razor Thin Margins of Error Bars](https://www.getrevue.co/profile/jaycuthrell/issues/fudge-sunday-razor-thin-margins-of-error-bars-772573) 2021 Sep 26
 - [Fudge Sunday - MultiCloudWashing Detergent](https://www.getrevue.co/profile/jaycuthrell/issues/fudge-sunday-multicloudwashing-detergent-762371) 2021 Sep 20
 - [Fudge Sunday - Betting Odds and Ends Justify the Means of Production](https://www.getrevue.co/profile/jaycuthrell/issues/fudge-sunday-betting-odds-and-ends-justify-the-means-of-production-752134) 2021 Sep 13
@@ -67,3 +69,4 @@ Or, complete the form below:
 - [Fudge Sunday - Quantum Leap Years](https://www.getrevue.co/profile/jaycuthrell/issues/fudge-sunday-quantum-leap-years-162530) 2019 Mar 04
 - [Fudge Sunday -  What Happens in Augmented Reality Stays in Augmented Reality](https://www.getrevue.co/profile/jaycuthrell/issues/fudge-sunday-what-happens-in-augmented-reality-stays-in-augmented-reality-161204) 2019 Feb 25
 - [Fudge Sunday - Issue #1](https://www.getrevue.co/profile/jaycuthrell/issues/fudge-sunday-issue-1-161193) 2019 Feb 17
+
