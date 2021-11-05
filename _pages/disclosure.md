@@ -47,7 +47,6 @@ I invest primarily in a variety of funds that may include environmental, social 
 
 I currently hold these public stocks (in alphabetical order):
 
-
 AAPL
 ABNB
 ADBE
@@ -73,7 +72,6 @@ COUP
 COUR
 CRM
 CRWD
-CSOD
 CXM
 DAL
 DDOG
@@ -118,6 +116,7 @@ PATH
 PCTY
 PD
 PING
+PLAN
 PLTR
 PYPL
 QCOM
@@ -158,7 +157,6 @@ XMTR
 XPEL
 ZM
 ZS
-
 
 I’ll spare you the reporting on how my portfolio is doing. I’m not an investment professional. Do your own homework and remember that everything you are reading here and elsewhere from me does not constitute investment advice in any way shape or form.
 
