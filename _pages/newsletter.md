@@ -12,29 +12,11 @@ _Start the week more informed than the week before._
 
 Please subscribe here: [sunday.fudge.org](https://sunday.fudge.org)
 
-Or, complete the form below:
+Or, read a few newsletter issues first:
 
-<div id="revue-embed">
-  <form action="https://sunday.fudge.org/add_subscriber" method="post" id="revue-form" name="revue-form"  target="_blank">
-  <div class="revue-form-group">
-    <label for="member_email">Email address</label>
-    <input class="revue-form-field" placeholder="Your email address..." type="email" name="member[email]" id="member_email">
-  </div>
-  <div class="revue-form-group">
-    <label for="member_first_name">First name <span class="optional">(Optional)</span></label>
-    <input class="revue-form-field" placeholder="First name... (Optional)" type="text" name="member[first_name]" id="member_first_name">
-  </div>
-  <div class="revue-form-group">
-    <label for="member_last_name">Last name <span class="optional">(Optional)</span></label>
-    <input class="revue-form-field" placeholder="Last name... (Optional)" type="text" name="member[last_name]" id="member_last_name">
-  </div>
-  <div class="revue-form-actions">
-    <input type="submit" value="Subscribe" name="member[subscribe]" id="member_submit">
-  </div>
-  <div class="revue-form-footer">By subscribing, you agree with Revue’s <a target="_blank" href="https://www.getrevue.co/terms">Terms of Service</a> and <a target="_blank" href="https://www.getrevue.co/privacy">Privacy Policy</a>.</div>
-  </form>
-</div>
-
+- [Fudge Sunday - Twitter, Matter, and Data-Driven Journalism](https://www.getrevue.co/profile/jaycuthrell/issues/fudge-sunday-twitter-matter-and-data-driven-journalism-836999) 2021 Nov 08
+- [Fudge Sunday - Cloud in Public: Impact Mapping](https://www.getrevue.co/profile/jaycuthrell/issues/fudge-sunday-cloud-in-public-impact-mapping-826383) 2021 Nov 01
+- [Fudge Sunday - Cloud in Public: Mean Time To RCA](https://www.getrevue.co/profile/jaycuthrell/issues/fudge-sunday-cloud-in-public-mean-time-to-rca-815545) 2021 Oct 25
 - [Fudge Sunday - Cloud in Public: DevCommsOps](https://www.getrevue.co/profile/jaycuthrell/issues/fudge-sunday-cloud-in-public-devcommsops-805563) 2021 Oct 18
 - [Fudge Sunday - Cloud in Public: Engineering SLO](https://www.getrevue.co/profile/jaycuthrell/issues/fudge-sunday-cloud-in-public-engineering-slo-794553) 2021 Oct 11
 - [Fudge Sunday - Cloud in Public: Status Dashboards](https://www.getrevue.co/profile/jaycuthrell/issues/fudge-sunday-cloud-in-public-status-dashboards-783150) 2021 Oct 03
@@ -69,4 +51,3 @@ Or, complete the form below:
 - [Fudge Sunday - Quantum Leap Years](https://www.getrevue.co/profile/jaycuthrell/issues/fudge-sunday-quantum-leap-years-162530) 2019 Mar 04
 - [Fudge Sunday -  What Happens in Augmented Reality Stays in Augmented Reality](https://www.getrevue.co/profile/jaycuthrell/issues/fudge-sunday-what-happens-in-augmented-reality-stays-in-augmented-reality-161204) 2019 Feb 25
 - [Fudge Sunday - Issue #1](https://www.getrevue.co/profile/jaycuthrell/issues/fudge-sunday-issue-1-161193) 2019 Feb 17
-

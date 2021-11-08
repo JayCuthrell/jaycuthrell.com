@@ -61,7 +61,6 @@ Selected blog posts can be viewed at [https://fudge.org](https://fudge.org).
 - [Have Your AI Call My AI](https://fudge.org/have-your-ai-call-my-ai/) 2016 Oct 12
 - [The Perfect Team](https://fudge.org/the-perfect-team/) 2015 Oct 23
 - [My Fifth Year at VCE](https://fudge.org/my-fifth-year-at-vce/) 2015 Oct 17
-- [New Beginnings](https://fudge.org/new-beginnings/) 2015 May 28
 - [My Fourth Year at VCE](https://fudge.org/my-fourth-year-at-vce/) 2014 Oct 18
 - [ESTEEM is STEM plus Ethics plus Empathy](https://fudge.org/esteem-stem-ethics-empathy/) 2014 Jan 20
 - [The 5 Ps of Workloads](https://fudge.org/the-5-ps-of-workloads/) 2014 Jan 17
@@ -92,5 +91,3 @@ Selected blog posts can be viewed at [https://fudge.org](https://fudge.org).
 - [Here It Comes](https://fudge.org/here-it-comes/) 2001 Sep 14
 - [Tel Aviv Traceroute](https://fudge.org/tel-aviv-traceroute/) 2000 Apr 29
 - [The Fudge FAQ](https://fudge.org/the-fudge-faq/) 1998 Dec 12
-
-
