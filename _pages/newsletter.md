@@ -14,6 +14,7 @@ Please subscribe here: [sunday.fudge.org](https://sunday.fudge.org)
 
 Or, read a few newsletter issues first:
 
+- [Fudge Sunday - Three recommendations walk into a bar...](https://www.getrevue.co/profile/jaycuthrell/issues/fudge-sunday-three-recommendations-walk-into-a-bar-847670) 2021 Nov 14
 - [Fudge Sunday - Twitter, Matter, and Data-Driven Journalism](https://www.getrevue.co/profile/jaycuthrell/issues/fudge-sunday-twitter-matter-and-data-driven-journalism-836999) 2021 Nov 08
 - [Fudge Sunday - Cloud in Public: Impact Mapping](https://www.getrevue.co/profile/jaycuthrell/issues/fudge-sunday-cloud-in-public-impact-mapping-826383) 2021 Nov 01
 - [Fudge Sunday - Cloud in Public: Mean Time To RCA](https://www.getrevue.co/profile/jaycuthrell/issues/fudge-sunday-cloud-in-public-mean-time-to-rca-815545) 2021 Oct 25
