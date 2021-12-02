@@ -29,7 +29,7 @@ Any personal profiles on Twitter, LinkedIn, or other services on the Internet ar
 
 ### My Employers, Clients, and Customers
 
-I am currently a Vice President at [Faction](https://www.factioninc.com). Yes. [We're hiring](https://www.factioninc.com/company/careers/).
+I am currently a Global Vice President at [Faction](https://www.factioninc.com). Yes. [We're hiring](https://www.factioninc.com/company/careers/).
 
 My [CV / resumé is available exclusively on this website](/resume/) and I may update other formats such as my [LinkedIn profile](https://linkedin.com/in/jaycuthrell) from time to time.
 
