@@ -8,7 +8,7 @@ permalink: /
 
 William J. Cuthrell (Jay) is an innovative technology executive and sought after servant leader. He is a prolific influencer and author who communicates with ease at C-suite and practitioner levels across traditional and emerging mediums on digital transformation strategy in holistic full-stack engagements. His passion is taking vision from design to reality to become growth engines. Jay’s expertise demonstrated through substantial growth, and change cycles provides a unique perspective into the technology industry’s future.
 
-Jay is Vice President, Solutions Engineering at Faction. At Faction, Jay drives planning, implementing, monitoring, and optimizing with the global clientele of Faction’s Cloud Data Services for Multi-Cloud products.
+Jay is Global Vice President, Solutions Engineering at Faction. At Faction, Jay drives planning, implementing, monitoring, and optimizing with the global clientele of Faction’s Cloud Data Services for Multi-Cloud products.
 
 Before joining Faction, Jay was a Managing Director with Dell Technologies. He developed a proven track record for building and leading diverse, globally distributed, and high-performing teams. His leadership spanned pre-sales, sales operations, guerrilla field marketing, software engineering, systems engineering, platform engineering, M&A, corporate development, corporate strategy, and the Office of the CTO. As a player-coach at Dell Technologies, Jay made vision into a reality by shifting the paradigm of how IT is delivered to enable digital transformation, creating multiple growth engines for the business.
 
