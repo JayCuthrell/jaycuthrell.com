@@ -14,6 +14,8 @@ Please subscribe here: [sunday.fudge.org](https://sunday.fudge.org)
 
 Or, read a few newsletter issues first:
 
+- [Fudge Sunday - Cheap as Chips in 2022](https://www.getrevue.co/profile/jaycuthrell/issues/fudge-sunday-cheap-as-chips-in-2022-946008) 2021 Dec 27
+- [Fudge Sunday - Zettelkasten End of Year Favorites](https://www.getrevue.co/profile/jaycuthrell/issues/fudge-sunday-zettelkasten-end-of-year-favorites-930157) 2021 Dec 20
 - [Fudge Sunday - Multicloud, XaaS, and Service Mesh](https://www.getrevue.co/profile/jaycuthrell/issues/fudge-sunday-multicloud-xaas-and-service-mesh-916747) 2021 Dec 13
 - [Fudge Sunday - Our Low Code No Code Past, Present, and Future](https://www.getrevue.co/profile/jaycuthrell/issues/fudge-sunday-our-low-code-no-code-past-present-and-future-904238) 2021 Dec 06
 - [Fudge Sunday - Oh What A Tangled Web3 We Weave](https://www.getrevue.co/profile/jaycuthrell/issues/fudge-sunday-oh-what-a-tangled-web3-we-weave-892450) 2021 Nov 29
