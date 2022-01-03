@@ -15,6 +15,9 @@ Selected blog posts can be viewed at [https://fudge.org](https://fudge.org).
 
 # Converted blog posts
 
+- [Looking For Looking For](https://fudge.org/looking-for-looking-for/) 2022 Jan 03
+- [Find your ROD and REEL](https://fudge.org/rod-and-reel/) 2021 Dec 15
+- [Multicloud Summer Reading](https://fudge.org/multicloud-summer-reading/) 2021 Jun 15
 - [Multicloud March](https://fudge.org/multicloud-march/) 2021 Apr 10
 - [Cloud Data Services Ahead](https://fudge.org/cloud-data-services-ahead/) 2020 Dec 31
 - [Social Telecom 2030](https://fudge.org/social-telecom-2030/) 2020 Nov 25
