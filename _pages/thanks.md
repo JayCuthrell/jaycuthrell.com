@@ -14,4 +14,6 @@ Kind regards,
 
 Jay
 
-p.s. Check out my [blog](https://fudge.org)
+p.s. Please subscribe to my [newsletter](https://sunday.fudge.org)
+
+p.p.s. Check out my [blog](https://fudge.org)
