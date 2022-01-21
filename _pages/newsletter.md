@@ -14,6 +14,9 @@ Please subscribe here: [sunday.fudge.org](https://sunday.fudge.org)
 
 Or, read a few newsletter issues first:
 
+- [Fudge Sunday - Fiber To The Homologous](https://www.getrevue.co/profile/jaycuthrell/issues/fudge-sunday-fiber-to-the-homologous-979171) 2022 Jan 17
+- [Fudge Sunday - Belatedly Beckoning Bespoke Beacons](https://www.getrevue.co/profile/jaycuthrell/issues/fudge-sunday-belatedly-beckoning-bespoke-beacons-967743) 2022 Jan 10
+- [Fudge Sunday - Turn Up the (Software Defined) Radio](https://www.getrevue.co/profile/jaycuthrell/issues/fudge-sunday-turn-up-the-software-defined-radio-957305) 2022 Jan 03
 - [Fudge Sunday - Cheap as Chips in 2022](https://www.getrevue.co/profile/jaycuthrell/issues/fudge-sunday-cheap-as-chips-in-2022-946008) 2021 Dec 27
 - [Fudge Sunday - Zettelkasten End of Year Favorites](https://www.getrevue.co/profile/jaycuthrell/issues/fudge-sunday-zettelkasten-end-of-year-favorites-930157) 2021 Dec 20
 - [Fudge Sunday - Multicloud, XaaS, and Service Mesh](https://www.getrevue.co/profile/jaycuthrell/issues/fudge-sunday-multicloud-xaas-and-service-mesh-916747) 2021 Dec 13
