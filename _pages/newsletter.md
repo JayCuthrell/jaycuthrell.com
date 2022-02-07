@@ -14,6 +14,7 @@ Please subscribe here: [sunday.fudge.org](https://sunday.fudge.org)
 
 Or, read a few newsletter issues first:
 
+- [Fudge Sunday - 99 6G Balloons](https://www.getrevue.co/profile/jaycuthrell/issues/fudge-sunday-99-6g-balloons-1014217) 2022 Feb 07
 - [Fudge Sunday - Cut Me Some Slack](https://www.getrevue.co/profile/jaycuthrell/issues/fudge-sunday-cut-me-some-slack-1003110) 2022 Jan 31
 - [Fudge Sunday - Hype Or Loop?](https://www.getrevue.co/profile/jaycuthrell/issues/fudge-sunday-hype-or-loop-990633) 2022 Jan 24
 - [Fudge Sunday - Fiber To The Homologous](https://www.getrevue.co/profile/jaycuthrell/issues/fudge-sunday-fiber-to-the-homologous-979171) 2022 Jan 17
