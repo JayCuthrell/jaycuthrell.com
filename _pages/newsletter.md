@@ -14,6 +14,9 @@ Please subscribe here: [sunday.fudge.org](https://sunday.fudge.org)
 
 Or, read a few newsletter issues first:
 
+- [Fudge Sunday - Max Headroom, OSINT, and Today's Tom Sawyer](https://www.getrevue.co/profile/jaycuthrell/issues/fudge-sunday-max-headroom-osint-and-today-s-tom-sawyer-1061607) 2022 Mar 07
+- [Fudge Sunday - M&M's,  Moose, and Management Meditations](https://www.getrevue.co/profile/jaycuthrell/issues/fudge-sunday-m-m-s-moose-and-management-meditations-1049601) 2022 Feb 27
+- [Fudge Sunday - The Last Decacorn](https://www.getrevue.co/profile/jaycuthrell/issues/fudge-sunday-the-last-decacorn-1038065) 2022 Feb 20
 - [Fudge Sunday - Peek A Boo](https://www.getrevue.co/profile/jaycuthrell/issues/fudge-sunday-peek-a-boo-1026756) 2022 Feb 14
 - [Fudge Sunday - 99 6G Balloons](https://www.getrevue.co/profile/jaycuthrell/issues/fudge-sunday-99-6g-balloons-1014217) 2022 Feb 07
 - [Fudge Sunday - Cut Me Some Slack](https://www.getrevue.co/profile/jaycuthrell/issues/fudge-sunday-cut-me-some-slack-1003110) 2022 Jan 31
