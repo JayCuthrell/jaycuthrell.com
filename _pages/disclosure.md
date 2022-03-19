@@ -68,7 +68,6 @@ CFLT
 CHKP
 CHWY
 COIN
-COR
 COUP
 COUR
 CRM
@@ -92,8 +91,10 @@ FSLY
 FTNT
 GOOG
 GREE
+HCP
 HLT
 HUBS
+INTC
 IRM
 JAMF
 KNBE
@@ -123,10 +124,12 @@ PLTR
 PYPL
 QCOM
 QLYS
+QQQ
 QTWO
 RBLX
 S
 SCWX
+SHE
 SHOP
 SNAP
 SNOW
@@ -146,8 +149,8 @@ TWTR
 U
 UPS
 V
-VIAC
 VEEV
+VIAC
 VMW
 WDAY
 WIX
@@ -160,8 +163,6 @@ XMTR
 XPEL
 ZM
 ZS
-
-I’ll spare you the reporting on how my portfolio is doing. I’m not an investment professional. Do your own homework and remember that everything you are reading here and elsewhere from me does not constitute investment advice in any way shape or form.
 
 ### Gifts and Advertising
 
