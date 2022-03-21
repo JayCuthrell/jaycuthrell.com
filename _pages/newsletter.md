@@ -14,6 +14,7 @@ Please subscribe here: [sunday.fudge.org](https://sunday.fudge.org)
 
 Or, read a few newsletter issues first:
 
+- [Fudge Sunday - Once in a Pipeline](https://www.getrevue.co/profile/jaycuthrell/issues/fudge-sunday-once-in-a-pipeline-1084136) 2022 Mar 20
 - [Fudge Sunday - Everything Counts in Ops Amounts](https://www.getrevue.co/profile/jaycuthrell/issues/fudge-sunday-everything-counts-in-ops-amounts-1073115) 2022 Mar 14
 - [Fudge Sunday - Max Headroom, OSINT, and Today's Tom Sawyer](https://www.getrevue.co/profile/jaycuthrell/issues/fudge-sunday-max-headroom-osint-and-today-s-tom-sawyer-1061607) 2022 Mar 07
 - [Fudge Sunday - M&M's,  Moose, and Management Meditations](https://www.getrevue.co/profile/jaycuthrell/issues/fudge-sunday-m-m-s-moose-and-management-meditations-1049601) 2022 Feb 27
