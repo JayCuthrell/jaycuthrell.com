@@ -10,7 +10,7 @@ I have been noodling around with music since I was in high school. It all starte
 
 Also, I don't have lyrics for anything I have up here and it's not often that the song lasts for more than 60 seconds... so maybe song isn't the right word... perhaps I would do better to call them jingles.
 
-I've placed all my tracks below using HTML5 audio. Enjoy!
+I've placed all my tracks below on Soundcloud but have experimented with other hosting services as well as HTML5 audio linking to mp3 files.
 
 ## As seen on the ill fated MP3.Com
 
