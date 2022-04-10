@@ -14,6 +14,8 @@ Please subscribe here: [sunday.fudge.org](https://sunday.fudge.org)
 
 Or, read a few newsletter issues first:
 
+- [Fudge Sunday - The Turning](https://www.getrevue.co/profile/jaycuthrell/issues/fudge-sunday-the-turning-1118569) 2022 Apr 10
+- [Fudge Sunday - Summertime Pastness](https://www.getrevue.co/profile/jaycuthrell/issues/fudge-sunday-summertime-pastness-1106534) 2022 Apr 03
 - [Fudge Sunday - Needle in a Fullstack](https://www.getrevue.co/profile/jaycuthrell/issues/fudge-sunday-needle-in-a-fullstack-1094857) 2022 Mar 27
 - [Fudge Sunday - Once in a Pipeline](https://www.getrevue.co/profile/jaycuthrell/issues/fudge-sunday-once-in-a-pipeline-1084136) 2022 Mar 20
 - [Fudge Sunday - Everything Counts in Ops Amounts](https://www.getrevue.co/profile/jaycuthrell/issues/fudge-sunday-everything-counts-in-ops-amounts-1073115) 2022 Mar 14
