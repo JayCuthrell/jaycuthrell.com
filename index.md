@@ -6,6 +6,11 @@ permalink: /
 
 ---
 
+- Servant Leader 
+- Corporate Free Safety 
+- Former CTO / VP / GM 
+- Helped grow a business from 0 to multi $B
+
 William J. Cuthrell (Jay) is an innovative technology executive and sought after servant leader. He is a prolific influencer and author who communicates with ease at C-suite and practitioner levels across traditional and emerging mediums on digital transformation strategy in holistic full-stack engagements. His passion is taking vision from design to reality to become growth engines. Jay’s expertise demonstrated through substantial growth, and change cycles provides a unique perspective into the technology industry’s future.
 
 Jay is Global Vice President, Solutions Engineering at Faction. At Faction, Jay drives planning, implementing, monitoring, and optimizing with the global clientele of Faction’s Cloud Data Services for Multi-Cloud products.
