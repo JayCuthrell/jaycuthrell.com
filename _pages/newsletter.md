@@ -14,6 +14,7 @@ Please subscribe here: [sunday.fudge.org](https://sunday.fudge.org)
 
 Or, read a few newsletter issues first:
 
+- [Fudge Sunday - FinOps Erase and Rewind](https://www.getrevue.co/profile/jaycuthrell/issues/fudge-sunday-finops-erase-and-rewind-1139224) 2022 Apr 24
 - [Fudge Sunday - Come Together](https://www.getrevue.co/profile/jaycuthrell/issues/fudge-sunday-come-together-1128855) 2022 Apr 17
 - [Fudge Sunday - The Turning](https://www.getrevue.co/profile/jaycuthrell/issues/fudge-sunday-the-turning-1118569) 2022 Apr 10
 - [Fudge Sunday - Summertime Pastness](https://www.getrevue.co/profile/jaycuthrell/issues/fudge-sunday-summertime-pastness-1106534) 2022 Apr 03
