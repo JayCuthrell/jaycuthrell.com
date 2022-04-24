@@ -109,6 +109,7 @@ Advisory Board Roles
 Honors & Awards
 ================
 
+- Dell Partner of the Year Award 2021
 - Dell Product of the Year Award 2020
 - Dell Customer Focus Award 2019
 - Dell Excellence Award 2018
