@@ -14,6 +14,7 @@ Please subscribe here: [sunday.fudge.org](https://sunday.fudge.org)
 
 Or, read a few newsletter issues first:
 
+- [Fudge Sunday - Singularity and Super Massive Black Holes](https://www.getrevue.co/profile/jaycuthrell/issues/fudge-sunday-singularity-and-super-massive-black-holes-1170410) 2022 May 16
 - [Fudge Sunday - Twitter Travel Algorithmic Oddities](https://www.getrevue.co/profile/jaycuthrell/issues/fudge-sunday-twitter-travel-algorithmic-oddities-1160674) 2022 May 08
 - [Fudge Sunday - Just Can't Get Enough](https://www.getrevue.co/profile/jaycuthrell/issues/fudge-sunday-just-can-t-get-enough-1149920) 2022 May 01
 - [Fudge Sunday - FinOps Erase and Rewind](https://www.getrevue.co/profile/jaycuthrell/issues/fudge-sunday-finops-erase-and-rewind-1139224) 2022 Apr 24
