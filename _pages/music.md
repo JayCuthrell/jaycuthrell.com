@@ -57,3 +57,11 @@ You can find my playlists of other music I like on [Spotify](https://open.spotif
 - [https://open.spotify.com/playlist/02BLfQ9PypVaMi6pVUYKwu](https://open.spotify.com/playlist/02BLfQ9PypVaMi6pVUYKwu)
 - [https://open.spotify.com/playlist/6O37CNU5EiKpplbb3zL74c](https://open.spotify.com/playlist/6O37CNU5EiKpplbb3zL74c)
 - [https://open.spotify.com/playlist/468YnfULmcdD0sjwM5w2S5](https://open.spotify.com/playlist/468YnfULmcdD0sjwM5w2S5)
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/0hEfcoQt1ECmsJPdIq6uiB?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/02BLfQ9PypVaMi6pVUYKwu?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/6O37CNU5EiKpplbb3zL74c?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/468YnfULmcdD0sjwM5w2S5?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
