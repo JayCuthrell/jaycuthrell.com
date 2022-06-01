@@ -15,7 +15,7 @@ William J. Cuthrell (Jay) is an innovative technology executive and sought after
 
 Jay is Vice President of Solutions at [Faction, a Dell Technologies Capital portfolio company](https://www.delltechnologiescapital.com/portfolio/). At Faction, Jay leads a team of business value focused technologists that deliver innovative multicloud data services to global enterprise clientele.
 
-Before joining Faction, Jay was a Managing Director with Dell Technologies. He developed a proven track record for building and leading diverse globally distributed high-performing teams. His leadership spanned pre-sales, sales operations, guerrilla field marketing, product management, software, systems, platform engineering, M&A, corporate development, VC, corporate strategy, and the Office of the CTO. As a player-coach at Dell Technologies, Jay made vision into a reality by shifting the paradigm of how IT is delivered to enable digital transformation and creating multiple growth engines for the business.
+Before joining Faction, Jay was a Managing Director with Dell Technologies where he developed a proven track record for building and leading diverse globally distributed high-performing teams. His leadership spanned pre-sales, sales operations, guerrilla field marketing, product management, software, systems, platform engineering, M&A, corporate development, VC, corporate strategy, and the Office of the CTO. As a player-coach at Dell Technologies, Jay made vision into a reality by shifting the paradigm of how IT is delivered to enable digital transformation while creating multiple growth engines for the business with [unique intellectual property](https://patents.google.com/patent/US9684539B1/en).
 
 Before joining Dell Technologies, Jay was a founding partner of [Cuthrell Consulting LLC](https://cuthrell.com), a consultancy providing unique consulting and advisory to network service providers, startups, and investment groups. Jay helped his clients navigate, reach, and exceed their goals by leveraging his extensive experiences in leadership roles at high growth ICT companies and global infrastructure consulting roles for Fortune 500 clients to be a trusted advisor on strategic technology.
 
@@ -24,3 +24,5 @@ Jay previously served in advisory board roles with successful exits at Racemi (a
 Jay completed the INFOSEC Assessment Training and Rating Program for INFOSEC Assessment Methodology by the National Security Agency in 2003. He has maintained a membership with InfraGard since 2004. Jay is certified for Facilitation of Executive Briefings by the Association of Briefing Program Managers and is a discussion leader experienced with audiences from executive boardrooms to the halls and stages of South by Southwest® (SXSW®).
 
 Jay is on LinkedIn at [https://www.linkedin.com/in/jaycuthrell](https://www.linkedin.com/in/jaycuthrell).
+
+Jay holds a BS in Materials Science and Engineering from North Carolina State University.
