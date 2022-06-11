@@ -12,7 +12,11 @@ _Start the week more informed than the week before._
 
 Please subscribe here: [sunday.fudge.org](https://sunday.fudge.org)
 
-Or, read a few newsletter issues first:
+I try to include a song as an inspiration be it titular or lyrical so you can listen while you read. Here's a playlist:
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/2ZALK6TiXvBVztITrrybkN?utm_source=generator" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+
+Or, read a few newsletter issues first (you'll have to click on the songs):
 
 - [Fudge Sunday - Moving Out](https://sunday.fudge.org/issues/fudge-sunday-moving-out-1200494) 2022 Jun 05
 - [Fudge Sunday - Ramble On](https://sunday.fudge.org/issues/fudge-sunday-ramble-on-1190923) 2022 May 29
