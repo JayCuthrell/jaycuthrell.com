@@ -18,6 +18,7 @@ I try to include a song as an inspiration be it titular or lyrical so you can li
 
 Or, read a few newsletter issues first (you'll have to click on the songs):
 
+- [Around the Bend](https://sunday.fudge.org/p/around-the-bend) 2022 Jun 12
 - [Fudge Sunday - Moving Out](https://sunday.fudge.org/issues/fudge-sunday-moving-out-1200494) 2022 Jun 05
 - [Fudge Sunday - Ramble On](https://sunday.fudge.org/issues/fudge-sunday-ramble-on-1190923) 2022 May 29
 - [Fudge Sunday - Follow the Lyrical Leadership Listicles](https://sunday.fudge.org/issues/fudge-sunday-follow-the-lyrical-leadership-listicles-1180965) 2022 May 23
