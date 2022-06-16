@@ -12,7 +12,7 @@ _Start the week more informed than the week before._
 
 Please subscribe here: [sunday.fudge.org](https://sunday.fudge.org)
 
-I try to include a song as an inspiration be it titular or lyrical so you can listen while you read. Here's a playlist:
+I try to include a song as an inspiration be it the title or lyrics so you can listen while you read. Here's a playlist:
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/2ZALK6TiXvBVztITrrybkN?utm_source=generator" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
 
