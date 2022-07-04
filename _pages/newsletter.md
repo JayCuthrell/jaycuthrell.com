@@ -18,6 +18,8 @@ I try to include a song as an inspiration be it the title or lyrics so you can l
 
 Or, read a few newsletter issues first (you'll have to click on the songs):
 
+- [SuperCloudbusting](https://sunday.fudge.org/p/supercloudbusting) 2022 Jul 03
+- [Make IIoT Easy On Yourself](https://sunday.fudge.org/p/make-iiot-easy-on-yourself) 2022 Jun 26
 - [Me and My POSSE](https://sunday.fudge.org/p/me-and-my-posse) 2022 Jun 19
 - [Around the Bend](https://sunday.fudge.org/p/around-the-bend) 2022 Jun 12
 - [Fudge Sunday - Moving Out](https://sunday.fudge.org/issues/fudge-sunday-moving-out-1200494) 2022 Jun 05
