@@ -21,10 +21,6 @@ I use phone, SMS, email, and video conference apps but prefer to establish a sec
    - Personal Email [jay@cuthrell.com](mailto:jay@cuthrell.com?SUBJECT=2021+via+jaycuthrell.com)
    - Personal Meeting Request [https://calendly.com/jaycuthrell](https://calendly.com/jaycuthrell)
    - Personal Mail ```1903 Live Oak St #92 Beaufort, NC 28516-0092```
-- Work
-   - Work Phone [+1-303-532-4734 #3034](tel:1-303-532-4734,3034)
-   - Work Email [jay.cuthrell@factioninc.com](mailto:jay.cuthrell@factioninc.com?SUBJECT=2021+via+jaycuthrell.com)
-   - Work Meeting Request [https://meetings.grooveapp.com/jay-cuthrell](https://meetings.grooveapp.com/jay-cuthrell)
 
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----

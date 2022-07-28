@@ -29,8 +29,6 @@ Any personal profiles on Twitter, LinkedIn, or other services on the Internet ar
 
 ### My Employers, Clients, and Customers
 
-I am currently a Global Vice President at [Faction](https://www.factioninc.com). Yes. [We're hiring and this is my employee referral link](https://grnh.se/66f4d22d4us).
-
 My [CV / resumé is available exclusively on this website](/resume/) and I may update other formats such as my [LinkedIn profile](https://linkedin.com/in/jaycuthrell) from time to time.
 
 ### Startups
