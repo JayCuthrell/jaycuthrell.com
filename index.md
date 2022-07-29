@@ -27,5 +27,6 @@ Jay is on LinkedIn at [https://www.linkedin.com/in/jaycuthrell](https://www.link
 
 Jay holds a BS in Materials Science and Engineering from North Carolina State University.
 
-[Headshot, 300x300, JPG](/images/jaycuthrell-headshot-300x300.jpg)
 ![Headshot, 300x300, JPG](/images/jaycuthrell-headshot-300x300.jpg)
+
+[Headshot, 300x300, JPG](/images/jaycuthrell-headshot-300x300.jpg)
