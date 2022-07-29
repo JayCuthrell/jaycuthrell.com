@@ -26,3 +26,5 @@ Jay completed the INFOSEC Assessment Training and Rating Program for INFOSEC Ass
 Jay is on LinkedIn at [https://www.linkedin.com/in/jaycuthrell](https://www.linkedin.com/in/jaycuthrell).
 
 Jay holds a BS in Materials Science and Engineering from North Carolina State University.
+
+[300x300 Headshot](/images/jaycuthrell-headshot-300x300.jpg)
