@@ -7,7 +7,7 @@ absolute_url: "https://jaycuthrell.com"
 baseurl: ""
 name: "Jay Cuthrell"
 description: "jaycuthrell.com"
-logo: "/images/jaycuthrell.jpg"
+logo: "/images/jaycuthrell-headshot-300x300.jpg"
 search: false 
 search_full_content: true
 read_time: true
@@ -119,7 +119,7 @@ author:
       url: "https://jaycuthrell.com/contact/"
 
 owner:
-  avatar: /images/bio-photo.jpg
+  avatar: /images/jaycuthrell-headshot-300x300.jpg
   name : Jay Cuthrell
   email : jay@cuthrell.com
   github : jaycuthrell
