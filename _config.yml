@@ -7,7 +7,7 @@ absolute_url: "https://jaycuthrell.com"
 baseurl: ""
 name: "Jay Cuthrell"
 description: "jaycuthrell.com"
-logo: "/images/jaycuthrell-headshot-300x300.jpg"
+logo: "/images/jaycuthrell.jpg"
 search: false 
 search_full_content: true
 read_time: true
