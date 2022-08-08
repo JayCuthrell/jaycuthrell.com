@@ -18,6 +18,7 @@ I try to include a song as an inspiration be it the title or lyrics so you can l
 
 Or, read a few newsletter issues first (you'll have to click on the songs):
 
+- [Union of the Cloud](https://sunday.fudge.org/p/union-of-the-cloud) 2022 Aug 07
 - [When We Was Chip Fab Focused](https://sunday.fudge.org/p/when-we-was-chip-fab-focused) 2022 Jul 31
 - [Get It All While You Can](https://sunday.fudge.org/p/get-it-all-while-you-can) 2022 Jul 25
 - [Ready To Grow](https://sunday.fudge.org/p/ready-to-grow) 2022 Jul 10
