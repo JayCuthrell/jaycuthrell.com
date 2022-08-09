@@ -26,6 +26,9 @@ It is my mission to delight customers, deliver sustainable sales growth, and pro
 Career Highlights
 =================
 
+![IBM](/images/ibm.png)
+IBM
+
 ![Faction](/images/faction.png) 
 Faction
 
