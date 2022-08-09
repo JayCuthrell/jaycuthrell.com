@@ -57,6 +57,13 @@ NeoNova Network Services
 iXL Enterprises Inc.
 
 
+![Nortel](/images/nortel.png) 
+Nortel
+
+![IBM](/images/ibm.png)
+IBM
+
+
 Education
 =========
 
