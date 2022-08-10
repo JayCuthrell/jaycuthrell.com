@@ -53,9 +53,11 @@ Digitel Hosted Network
 ![NeoNova Network Services](/images/neonova.png) 
 NeoNova Network Services
 
+![scient](/images/scient.png) 
+scient
+
 ![iXL Enterprises Inc.](/images/ixl.png) 
 iXL Enterprises Inc.
-
 
 ![Nortel](/images/nortel.png) 
 Nortel
