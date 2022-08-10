@@ -29,6 +29,7 @@ The _hindsight 20/20 storytelling_ goes something like this... but [my meanderin
 * In October 2015, Dell and EMC agree to largest merger in IT history for a reported $67 Billion. 
 * By late 2016, Dell EMC were combined and by 2020 became known as Dell Technologies.
 * In 2020, my time at Dell Technologies ended and my next adventure in multicloud took me to [Faction](https://www.factioninc.com/).
-* In late 2022, my time at Faction ended and my next adventure began.
+* By late 2022, my time at Faction ended as I once again return to my consulting roots.
+* Now, 25+ years later, I am fortunate to be able to return to IBM and apply all that I have learned to _What's Next_.
 
 [To be continued...](/resume/)
