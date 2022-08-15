@@ -13,7 +13,7 @@ permalink: /
 
 William J. Cuthrell (Jay) is an innovative technology executive and sought after servant leader. He is a prolific influencer and [writer](https://jaycuthrell.com/media) who communicates with ease at C-suite and practitioner levels [across traditional and emerging mediums](https://jaycuthrell.com/media) on digital transformation strategy in holistic full-stack engagements. His passion is taking vision from design to reality to become growth engines. Jay’s expertise demonstrated through substantial growth and change cycles provides a unique perspective into the technology industry’s future.
 
-Jay is Senior Vice President of Products at [Taos, an IBM company](https://www.taos.com/resources/press-releases/taos-brings-aboard-new-senior-vice-president-of-products-to-accelerate-digital-transformation-strategies/). As part of the organization’s executive team, Jay focuses on supporting and evolving Taos’ digital transformation services and solutions, adding to the breadth and depth of Taos expertise at IBM.
+Jay is Senior Vice President of Products at [Taos, an IBM Company](https://www.taos.com/resources/press-releases/taos-brings-aboard-new-senior-vice-president-of-products-to-accelerate-digital-transformation-strategies/). As part of the organization’s executive team, Jay focuses on supporting and evolving Taos’ digital transformation services and solutions, adding to the breadth and depth of Taos expertise at IBM.
 
 Before rejoining IBM, Jay was Vice President of Solutions at [Faction, a Dell Technologies Capital portfolio company](https://www.delltechnologiescapital.com/portfolio/). At Faction, Jay served a team of business value focused technologists that delivered innovative multicloud data services to global enterprise clientele.
 
