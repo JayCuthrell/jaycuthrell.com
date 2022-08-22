@@ -18,6 +18,7 @@ I try to include a song as an inspiration be it the title or lyrics so you can l
 
 Or, read a few newsletter issues first (you'll have to click on the songs):
 
+- [A Cold Shot and Chaser](https://sunday.fudge.org/p/a-cold-shot-and-chaser) 2022 Aug 22
 - [Feeling So Really Simple Syndication](https://sunday.fudge.org/p/feeling-so-really-simple-syndication) 2022 Aug 15
 - [Union of the Cloud](https://sunday.fudge.org/p/union-of-the-cloud) 2022 Aug 07
 - [When We Was Chip Fab Focused](https://sunday.fudge.org/p/when-we-was-chip-fab-focused) 2022 Jul 31
