@@ -136,35 +136,3 @@ Note: These were presented by [a very enthusiastic consultant](https://cuthrell.
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/JayCuthrell?ref_src=twsrc%5Etfw">@JayCuthrell</a> kicks off his <a href="https://twitter.com/hashtag/BigData?src=hash&amp;ref_src=twsrc%5Etfw">#BigData</a> talk while we enjoy <a href="https://twitter.com/shakeshack?ref_src=twsrc%5Etfw">@SHAKESHACK</a> @ our luncheon <a href="https://twitter.com/hashtag/VegasTech?src=hash&amp;ref_src=twsrc%5Etfw">#VegasTech</a> <a href="http://t.co/Qb2UbQeQ2C">http://t.co/Qb2UbQeQ2C</a> <a href="http://t.co/0SzORoN4z9">pic.twitter.com/0SzORoN4z9</a></p>&mdash; Innevation (@Innevation) <a href="https://twitter.com/Innevation/status/560895041179516928?ref_src=twsrc%5Etfw">January 29, 2015</a></blockquote>
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Fun. We have <a href="https://twitter.com/Qthrul?ref_src=twsrc%5Etfw">@Qthrul</a> talking management, automation and orchestration. <a href="http://t.co/VkmmpBrTdO">pic.twitter.com/VkmmpBrTdO</a></p>&mdash; Josh Atwell in Boulder (@Josh_Atwell) <a href="https://twitter.com/Josh_Atwell/status/423897006051164160?ref_src=twsrc%5Etfw">January 16, 2014</a></blockquote>
-
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/15140142@N03/5541167877/" title="Jay Cuthrell"><img src="https://farm6.staticflickr.com/5057/5541167877_094705aa8e.jpg" width="500" height="333" alt="Jay Cuthrell"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/dancingwithwords/5291735574/" title="Jay Cuthrell"><img src="https://farm6.staticflickr.com/5041/5291735574_d17f043144.jpg" width="500" height="332" alt="Jay Cuthrell"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/bandwidthblog/4413406815/in/photolist-67s14S-6m299D-7HZS5X-9nKzAR-6gzuwt-7HjtkW-7HjtBf-9nBwAV-9nExbS" title="Jay Cuthrell ties rednecks to Silicon Valley"><img src="https://farm5.staticflickr.com/4060/4413406815_8164fc44c2.jpg" width="500" height="364" alt="Jay Cuthrell ties rednecks to Silicon Valley"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/herb/4405720944/in/photolist-67s14S-6m299D-7HZS5X-9nKzAR-6gzuwt-7HjtkW-7HjtBf-9nBwAV-9nExbS" title="Redneck Guide to Silicon Valley"><img src="https://farm5.staticflickr.com/4036/4405720944_b46b4707c9.jpg" width="375" height="500" alt="Redneck Guide to Silicon Valley"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/hajush/3458065935/in/photolist-67s14S-6m299D-7HZS5X-9nKzAR-6gzuwt-7HjtkW-7HjtBf-9nBwAV-9nExbS" title="DSC01097"><img src="https://farm4.staticflickr.com/3606/3458065935_0f74720a6c.jpg" width="500" height="281" alt="DSC01097"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/photo_td/3398061313/in/photolist-81igL3-5ZnBqM-6m299D-bZuw5-67s14S-63Q6Lt-6js3LW-8MgYpx-6bkVRE-6bgXf2-54eg1V-7VN2ai-89NvpP-7HjtkW-7HjtBf-6gzuwt-6MrgSi-6MrgN4-e1Y44G-9nExbS-7TPWDJ-6Mvt7A-6MrgMX-64WuSi" title="Untitled"><img src="https://farm4.staticflickr.com/3582/3398061313_a6ab1a9482.jpg" width="500" height="375" alt="Untitled"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/photo_td/3398837100/in/photolist-81igL3-5ZnBqM-6m299D-bZuw5-67s14S-63Q6Lt-6js3LW-8MgYpx-6bkVRE-6bgXf2-54eg1V-7VN2ai-89NvpP-7HjtkW-7HjtBf-6gzuwt-6MrgSi-6MrgN4-e1Y44G-9nExbS-7TPWDJ-6Mvt7A-6MrgMX-64WuSi" title="Untitled"><img src="https://farm4.staticflickr.com/3633/3398837100_84232a7696.jpg" width="500" height="375" alt="Untitled"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/waynesutton/3795957091/in/photolist-81igL3-5ZnBqM-6m299D-bZuw5-67s14S-63Q6Lt-6js3LW-8MgYpx-6bkVRE-6bgXf2-54eg1V-7VN2ai-89NvpP-7HjtkW-7HjtBf-6gzuwt-6MrgSi-6MrgN4-e1Y44G-9nExbS-7TPWDJ-6Mvt7A-6MrgMX-64WuSi" title="iContact"><img src="https://farm4.staticflickr.com/3534/3795957091_33dbd67648.jpg" width="500" height="375" alt="iContact"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
