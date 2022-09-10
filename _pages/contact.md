@@ -16,15 +16,15 @@ There are many ways to contact me. This page updates as my [preferred methods ev
 
 I use phone, SMS, email, and video conference apps but prefer to establish a second channel from the list above.
 
+- Work 
+   - Work Mobile [+1-252-732-6835](tel:1-252-732-6835)
+   - Work Email [jay.cuthrell@ibm.com](mailto:jay.cuthrell@ibm.com?SUBJECT=2022+via+jaycuthrell.com)
+
 - Personal 
    - Personal Mobile [+1-415-763-8343](tel:1-415-763-8343)
    - Personal Email [jay@cuthrell.com](mailto:jay@cuthrell.com?SUBJECT=2022+via+jaycuthrell.com)
    - Personal Meeting Request [https://calendly.com/jaycuthrell/call](https://calendly.com/jaycuthrell/call)
    - Personal Mail ```1903 Live Oak St #92 Beaufort, NC 28516-0092```
-
-- Work 
-   - Work Mobile [+1-252-732-6835](tel:1-252-732-6835)
-   - Work Email [jay.cuthrell@ibm.com](mailto:jay.cuthrell@ibm.com?SUBJECT=2022+via+jaycuthrell.com)
 
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
