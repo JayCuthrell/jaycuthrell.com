@@ -18,6 +18,7 @@ I try to include a song as an inspiration be it the title or lyrics so you can l
 
 Or, read a few newsletter issues first (you'll have to click on the songs):
 
+- [Reading, Writing, and Arithmetic](https://sunday.fudge.org/p/reading-writing-and-arithmetic) 2022 Sep 19
 - [SoC It To Me](https://sunday.fudge.org/p/soc-it-to-me) 2022 Sep 11
 - [Artemis, Radiation Hardening, and IPFS](https://sunday.fudge.org/p/artemis-radiation-hardening-and-ipfs) 2022 Sep 04
 - [You Get A Line and I'll Get A Poll Result](https://sunday.fudge.org/p/you-get-a-line-and-ill-get-a-poll) 2022 Aug 29
