@@ -18,6 +18,7 @@ I try to include a song as an inspiration be it the title or lyrics so you can l
 
 Or, read a few newsletter issues first (you'll have to click on the songs):
 
+- [Platform Engineering Blues](https://sunday.fudge.org/p/platform-engineering-blues) 2022 Oct 09
 - [Precision Time Protocol That You Love](https://sunday.fudge.org/p/precision-time-protocol-that-you) 2022 Oct 02
 - [Build a Cloud Platform Foundation](https://sunday.fudge.org/p/build-a-cloud-platform-foundation) 2022 Sep 25
 - [Reading, Writing, and Arithmetic](https://sunday.fudge.org/p/reading-writing-and-arithmetic) 2022 Sep 18
