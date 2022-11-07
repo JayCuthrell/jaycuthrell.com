@@ -18,6 +18,7 @@ I try to include a song as an inspiration be it the title or lyrics so you can l
 
 Or, read a few newsletter issues first (you'll have to click on the songs):
 
+- [A Matter of Zero Trust](https://sunday.fudge.org/p/a-matter-of-zero-trust) 2022 Nov 06
 - [Cadillac WebAssembly Line](https://sunday.fudge.org/p/cadillac-webassembly-line) 2022 Oct 31
 - [Underneath The CNCF Tech Radar](https://sunday.fudge.org/p/underneath-the-cncf-tech-radar) 2022 Oct 23
 - [Please Please OTel Me Now](https://sunday.fudge.org/p/please-please-otel-me-now) 2022 Oct 16
