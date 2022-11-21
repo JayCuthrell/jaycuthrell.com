@@ -1,4 +1,4 @@
-theme: jekyll-theme-so-simple
+remote_theme: "mmistakes/so-simple-theme@3.2.0"
 skin: "/assets/css/skins/default.css"
 locale: "en_US"
 title: "Jay Cuthrell jaycuthrell.com"
@@ -50,9 +50,6 @@ exclude:
   - vendor/cache/
   - vendor/gems/
   - vendor/ruby/
-
-site.github.repository_url: https://github.com/JayCuthrell/jaycuthrell.com/commits/minimal-mistakes/
-repository_url: https://github.com/JayCuthrell/jaycuthrell.com/commits/minimal-mistakes/
 
 source:
 root: /
