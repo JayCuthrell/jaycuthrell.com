@@ -3,8 +3,6 @@ jaycuthrell
 
 [jaycuthrell.com](https://jaycuthrell.com) 
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/9429ed97-dcdd-4ad1-bc10-cd5d36cf367b/deploy-status)](https://app.netlify.com/sites/jaycuthrellcom/deploys)
-
 # [So Simple Jekyll Theme][1]
 
 [![LICENSE](https://img.shields.io/badge/license-MIT-lightgrey.svg?style=flat-square)](https://raw.githubusercontent.com/mmistakes/so-simple-theme/master/LICENSE)
