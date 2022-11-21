@@ -1,8 +1,9 @@
 source 'https://rubygems.org'
 
 gem 'jekyll', ">= 4.0"
-gem "jekyll-theme-so-simple"
-gem "jekyll-seo-tag"
+gem 'github-pages'
+gem 'jekyll-theme-so-simple'
+gem 'jekyll-seo-tag'
 gem 'jekyll-sitemap', ">= 1.3.0"
 gem 'jekyll-redirect-from'
 gem 'jekyll-paginate'
