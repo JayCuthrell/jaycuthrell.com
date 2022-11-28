@@ -18,6 +18,7 @@ I try to include a song as an inspiration be it the title or lyrics so you can l
 
 Or, read a few newsletter issues first (you'll have to click on the songs):
 
+- [Don't Worry 'Bout SRE](https://sunday.fudge.org/p/dont-worry-bout-sre) 2022 Nov 28
 - [I Want To Thank You](https://sunday.fudge.org/p/i-want-to-thank-you) 2022 Nov 20
 - [Twit Can Happen](https://sunday.fudge.org/p/twit-can-happen) 2022 Nov 13
 - [A Matter of Zero Trust](https://sunday.fudge.org/p/a-matter-of-zero-trust) 2022 Nov 06
