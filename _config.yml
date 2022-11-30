@@ -99,9 +99,6 @@ author:
     - label: "Keybase"
       icon: "fab fa-keybase"
       url: "https://keybase.io/jaycuthrell"
-    - label: "Mastodon"
-      icon: "fa-brands fa-mastodon"
-      url: "https://cuthrell.com/@jay"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/jaycuthrell"
@@ -127,14 +124,9 @@ owner:
 social:
   name: Jay Cuthrell
   links:
-    - https://twitter.com/JayCuthrell
     - https://www.linkedin.com/in/JayCuthrell
     - https://github.com/JayCuthrell
     - https://keybase.io/JayCuthrell
-
-twitter:
-  username: JayCuthrell
-  card: summary
 
 pagination:
   enabled: true

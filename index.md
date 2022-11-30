@@ -25,7 +25,7 @@ Jay previously served in advisory board roles with successful exits at Racemi (a
 
 Jay completed the INFOSEC Assessment Training and Rating Program for INFOSEC Assessment Methodology by the National Security Agency in 2003. He has maintained a membership with InfraGard since 2004. Jay is certified for Facilitation of Executive Briefings by the Association of Briefing Program Managers and is a discussion leader experienced with audiences from executive boardrooms to the halls and stages of South by Southwest® (SXSW®).
 
-Jay is on LinkedIn at [https://www.linkedin.com/in/jaycuthrell](https://www.linkedin.com/in/jaycuthrell).
+<a rel="me" href="https://cuthrell.com/@jay">Jay</a> is on LinkedIn at [https://www.linkedin.com/in/jaycuthrell](https://www.linkedin.com/in/jaycuthrell).
 
 Jay holds a BS in Materials Science and Engineering from North Carolina State University.
 
