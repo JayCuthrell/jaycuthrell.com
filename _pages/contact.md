@@ -22,6 +22,7 @@ I use phone, SMS, email, and video conference apps but prefer to establish a sec
 
 - Personal 
    - Personal Mobile [+1-415-763-8343](tel:1-415-763-8343)
+   - Personal Mastodon [@jay@cuthrell.com](https://cuthrell.com/@jay)
    - Personal Email [jay@cuthrell.com](mailto:jay@cuthrell.com?SUBJECT=2022+via+jaycuthrell.com)
    - Personal Meeting Request [https://calendly.com/jaycuthrell/call](https://calendly.com/jaycuthrell/call)
    - Personal Mail ```1903 Live Oak St #92 Beaufort, NC 28516-0092```
