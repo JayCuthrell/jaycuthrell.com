@@ -18,6 +18,7 @@ I try to include a song as an inspiration be it the title or lyrics so you can l
 
 Or, read a few newsletter issues first (you'll have to click on the songs):
 
+- [Proxy Tear Us Apart](https://fudge.org/archive/proxy-tear-us-apart/) 2022 Dec 11
 - [Fediverse Moving over the Face of the Waters](https://fudge.org/archive/fediverse-moving-over-the-face-of-the-waters/) 2022 Dec 03
 - [Don't Worry 'Bout SRE](https://fudge.org/archive/dont-worry-bout-sre/) 2022 Nov 28
 - [I Want To Thank You](https://fudge.org/archive/i-want-to-thank-you/) 2022 Nov 20
