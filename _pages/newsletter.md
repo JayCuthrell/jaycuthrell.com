@@ -45,25 +45,25 @@ Or, read a few newsletter issues first (you'll have to click on the songs):
 - [Make IIoT Easy On Yourself](https://fudge.org/archive/make-iiot-easy-on-yourself/) 2022 Jun 26
 - [Me and My POSSE](https://fudge.org/archive/me-and-my-posse/) 2022 Jun 19
 - [Around the Bend](https://fudge.org/archive/around-the-bend/) 2022 Jun 12
-- [Moving Out](https://fudge.org/archive/fudge-sunday-moving-out4) 2022 Jun 05
-- [Ramble On](https://fudge.org/archive/fudge-sunday-ramble-on3) 2022 May 29
-- [Follow the Lyrical Leadership Listicles](https://fudge.org/archive/fudge-sunday-follow-the-lyrical-leadership-listicles5) 2022 May 23
-- [Singularity and Super Massive Black Holes](https://fudge.org/archive/fudge-sunday-singularity-and-super-massive-black-holes0) 2022 May 16
-- [Twitter Travel Algorithmic Oddities](https://fudge.org/archive/fudge-sunday-twitter-travel-algorithmic-oddities4) 2022 May 08
-- [Just Can't Get Enough](https://fudge.org/archive/fudge-sunday-just-can-t-get-enough0) 2022 May 01
-- [FinOps Erase and Rewind](https://fudge.org/archive/fudge-sunday-finops-erase-and-rewind4) 2022 Apr 24
-- [Come Together](https://fudge.org/archive/fudge-sunday-come-together5) 2022 Apr 17
-- [The Turning](https://fudge.org/archive/fudge-sunday-the-turning9) 2022 Apr 10
-- [Summertime Pastness](https://fudge.org/archive/fudge-sunday-summertime-pastness4) 2022 Apr 03
-- [Needle in a Fullstack](https://fudge.org/archive/fudge-sunday-needle-in-a-fullstack7) 2022 Mar 27
-- [Once in a Pipeline](https://fudge.org/archive/fudge-sunday-once-in-a-pipeline6) 2022 Mar 20
-- [Everything Counts in Ops Amounts](https://fudge.org/archive/fudge-sunday-everything-counts-in-ops-amounts5) 2022 Mar 14
-- [Max Headroom, OSINT, and Today's Tom Sawyer](https://fudge.org/archive/fudge-sunday-max-headroom-osint-and-today-s-tom-sawyer7) 2022 Mar 07
-- [M&M's,  Moose, and Management Meditations](https://fudge.org/archive/fudge-sunday-m-m-s-moose-and-management-meditations1) 2022 Feb 27
-- [The Last Decacorn](https://fudge.org/archive/fudge-sunday-the-last-decacorn5) 2022 Feb 20
-- [Peek A Boo](https://fudge.org/archive/fudge-sunday-peek-a-boo6) 2022 Feb 14
-- [99 6G Balloons](https://fudge.org/archive/fudge-sunday-99-6g-balloons7) 2022 Feb 07
-- [Cut Me Some Slack](https://fudge.org/archive/fudge-sunday-cut-me-some-slack0) 2022 Jan 31
+- [Moving Out](https://fudge.org/archive/fudge-sunday-moving-out) 2022 Jun 05
+- [Ramble On](https://fudge.org/archive/fudge-sunday-ramble-on) 2022 May 29
+- [Follow the Lyrical Leadership Listicles](https://fudge.org/archive/fudge-sunday-follow-the-lyrical-leadership-listicles) 2022 May 23
+- [Singularity and Super Massive Black Holes](https://fudge.org/archive/fudge-sunday-singularity-and-super-massive-black-holes) 2022 May 16
+- [Twitter Travel Algorithmic Oddities](https://fudge.org/archive/fudge-sunday-twitter-travel-algorithmic-oddities) 2022 May 08
+- [Just Can't Get Enough](https://fudge.org/archive/fudge-sunday-just-can-t-get-enough) 2022 May 01
+- [FinOps Erase and Rewind](https://fudge.org/archive/fudge-sunday-finops-erase-and-rewind) 2022 Apr 24
+- [Come Together](https://fudge.org/archive/fudge-sunday-come-together) 2022 Apr 17
+- [The Turning](https://fudge.org/archive/fudge-sunday-the-turning) 2022 Apr 10
+- [Summertime Pastness](https://fudge.org/archive/fudge-sunday-summertime-pastness) 2022 Apr 03
+- [Needle in a Fullstack](https://fudge.org/archive/fudge-sunday-needle-in-a-fullstack) 2022 Mar 27
+- [Once in a Pipeline](https://fudge.org/archive/fudge-sunday-once-in-a-pipeline) 2022 Mar 20
+- [Everything Counts in Ops Amounts](https://fudge.org/archive/fudge-sunday-everything-counts-in-ops-amounts) 2022 Mar 14
+- [Max Headroom, OSINT, and Today's Tom Sawyer](https://fudge.org/archive/fudge-sunday-max-headroom-osint-and-today-s-tom-sawyer) 2022 Mar 07
+- [M&M's,  Moose, and Management Meditations](https://fudge.org/archive/fudge-sunday-m-m-s-moose-and-management-meditations) 2022 Feb 27
+- [The Last Decacorn](https://fudge.org/archive/fudge-sunday-the-last-decacorn) 2022 Feb 20
+- [Peek A Boo](https://fudge.org/archive/fudge-sunday-peek-a-boo) 2022 Feb 14
+- [99 6G Balloons](https://fudge.org/archive/fudge-sunday-99-6g-balloons) 2022 Feb 07
+- [Cut Me Some Slack](https://fudge.org/archive/fudge-sunday-cut-me-some-slack) 2022 Jan 31
 - [Hype Or Loop?](https://fudge.org/archive/fudge-sunday-hype-or-loop) 2022 Jan 24
 - [Fiber To The Homologous](https://fudge.org/archive/fudge-sunday-fiber-to-the-homologous) 2022 Jan 17
 - [Belatedly Beckoning Bespoke Beacons](https://fudge.org/archive/fudge-sunday-belatedly-beckoning-bespoke-beacons) 2022 Jan 10
