@@ -16,7 +16,7 @@ Selected blog posts can be viewed at [https://fudge.org](https://fudge.org).
 # Converted blog posts
 
 - [Looking For Looking For](https://fudge.org/archive/looking-for-looking-for/) 2022 Jan 03
-- [Find your ROD and REEL](https://fudge.org/archive/rod-and-reel/) 2021 Dec 15
+- [Find your ROD and REEL](https://fudge.org/archive/find-your-rod-and-reel/) 2021 Dec 15
 - [Multicloud Summer Reading](https://fudge.org/archive/multicloud-summer-reading/) 2021 Jun 15
 - [Multicloud March](https://fudge.org/archive/multicloud-march/) 2021 Apr 10
 - [Cloud Data Services Ahead](https://fudge.org/archive/cloud-data-services-ahead/) 2020 Dec 31
@@ -25,7 +25,7 @@ Selected blog posts can be viewed at [https://fudge.org](https://fudge.org).
 - [Thinking Remotely](https://fudge.org/archive/thinking-remotely/) 2020 Sep 27
 - [Emerging Hype](https://fudge.org/archive/emerging-hype/) 2020 Aug 25
 - [Own Your Content](https://fudge.org/archive/own-your-content/) 2020 Aug 23
-- [My Ninth Year at Dell Technologies](https://fudge.org/archive/my-ninth-year-at-vce/) 2019 Oct 18
+- [My Ninth Year at Dell Technologies](https://fudge.org/archive/my-ninth-year-at-dell-technologies/) 2019 Oct 18
 - [Private Podcasting and Max Headroom](https://fudge.org/archive/private-podcasting-and-max-headroom/) 2019 May 27
 - [Thinking Outside the Cardboard Box](https://fudge.org/archive/thinking-outside-the-cardboard-box/) 2019 May 20
 - [Internet of Things Have Changed](https://fudge.org/archive/internet-of-things-have-changed/) 2019 May 13
@@ -42,8 +42,8 @@ Selected blog posts can be viewed at [https://fudge.org](https://fudge.org).
 - [Dance and Technology](https://fudge.org/archive/dance-and-technology/) 2019 Feb 17
 - [Google Nonplussed](https://fudge.org/archive/google-nonplussed/) 2019 Feb 02
 - [20 Years of Blogging](https://fudge.org/archive/20-years-of-blogging/) 2018 Dec 12
-- [My Eighth Year at Dell](https://fudge.org/archive/my-eighth-year-at-vce/) 2018 Oct 08
-- [My Seventh Year at Dell EMC](https://fudge.org/archive/my-seventh-year-at-vce/) 2017 Oct 18
+- [My Eighth Year at Dell](https://fudge.org/archive/my-eighth-year-at-dell/) 2018 Oct 08
+- [My Seventh Year at Dell EMC](https://fudge.org/archive/my-seventh-year-at-dell-emc/) 2017 Oct 18
 - [A New Map](https://fudge.org/archive/a-new-map/) 2017 Jul 08
 - [On Twitter](https://fudge.org/archive/on-twitter/) 2017 Jun 24
 - [Converged Thoughts Twelve](https://fudge.org/archive/converged-thoughts-twelve/) 2017 Jan 09
@@ -59,13 +59,13 @@ Selected blog posts can be viewed at [https://fudge.org](https://fudge.org).
 - [Converged Thoughts Two](https://fudge.org/archive/converged-thoughts-two/) 2016 Dec 30
 - [Converged Thoughts One](https://fudge.org/archive/converged-thoughts-one/) 2016 Dec 29
 - [Notifications Zero](https://fudge.org/archive/notifications-zero/) 2016 Dec 26
-- [Software is a Villain](https://fudge.org/archive/software-is-a-villian-that-wants-great-abs/) 2016 Dec 21
-- [My Sixth Year at VCE and My Sixth Week at Dell EMC](https://fudge.org/archive/my-sixth-year-at-vce/) 2016 Oct 22
+- [Software is a Villain](https://fudge.org/archive/software-is-a-villian/) 2016 Dec 21
+- [My Sixth Year at VCE and My Sixth Week at Dell EMC](https://fudge.org/archive/my-sixth-year-at-vce-and-my-sixth-week-at-dell-emc/) 2016 Oct 22
 - [Have Your AI Call My AI](https://fudge.org/archive/have-your-ai-call-my-ai/) 2016 Oct 12
 - [The Perfect Team](https://fudge.org/archive/the-perfect-team/) 2015 Oct 23
 - [My Fifth Year at VCE](https://fudge.org/archive/my-fifth-year-at-vce/) 2015 Oct 17
 - [My Fourth Year at VCE](https://fudge.org/archive/my-fourth-year-at-vce/) 2014 Oct 18
-- [ESTEEM is STEM plus Ethics plus Empathy](https://fudge.org/archive/esteem-stem-ethics-empathy/) 2014 Jan 20
+- [ESTEEM is STEM plus Ethics plus Empathy](https://fudge.org/archive/esteem-is-stem-plus-ethics-plus-empathy/) 2014 Jan 20
 - [The 5 Ps of Workloads](https://fudge.org/archive/the-5-ps-of-workloads/) 2014 Jan 17
 - [Be My Advisor](https://fudge.org/archive/be-my-advisor/) 2013 Nov 08
 - [My Third Year at VCE](https://fudge.org/archive/my-third-year-at-vce/) 2013 Sep 07
