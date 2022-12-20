@@ -59,7 +59,7 @@ Selected blog posts can be viewed at [https://fudge.org](https://fudge.org).
 - [Converged Thoughts Two](https://fudge.org/archive/converged-thoughts-two/) 2016 Dec 30
 - [Converged Thoughts One](https://fudge.org/archive/converged-thoughts-one/) 2016 Dec 29
 - [Notifications Zero](https://fudge.org/archive/notifications-zero/) 2016 Dec 26
-- [Software is a Villain](https://fudge.org/archive/software-is-a-villian/) 2016 Dec 21
+- [Software is a Villain](https://fudge.org/archive/software-is-a-villain/) 2016 Dec 21
 - [My Sixth Year at VCE and My Sixth Week at Dell EMC](https://fudge.org/archive/my-sixth-year-at-vce-and-my-sixth-week-at-dell-emc/) 2016 Oct 22
 - [Have Your AI Call My AI](https://fudge.org/archive/have-your-ai-call-my-ai/) 2016 Oct 12
 - [The Perfect Team](https://fudge.org/archive/the-perfect-team/) 2015 Oct 23
