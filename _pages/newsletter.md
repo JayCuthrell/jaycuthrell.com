@@ -48,10 +48,10 @@ Or, read a few newsletter issues first (you'll have to click on the songs):
 - [Around the Bend](https://fudge.org/archive/around-the-bend/) 2022 Jun 12
 - [Moving Out](https://fudge.org/archive/fudge-sunday-moving-out) 2022 Jun 05
 - [Ramble On](https://fudge.org/archive/fudge-sunday-ramble-on) 2022 May 29
-- [Follow the Lyrical Leadership Listicles](https://fudge.org/archive/fudge-sunday-follow-the-lyrical-leadership-listicles) 2022 May 23
-- [Singularity and Super Massive Black Holes](https://fudge.org/archive/fudge-sunday-singularity-and-super-massive-black-holes) 2022 May 16
+- [Follow the Lyrical Leadership Listicles](https://fudge.org/archive/fudge-sunday-follow-the-lyrical-leadership/) 2022 May 23
+- [Singularity and Super Massive Black Holes](https://fudge.org/archive/fudge-sunday-singularity-and-super-massive-black/) 2022 May 16
 - [Twitter Travel Algorithmic Oddities](https://fudge.org/archive/fudge-sunday-twitter-travel-algorithmic-oddities) 2022 May 08
-- [Just Can't Get Enough](https://fudge.org/archive/fudge-sunday-just-can-t-get-enough) 2022 May 01
+- [Just Can't Get Enough](https://fudge.org/archive/fudge-sunday-just-cant-get-enough/) 2022 May 01
 - [FinOps Erase and Rewind](https://fudge.org/archive/fudge-sunday-finops-erase-and-rewind) 2022 Apr 24
 - [Come Together](https://fudge.org/archive/fudge-sunday-come-together) 2022 Apr 17
 - [The Turning](https://fudge.org/archive/fudge-sunday-the-turning) 2022 Apr 10
@@ -59,8 +59,8 @@ Or, read a few newsletter issues first (you'll have to click on the songs):
 - [Needle in a Fullstack](https://fudge.org/archive/fudge-sunday-needle-in-a-fullstack) 2022 Mar 27
 - [Once in a Pipeline](https://fudge.org/archive/fudge-sunday-once-in-a-pipeline) 2022 Mar 20
 - [Everything Counts in Ops Amounts](https://fudge.org/archive/fudge-sunday-everything-counts-in-ops-amounts) 2022 Mar 14
-- [Max Headroom, OSINT, and Today's Tom Sawyer](https://fudge.org/archive/fudge-sunday-max-headroom-osint-and-today-s-tom-sawyer) 2022 Mar 07
-- [M&M's,  Moose, and Management Meditations](https://fudge.org/archive/fudge-sunday-m-m-s-moose-and-management-meditations) 2022 Feb 27
+- [Max Headroom, OSINT, and Today's Tom Sawyer](https://fudge.org/archive/fudge-sunday-max-headroom-osint-and-todays-tom/) 2022 Mar 07
+- [M&M's,  Moose, and Management Meditations](https://fudge.org/archive/fudge-sunday-mms-moose-and-management-meditations) 2022 Feb 27
 - [The Last Decacorn](https://fudge.org/archive/fudge-sunday-the-last-decacorn) 2022 Feb 20
 - [Peek A Boo](https://fudge.org/archive/fudge-sunday-peek-a-boo) 2022 Feb 14
 - [99 6G Balloons](https://fudge.org/archive/fudge-sunday-99-6g-balloons) 2022 Feb 07
@@ -72,11 +72,11 @@ Or, read a few newsletter issues first (you'll have to click on the songs):
 - [Cheap as Chips in 2022](https://fudge.org/archive/fudge-sunday-cheap-as-chips-in-2022) 2021 Dec 27
 - [Zettelkasten End of Year Favorites](https://fudge.org/archive/fudge-sunday-zettelkasten-end-of-year-favorites) 2021 Dec 20
 - [Multicloud, XaaS, and Service Mesh](https://fudge.org/archive/fudge-sunday-multicloud-xaas-and-service-mesh) 2021 Dec 13
-- [Our Low Code No Code Past, Present, and Future](https://fudge.org/archive/fudge-sunday-our-low-code-no-code-past-present-and-future) 2021 Dec 06
+- [Our Low Code No Code Past, Present, and Future](https://fudge.org/archive/fudge-sunday-our-low-code-no-code-past-present/) 2021 Dec 06
 - [Oh What A Tangled Web3 We Weave](https://fudge.org/archive/fudge-sunday-oh-what-a-tangled-web3-we-weave) 2021 Nov 29
 - [SaaS Trendspotting](https://fudge.org/archive/fudge-sunday-saas-trendspotting) 2021 Nov 22
 - [Three recommendations walk into a bar...](https://fudge.org/archive/fudge-sunday-three-recommendations-walk-into-a-bar) 2021 Nov 14
-- [Twitter, Matter, and Data-Driven Journalism](https://fudge.org/archive/fudge-sunday-twitter-matter-and-data-driven-journalism) 2021 Nov 08
+- [Twitter, Matter, and Data-Driven Journalism](https://fudge.org/archive/fudge-sunday-twitter-matter-and-data-driven/) 2021 Nov 08
 - [Cloud in Public: Impact Mapping](https://fudge.org/archive/fudge-sunday-cloud-in-public-impact-mapping) 2021 Nov 01
 - [Cloud in Public: Mean Time To RCA](https://fudge.org/archive/fudge-sunday-cloud-in-public-mean-time-to-rca) 2021 Oct 25
 - [Cloud in Public: DevCommsOps](https://fudge.org/archive/fudge-sunday-cloud-in-public-devcommsops) 2021 Oct 18
@@ -84,32 +84,32 @@ Or, read a few newsletter issues first (you'll have to click on the songs):
 - [Cloud in Public: Status Dashboards](https://fudge.org/archive/fudge-sunday-cloud-in-public-status-dashboards) 2021 Oct 03
 - [Razor Thin Margins of Error Bars](https://fudge.org/archive/fudge-sunday-razor-thin-margins-of-error-bars) 2021 Sep 26
 - [MultiCloudWashing Detergent](https://fudge.org/archive/fudge-sunday-multicloudwashing-detergent) 2021 Sep 20
-- [Betting Odds and Ends Justify the Means of Production](https://fudge.org/archive/fudge-sunday-betting-odds-and-ends-justify-the-means-of-production) 2021 Sep 13
+- [Betting Odds and Ends Justify the Means of Production](https://fudge.org/archive/fudge-sunday-betting-odds-and-ends-justify-the/) 2021 Sep 13
 - [Data Portability](https://fudge.org/archive/fudge-sunday-data-portability) 2021 Sep 06
-- [Possible, Permissible, Sustainable, Repeatable, Advisable](https://fudge.org/archive/fudge-sunday-possible-permissible-sustainable-repeatable-advisable) 2021 Aug 30
+- [Possible, Permissible, Sustainable, Repeatable, Advisable](https://fudge.org/archive/fudge-sunday-possible-permissible-sustainable/) 2021 Aug 30
 - [Dig Your Own SQL](https://fudge.org/archive/fudge-sunday-dig-your-own-sql) 2021 Aug 23
-- [What's a Server?](https://fudge.org/archive/fudge-sunday-what-s-a-server) 2021 Aug 15
+- [What's a Server?](https://fudge.org/archive/fudge-sunday-whats-a-server) 2021 Aug 15
 - [Gaming, Healthcare, and Convergence](https://fudge.org/archive/fudge-sunday-gaming-healthcare-and-convergence) 2021 Aug 08
-- [I Don't Know Where I'll Be Tomorrow](https://fudge.org/archive/fudge-sunday-i-don-t-know-where-i-ll-be-tomorrow) 2021 Aug 01
+- [I Don't Know Where I'll Be Tomorrow](https://fudge.org/archive/fudge-sunday-i-dont-know-where-ill-be-tomorrow) 2021 Aug 01
 - [Get High On a New Thing](https://fudge.org/archive/fudge-sunday-get-high-on-a-new-thing) 2021 Jul 25
 - [All Along the Watchtower](https://fudge.org/archive/fudge-sunday-all-along-the-watchtower) 2021 Jul 18
 - [And All Points In Between](https://fudge.org/archive/fudge-sunday-and-all-points-in-between) 2021 Jul 11
-- [And the way that gravity pulls on everyone](https://fudge.org/archive/fudge-sunday-and-the-way-that-gravity-pulls-on-everyone) 2021 Jul 04
+- [And the way that gravity pulls on everyone](https://fudge.org/archive/fudge-sunday-and-the-way-that-gravity-pulls-on/) 2021 Jul 04
 - [Reflecting and Projecting](https://fudge.org/archive/fudge-sunday-reflecting-and-projecting) 2021 Jun 27
-- [What I've been reading lately](https://fudge.org/archive/fudge-sunday-what-i-ve-been-reading-lately) 2021 Jun 20
-- [When a Clubhouse asks if Enterprise selling can be remote](https://fudge.org/archive/fudge-sunday-when-a-clubhouse-asks-if-enterprise-selling-can-be-remote) 2021 Jun 11
+- [What I've been reading lately](https://fudge.org/archive/fudge-sunday-what-ive-been-reading-lately) 2021 Jun 20
+- [When a Clubhouse asks if Enterprise selling can be remote](https://fudge.org/archive/fudge-sunday-when-a-clubhouse-asks-if-enterprise) 2021 Jun 11
 - [Private Podcasting and Max Headroom](https://fudge.org/archive/fudge-sunday-private-podcasting-and-max-headroom) 2019 May 27
 - [Thinking Outside the Cardboard Box](https://fudge.org/archive/fudge-sunday-thinking-outside-the-cardboard-box) 2019 May 20
 - [Internet of Things (Have Changed)](https://fudge.org/archive/fudge-sunday-internet-of-things-have-changed) 2019 May 13
 - [Las Vegas Edition](https://fudge.org/archive/fudge-sunday-las-vegas-edition) 2019 May 06
 - [Vacation Edition](https://fudge.org/archive/fudge-sunday-vacation-edition) 2019 Apr 29
-- [Tomorrow You Probably Saw This Already](https://fudge.org/archive/fudge-sunday-tomorrow-you-probably-saw-this-already) 2019 Apr 21
+- [Tomorrow You Probably Saw This Already](https://fudge.org/archive/fudge-sunday-tomorrow-you-probably-saw-this/) 2019 Apr 21
 - [Reflections on a Dot-Com Legacy](https://fudge.org/archive/fudge-sunday-reflections-on-a-dot-com-legacy) 2019 Apr 15
 - [Roll Your Own](https://fudge.org/archive/fudge-sunday-roll-your-own) 2019 Apr 08
-- [Life at 34,000 Feet](https://fudge.org/archive/fudge-sunday-life-at-34-000-feet) 2019 Apr 01
+- [Life at 34,000 Feet](https://fudge.org/archive/fudge-sunday-life-at-34000-feet) 2019 Apr 01
 - [A Decade of GitHub](https://fudge.org/archive/fudge-sunday-a-decade-of-github) 2019 Mar 25
 - [Road Warrior Redux](https://fudge.org/archive/fudge-sunday-road-warrior-redux) 2019 Mar 18
 - [Mic Check 1, 2, 3](https://fudge.org/archive/fudge-sunday-mic-check-1-2-3) 2019 Mar 11
 - [Quantum Leap Years](https://fudge.org/archive/fudge-sunday-quantum-leap-years) 2019 Mar 04
-- [What Happens in Augmented Reality Stays in Augmented Reality](https://fudge.org/archive/fudge-sunday-what-happens-in-augmented-reality-stays-in-augmented-reality) 2019 Feb 25
+- [What Happens in Augmented Reality Stays in Augmented Reality](https://fudge.org/archive/fudge-sunday-what-happens-in-augmented-reality) 2019 Feb 25
 - [Issue #1](https://fudge.org/archive/fudge-sunday-issue-1) 2019 Feb 17
