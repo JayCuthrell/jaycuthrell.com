@@ -112,7 +112,7 @@ author:
       icon: "fa fa-linkedin"
       url: "https://linkedin.com/in/jaycuthrell"
     - label: "Phone"
-      icon: "fa fa-mobile-alt"
+      icon: "fa fa-phone-square"
       url: "https://jaycuthrell.com/contact/"
     - label: "Email"
       icon: "fa fa-envelope"
