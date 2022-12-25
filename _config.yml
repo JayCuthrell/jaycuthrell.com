@@ -96,6 +96,9 @@ author:
   avatar: "/images/apple-touch-icon-180x180.png" 
   location: "USA"
   links:
+    - label: "Mastodon"
+      icon: "fa-brands fa-mastodon"
+      url: "https://cuthrell.com/@jay"
     - label: "Keybase"
       icon: "fab fa-keybase"
       url: "https://keybase.io/jaycuthrell"
