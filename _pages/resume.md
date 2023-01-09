@@ -42,7 +42,7 @@ Dell EMC
 EMC
 
 ![VCE](/images/vce.png) 
-VCE
+VCE (VMware, Cisco, EMC)
 
 ![cuthrell.com](/images/cuthrellconsulting.png) 
 Cuthrell Consulting
