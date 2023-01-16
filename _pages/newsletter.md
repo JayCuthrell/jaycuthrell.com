@@ -18,6 +18,7 @@ I try to include a song as an inspiration be it the title or lyrics so you can l
 
 Or, read a few newsletter issues first (you'll have to click on the songs):
 
+- [Cost Cause](https://fudge.org/archive/cost-cause/) 2023 Jan 16
 - [Happy When It Toolchains](https://fudge.org/archive/happy-when-it-toolchains/) 2023 Jan 08
 - [Such Tweet Nothing](https://fudge.org/archive/such-tweet-nothing/) 2023 Jan 01
 - [How Soon is Next Year?](https://fudge.org/archive/how-soon-is-next-year/) 2022 Dec 26
