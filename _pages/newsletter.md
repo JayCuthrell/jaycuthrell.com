@@ -18,6 +18,7 @@ I try to include a song as an inspiration be it the title or lyrics so you can l
 
 Or, read a few newsletter issues first (you'll have to click on the songs):
 
+- [IDP Clearly Now](https://fudge.org/archive/idp-clearly-now/) 2023 Jan 30
 - [Deploy Everything You Touch](https://fudge.org/archive/deploy-everything-you-touch/) 2023 Jan 23
 - [Cost Cause](https://fudge.org/archive/cost-cause/) 2023 Jan 16
 - [Happy When It Toolchains](https://fudge.org/archive/happy-when-it-toolchains/) 2023 Jan 08
