@@ -33,7 +33,11 @@ Musical Ramblings Part 1, 2, and 3
 
 Send me a note if you like my stuff! Also, anyone wanting to sample my stuff can do so under [Attribution-ShareAlike 2.0 Generic (CC BY-SA 2.0)](https://creativecommons.org/licenses/by-sa/2.0/).
 
-### Newest Noodles (2022-Present)
+### Newest Noodles 2023
+
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/1561453507&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/jaycuthrell" title="Jay Cuthrell aka qthrul aka fudge" target="_blank" style="color: #cccccc; text-decoration: none;">Jay Cuthrell aka qthrul aka fudge</a> · <a href="https://soundcloud.com/jaycuthrell/sets/newest-noodles-2023" title="Newest Noodles 2023" target="_blank" style="color: #cccccc; text-decoration: none;">Newest Noodles 2023</a></div>
+
+### Newest Noodles 2022
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/1425025342&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/jaycuthrell" title="jaycuthrell" target="_blank" style="color: #cccccc; text-decoration: none;">jaycuthrell</a> · <a href="https://soundcloud.com/jaycuthrell/sets/newest-noodles" title="Newest Noodles 2022" target="_blank" style="color: #cccccc; text-decoration: none;">Newest Noodles 2022</a></div> 
 
