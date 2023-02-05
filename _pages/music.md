@@ -6,6 +6,9 @@ related: true
 
 ---
 
+
+<iframe id="embedPlayer" src="https://embed.podcasts.apple.com/us/podcast/jay-cuthrell-aka-qthrul-aka-fudge/id1669867641?itsct=podcast_box_player&amp;itscg=30200&amp;ls=1&amp;theme=auto" height="450px" frameborder="0" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation-by-user-activation" allow="autoplay *; encrypted-media *; clipboard-write" style="width: 100%; max-width: 660px; overflow: hidden; border-radius: 10px; transform: translateZ(0px); animation: 2s ease 0s 6 normal none running loading-indicator; background-color: rgb(228, 228, 228);"></iframe>
+
 I have been noodling around with music since I was in high school. It all started with an air powered organ and having a piano around as a small child. I never had lessons other than to learn trombone. Now that I have a Mac and access to GB there is a much shorter path to me cranking out music. I like that. My 4 track days were such a pain! :)
 
 Also, I don't have lyrics for anything I have up here and it's not often that the song lasts for more than 60 seconds... so maybe song isn't the right word... perhaps I would do better to call them jingles.
