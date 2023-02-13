@@ -22,7 +22,7 @@ I try to include a song as an inspiration be it the title or lyrics so you can l
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/2ZALK6TiXvBVztITrrybkN?utm_source=generator" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
 
-Or, read a few newsletter issues first (you'll have to click on the songs):
+Or, read a few newsletter issues first:
 
 - [k8s Operator, Could You Help Me Place SysCall?](https://fudge.org/archive/k8s-operator-could-you-help-me-place-syscall/) 2023 Feb 13
 - [Smooth k8s Operator](https://fudge.org/archive/smooth-k8s-operator/) 2023 Feb 05
