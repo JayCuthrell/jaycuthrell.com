@@ -24,6 +24,7 @@ I try to include a song as an inspiration be it the title or lyrics so you can l
 
 Or, read a few newsletter issues first:
 
+- [Map of the Platformatique](https://fudge.org/archive/map-of-the-platformatique/) 2023 Feb 20
 - [k8s Operator, Could You Help Me Place SysCall?](https://fudge.org/archive/k8s-operator-could-you-help-me-place-syscall/) 2023 Feb 13
 - [Smooth k8s Operator](https://fudge.org/archive/smooth-k8s-operator/) 2023 Feb 05
 - [IDP Clearly Now](https://fudge.org/archive/idp-clearly-now/) 2023 Jan 30
