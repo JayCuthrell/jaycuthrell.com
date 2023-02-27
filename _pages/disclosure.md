@@ -29,7 +29,7 @@ Any personal profiles on Twitter, LinkedIn, or other services on the Internet ar
 
 ### My Employers, Clients, and Customers
 
-As of August 2022, I am presently in a new role at [Taos, an IBM Company](https://www.taos.com/resources/press-releases/taos-brings-aboard-new-senior-vice-president-of-products-to-accelerate-digital-transformation-strategies/).
+As of August 2022, I am presently in a new role at [IBM](https://web.archive.org/web/20221007035315/https://www.taos.com/resources/press-releases/taos-brings-aboard-new-senior-vice-president-of-products-to-accelerate-digital-transformation-strategies/).
 
 My [CV / resumé is available exclusively on this website](/resume/) and I may update other formats such as my [LinkedIn profile](https://linkedin.com/in/jaycuthrell) from time to time.
 

@@ -30,6 +30,6 @@ The _hindsight 20/20 storytelling_ goes something like this... but [my meanderin
 * By late 2016, Dell EMC were combined and by 2020 became known as Dell Technologies.
 * In 2020, my time at Dell Technologies ended and my next adventure in multicloud took me to [Faction](https://www.factioninc.com/).
 * By late 2022, my time at Faction ended as I once again returned to my consulting roots.
-* Now, 25+ years later, I am fortunate to be able to return to IBM and apply all that I have learned to [_What's Next_](https://www.taos.com/resources/press-releases/taos-brings-aboard-new-senior-vice-president-of-products-to-accelerate-digital-transformation-strategies/).
+* Now, 25+ years later, I am fortunate to be able to return to IBM and apply all that I have learned to [_What's Next_](https://web.archive.org/web/20221007035315/https://www.taos.com/resources/press-releases/taos-brings-aboard-new-senior-vice-president-of-products-to-accelerate-digital-transformation-strategies/).
 
 [To be continued...](/resume/)
