@@ -24,6 +24,7 @@ I try to include a song as an inspiration be it the title or lyrics so you can l
 
 Or, read a few newsletter issues first:
 
+- [Google Service (Dream) Weaver](https://fudge.org/archive/google-service-dream-weaver/) 2023 Mar 12
 - [Buf.build Your REST](https://fudge.org/archive/bufbuild-your-rest/) 2023 Mar 06
 - [IDP Wasn't Built in a Day](https://fudge.org/archive/idp-wasnt-built-in-a-day/) 2023 Feb 26
 - [Map of the Platformatique](https://fudge.org/archive/map-of-the-platformatique/) 2023 Feb 20
