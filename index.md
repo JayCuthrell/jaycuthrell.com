@@ -8,7 +8,7 @@ permalink: /
 
 - Servant Leader 
 - Corporate Free Safety 
-- Former CTO / VP / GM 
+- Former CTO / SVP / GM 
 - Helped grow a business from 0 to multi $B
 
 William J. Cuthrell (Jay) is an innovative technology executive and sought after servant leader. He is a prolific influencer and [writer](https://jaycuthrell.com/media) who communicates with ease at C-suite and practitioner levels [across traditional and emerging mediums](https://jaycuthrell.com/media) on digital transformation strategy in holistic full-stack engagements. His passion is taking vision from design to reality to become growth engines. Jay’s expertise demonstrated through substantial growth and change cycles provides a unique perspective into the technology industry’s future.
