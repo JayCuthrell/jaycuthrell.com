@@ -24,6 +24,7 @@ I try to include a song as an inspiration be it the title or lyrics so you can l
 
 Or, read a few newsletter issues first:
 
+- [Saved by env0](https://fudge.org/archive/saved-by-env0/) 2023 Apr 03
 - [Quaterly Roundup Edition](https://fudge.org/archive/quaterly-roundup-edition/) 2023 Mar 26
 - [The Promised Landing Zones](https://fudge.org/archive/the-promised-landing-zones/) 2023 Mar 20
 - [Google Service (Dream) Weaver](https://fudge.org/archive/google-service-dream-weaver/) 2023 Mar 12
