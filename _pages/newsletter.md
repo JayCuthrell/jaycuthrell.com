@@ -24,6 +24,7 @@ I try to include a song as an inspiration be it the title or lyrics so you can l
 
 Or, read a few newsletter issues first:
 
+- [One IDP piece at a time](https://fudge.org/archive/one-idp-piece-at-a-time/) 2023 May 07
 - [R U DevX Experienced?](https://fudge.org/archive/are-you-devx-experienced/) 2023 Apr 30
 - [Press Rewind](https://fudge.org/archive/press-rewind/) 2023 Apr 24
 - [What's Golden Path?](https://fudge.org/archive/whats-golden-path/) 2023 Apr 16
