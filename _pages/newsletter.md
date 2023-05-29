@@ -24,6 +24,8 @@ I try to include a song as an inspiration be it the title or lyrics so you can l
 
 Or, read a few newsletter issues first:
 
+- [Zero Tickets to Paradise](https://fudge.org/archive/zero-tickets-to-paradise/) 2023 May 29
+- [Do You Need The Service Catalog?](https://fudge.org/archive/do-you-need-the-service-catalog/) 2023 May 21
 - [It's Not Easy Being GreenDevSecFinOps](https://fudge.org/archive/its-not-easy-being-greendevsecfinops/) 2023 May 14
 - [One IDP piece at a time](https://fudge.org/archive/one-idp-piece-at-a-time/) 2023 May 07
 - [R U DevX Experienced?](https://fudge.org/archive/are-you-devx-experienced/) 2023 Apr 30
