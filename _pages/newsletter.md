@@ -48,3 +48,8 @@ I try to include a song as an inspiration be it the title or lyrics so you can l
  - [I Want To Thank You](https://fudge.org/archive/i-want-to-thank-you/)  2022 Nov 20
  - [Twit Can Happen](https://fudge.org/archive/twit-can-happen/)  2022 Nov 13
 
+Last auto generated Mon Jun  5 01:37:26 2023
+
+This auto generated file is created by code based on examples from [@dylanroy](https://towardsdatascience.com/auto-updating-your-github-profile-with-python-cde87b638168) and [@eugeneyan](https://github.com/eugeneyan)
+
+[![Build status for newsletter page](https://github.com/JayCuthrell/jaycuthrell.com/workflows/cron/badge.svg?branch=gh-pages)](https://github.com/JayCuthrell/jaycuthrell.com/actions)
