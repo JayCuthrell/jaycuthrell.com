@@ -3,7 +3,7 @@ name: cron
 on:
   push:
     branches:
-      - master
+      - gh-pages
   schedule:
     - cron: "52 3 * * 1"
 
@@ -12,7 +12,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: 🍽️ Get working copy
-        uses: actions/checkout@master
+        uses: actions/checkout@gh-pages
         with:
           fetch-depth: 1                                                                 
       - name: 🐍 Set up Python 3.8                               
