@@ -6,12 +6,6 @@ title: "Subscribe to my newsletter"
 
 ---
 
-[Fudge Sunday](https://fudge.org) is my newsletter. 
-
-_Start the week more informed than the week before._
-
-Please subscribe here: [fudge.org](https://fudge.org)
-
 <iframe
 scrolling="no"
 style="width:100%!important;height:220px;border:1px #ccc solid !important"
