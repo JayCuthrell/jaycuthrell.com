@@ -12,7 +12,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: 🍽️ Get working copy
-        uses: actions/checkout@gh-pages
+        users: actions/checkout@v2
         with:
           fetch-depth: 0                                                                 
       - name: 🐍 Set up Python 3.8                               
