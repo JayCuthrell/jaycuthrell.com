@@ -12,6 +12,7 @@ Here's a playlist of the song titles and lyrics that influence each issue:
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/2ZALK6TiXvBVztITrrybkN?utm_source=generator" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
 
 ### Recent Newsletter Issues by Jay Cuthrell on [fudge.org](https://fudge.org)
+ - [There's A Lot of Opportunities](https://fudge.org/archive/opportunities/)  2023 Jun 18
  - [GitOps Down On It](https://fudge.org/archive/gitops-down-on-it/)  2023 Jun 11
  - [GitOps Goes the World](https://fudge.org/archive/gitops-goes-the-world/)  2023 Jun 05
  - [Zero Tickets to Paradise](https://fudge.org/archive/zero-tickets-to-paradise/)  2023 May 29
@@ -41,9 +42,8 @@ Here's a playlist of the song titles and lyrics that influence each issue:
  - [Proxy Tear Us Apart](https://fudge.org/archive/proxy-tear-us-apart/)  2022 Dec 11
  - [Fediverse Moving over the Face of the Waters](https://fudge.org/archive/fediverse-moving-over-the-face-of-the-waters/)  2022 Dec 03
  - [Don't Worry 'Bout SRE](https://fudge.org/archive/dont-worry-bout-sre/)  2022 Nov 28
- - [I Want To Thank You](https://fudge.org/archive/i-want-to-thank-you/)  2022 Nov 20
 
-Last auto generated Sat Jun 17 20:17:52 2023
+Last auto generated Sun Jun 18 23:54:30 2023
 
 This auto generated file is created by code based on examples from [@dylanroy](https://towardsdatascience.com/auto-updating-your-github-profile-with-python-cde87b638168) and [@eugeneyan](https://github.com/eugeneyan)
 
