@@ -83,7 +83,6 @@ Patents
 Licenses & Certifications
 =========================
 
-- [Ten (10) badges on Credly](https://www.credly.com/users/jaycuthrell/badges)
 - Leadership Track (+50 course modules completed) - Dell Technologies
 - Facilitation of Executive Briefings (ABPM) - ABPM (Association of Briefing Program Managers)
 - Class-5 Soft Switch Packet Interface Card for VoIP - Tekelec
