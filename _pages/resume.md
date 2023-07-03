@@ -20,7 +20,7 @@ It is my mission to delight customers, deliver sustainable sales growth, and pro
 
 - Extensive customer focus in sales wins, product development, and consulting internationally.
 - Highly sought after public speaker and group discussion leader with analysts and customers. 
-- Held successful CTO, VP, and GM roles in rapid-growth ICT and service provider companies.
+- Held successful CTO, SVP, and GM roles in rapid-growth ICT and service provider companies.
 
 
 Career Highlights
