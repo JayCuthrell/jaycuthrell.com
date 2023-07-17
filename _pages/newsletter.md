@@ -12,6 +12,7 @@ Here's a playlist of the song titles and lyrics that influence each issue:
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/2ZALK6TiXvBVztITrrybkN?utm_source=generator" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
 
 ### Recent Newsletter Issues by Jay Cuthrell on [fudge.org](https://fudge.org)
+ - [Shock the Chaos Monkey](https://fudge.org/archive/shock-the-chaos-monkey/)  2023 Jul 17
  - [Can't Buy Me Lead Time](https://fudge.org/archive/cant-buy-me-lead-time/)  2023 Jul 09
  - [Fuzz Jam June](https://fudge.org/archive/fuzz-jam-june/)  2023 Jul 02
  - [Generative AI Thru This](https://fudge.org/archive/generative-ai-thru-this/)  2023 Jun 26
@@ -41,9 +42,8 @@ Here's a playlist of the song titles and lyrics that influence each issue:
  - [Happy When It Toolchains](https://fudge.org/archive/happy-when-it-toolchains/)  2023 Jan 08
  - [Such Tweet Nothing](https://fudge.org/archive/such-tweet-nothing/)  2023 Jan 01
  - [How Soon is Next Year?](https://fudge.org/archive/how-soon-is-next-year/)  2022 Dec 26
- - [Zettelkasten End of Year for 2022](https://fudge.org/archive/zettelkasten-end-of-year-for-2022/)  2022 Dec 19
 
-Last auto generated Sun Jul  9 23:54:17 2023
+Last auto generated Sun Jul 16 23:54:18 2023
 
 This auto generated file is created by code based on examples from [@dylanroy](https://towardsdatascience.com/auto-updating-your-github-profile-with-python-cde87b638168) and [@eugeneyan](https://github.com/eugeneyan)
 
