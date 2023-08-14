@@ -5,7 +5,7 @@ on:
     branches:
       - gh-pages
   schedule:
-    - cron: "52 3 * * 1"
+    - cron: "35 1 * * 1"
 
 jobs:
   build-and-deploy:
