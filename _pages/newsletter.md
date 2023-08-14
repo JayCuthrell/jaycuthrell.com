@@ -12,6 +12,7 @@ Here's a playlist of the song titles and lyrics that influence each issue:
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/2ZALK6TiXvBVztITrrybkN?utm_source=generator" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
 
 ### Recent Newsletter Issues by Jay Cuthrell on [fudge.org](https://fudge.org)
+ - [Cyber Ground](https://fudge.org/archive/cyber-ground/)  2023 Aug 13
  - [South by Southwest Bound and Down](https://fudge.org/archive/south-by-southwest-bound-and-down/)  2023 Aug 07
  - [Jumping Someone Else's Trained Model](https://fudge.org/archive/jumping-someone-elses-trained-model/)  2023 Jul 31
  - [AI Feel You](https://fudge.org/archive/ai-feel-you/)  2023 Jul 23
@@ -41,9 +42,8 @@ Here's a playlist of the song titles and lyrics that influence each issue:
  - [Smooth k8s Operator](https://fudge.org/archive/smooth-k8s-operator/)  2023 Feb 05
  - [IDP Clearly Now](https://fudge.org/archive/idp-clearly-now/)  2023 Jan 30
  - [Deploy Everything You Touch](https://fudge.org/archive/deploy-everything-you-touch/)  2023 Jan 23
- - [Cost Cause](https://fudge.org/archive/cost-cause/)  2023 Jan 16
 
-Last auto generated Sun Aug  6 23:54:22 2023
+Last auto generated Sun Aug 13 23:54:23 2023
 
 This auto generated file is created by code based on examples from [@dylanroy](https://towardsdatascience.com/auto-updating-your-github-profile-with-python-cde87b638168) and [@eugeneyan](https://github.com/eugeneyan)
 
