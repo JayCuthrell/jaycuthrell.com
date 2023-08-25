@@ -54,7 +54,7 @@ Note: These were presented by [a very enthusiastic consultant](https://cuthrell.
 (Partial List)
 
 - Over 200 Executive Briefings as of 2023
-- SuperCloud3, 2023
+- Supercloud 3, 2023
 - IT Renovation Day, 2021
 - Transforming Data with Intelligence, 2021
 - EcoCast, 2021
@@ -96,7 +96,7 @@ Note: These were presented by [a very enthusiastic consultant](https://cuthrell.
 
 (Partial List)
 
-#### SuperCloud3 DevX, AIOps, and Security 2023
+#### Supercloud 3 DevX, AIOps, and Security 2023
 
 <iframe width="300" height="168" src="https://www.youtube.com/embed/mwxDNbD0fes?si=IXwrz1NuSvMhtv1S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
