@@ -2,7 +2,7 @@
 layout: post
 permalink: /about/
 related: true
-title: "About me"
+title: "About Jay Cuthrell"
 
 ---
 
