@@ -7,7 +7,7 @@ title: "Subscribe to my newsletter"
 ---
 
 
-<iframe scrolling="no" style="width:100%!important;height:220px;border:1px #ccc solid !important" src="https://fudge.org?as_embed=true"></iframe>
+<iframe scrolling="no" style="width:100%!important;height:220px;border:1px #ccc solid !important" src="https://buttondown.email/jaycuthrell?as_embed=true" ></iframe><br /><br />
 Here's a playlist of the song titles and lyrics that influence each issue:
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/2ZALK6TiXvBVztITrrybkN?utm_source=generator" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
 
