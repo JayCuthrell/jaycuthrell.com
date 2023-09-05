@@ -7,7 +7,9 @@ title: "Subscribe to my newsletter"
 ---
 
 
-<iframe scrolling="no" style="width:100%!important;height:220px;border:1px #ccc solid !important" src="https://buttondown.email/jaycuthrell?as_embed=true" ></iframe><br /><br />
+<iframe scrolling="no" style="width:100%!important;height:220px;border:1px #ccc solid !important" src="https://buttondown.email/jaycuthrell?as_embed=true" ></iframe><br />
+
+
 
 Here's a playlist of the song titles and lyrics that influence each issue:
 
