@@ -233,8 +233,9 @@ Here's a playlist of the song titles and lyrics that influence each issue:
  - [Little Green Tags](https://fudge.org/archive/little-green-tags/)  2023 Sep 03
  - [Out of Sequence Update](https://fudge.org/archive/out-of-sequence-update/)  2023 Sep 06
  - [A.I. For You](https://fudge.org/archive/ai-for-you/)  2023 Sep 10
+ - [Clean My Bookmarks](https://fudge.org/archive/clean-my-bookmarks/)  2023 Sep 17
 
-Last auto generated Sun Sep 10 21:51:18 2023
+Last auto generated Sun Sep 17 22:14:27 2023
 
 This auto generated file is created by code based on examples from [@dylanroy](https://towardsdatascience.com/auto-updating-your-github-profile-with-python-cde87b638168) and [@eugeneyan](https://github.com/eugeneyan)
 
