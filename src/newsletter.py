@@ -10,9 +10,11 @@ def update_footer():
     return footer.format(timestamp=timestamp)
 
 def update_readme_buttondown_posts(buttondown_feed, readme_base, join_on):
-    d = reverse.feedparser.parse(buttondown_feed)
+    rss_feed = feedparser.parse(buttondown_feed)
+    rss_feed.entries.reverse()
+    return rss_feed.entries
     posts = []
-    for item in d.entries:
+    for item in rssfeed.entries:
             published = (time.strftime(' %Y %b %d',item.published_parsed))
             posts.append(f" - [{item['title']}]({item['link']}) {published}")
     posts_joined = '\n'.join(posts)
