@@ -16,6 +16,7 @@ Here's a playlist of the song titles and lyrics that influence each issue:
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/2ZALK6TiXvBVztITrrybkN?utm_source=generator" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
 
 ### Recent Newsletter Issues by Jay Cuthrell on [fudge.org](https://fudge.org)
+ - [The End of the Inflated Expectations](https://fudge.org/archive/the-end-of-the-inflated-expectations/)  2023 Oct 08
  - [Uh Zoom ZPR](https://fudge.org/archive/uh-zoom-zpr/)  2023 Oct 01
  - [Designed Sealed Delivered](https://fudge.org/archive/designed-sealed-delivered/)  2023 Sep 24
  - [Clean My Bookmarks](https://fudge.org/archive/clean-my-bookmarks/)  2023 Sep 17
@@ -237,7 +238,7 @@ Here's a playlist of the song titles and lyrics that influence each issue:
  - [Tel Aviv Traceroute](https://fudge.org/archive/tel-aviv-traceroute/)  2000 Apr 29
  - [The Fudge FAQ](https://fudge.org/archive/the-fudge-faq/)  1998 Dec 12
 
-Last auto generated Sun Oct  1 21:51:33 2023
+Last auto generated Sun Oct  8 21:51:17 2023
 
 This auto generated file is created by code based on examples from [@dylanroy](https://towardsdatascience.com/auto-updating-your-github-profile-with-python-cde87b638168) and [@eugeneyan](https://github.com/eugeneyan)
 
