@@ -164,7 +164,6 @@ title: "Subscribe to my newsletter"
  - [Roll Your Own](https://fudge.org/archive/roll-your-own/)  2019 Apr 08
  - [Fudge Sunday - Life at 34,000 Feet](https://fudge.org/archive/fudge-sunday-life-at-34000-feet/)  2019 Apr 01
  - [Life at 34000 Feet](https://fudge.org/archive/life-at-34000-feet/)  2019 Apr 01
- - [Fudge Sunday - A Decade of GitHub](https://fudge.org/archive/fudge-sunday-a-decade-of-github/)  2019 Mar 25
  - [A Decade of GitHub](https://fudge.org/archive/a-decade-of-github/)  2019 Mar 25
  - [Fudge Sunday - Road Warrior Redux](https://fudge.org/archive/fudge-sunday-road-warrior-redux/)  2019 Mar 18
  - [Road Warrior Redux](https://fudge.org/archive/road-warrior-redux/)  2019 Mar 18
@@ -231,7 +230,7 @@ title: "Subscribe to my newsletter"
  - [Tel Aviv Traceroute](https://fudge.org/archive/tel-aviv-traceroute/)  2000 Apr 29
  - [The Fudge FAQ](https://fudge.org/archive/the-fudge-faq/)  1998 Dec 12
 
-Last auto generated Mon Oct 16 02:49:50 2023
+Last auto generated Sat Oct 21 21:57:58 2023
 
 This auto generated file is created by code based on examples from [@dylanroy](https://towardsdatascience.com/auto-updating-your-github-profile-with-python-cde87b638168) and [@eugeneyan](https://github.com/eugeneyan)
 
