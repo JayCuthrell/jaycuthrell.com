@@ -8,6 +8,7 @@ title: "Subscribe to my newsletter"
 <iframe scrolling="no" style="width:100%!important;height:220px;border:1px #ccc solid !important" src="https://buttondown.email/jaycuthrell?as_embed=true" ></iframe><br />
 
 ### Recent Newsletter Issues by Jay Cuthrell on [fudge.org](https://fudge.org)
+ - [Why Is The Network Slow?](https://fudge.org/archive/why-is-the-network-slow/)  2023 Dec 10
  - [Read The Fabulous Manual](https://fudge.org/archive/read-the-fabulous-manual/)  2023 Dec 03
  - [Plugins, Patterns, and Potpourri](https://fudge.org/archive/plugins-patterns-and-potpourri/)  2023 Nov 26
  - [Thanks Again in 2023](https://fudge.org/archive/thanks-again-in-2023/)  2023 Nov 19
@@ -237,7 +238,7 @@ title: "Subscribe to my newsletter"
  - [Tel Aviv Traceroute](https://fudge.org/archive/tel-aviv-traceroute/)  2000 Apr 29
  - [The Fudge FAQ](https://fudge.org/archive/the-fudge-faq/)  1998 Dec 12
 
-Last auto generated Sun Dec  3 20:53:01 2023
+Last auto generated Sun Dec 10 20:53:14 2023
 
 This auto generated file is created by code based on examples from [@dylanroy](https://towardsdatascience.com/auto-updating-your-github-profile-with-python-cde87b638168) and [@eugeneyan](https://github.com/eugeneyan)
 
