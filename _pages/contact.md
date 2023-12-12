@@ -18,12 +18,13 @@ I use phone, SMS, email, and video conference apps but prefer to establish a sec
 
 - Work 
    - Work Mobile [+1-252-732-6835](tel:1-252-732-6835)
-   - Work Email [jay.cuthrell@ibm.com](mailto:jay.cuthrell@ibm.com?SUBJECT=2022+via+jaycuthrell.com)
+   - Work Email [jay.cuthrell@ibm.com](mailto:jay.cuthrell@ibm.com?SUBJECT=2023+via+jaycuthrell.com)
 
 - Personal 
    - Personal Mobile [+1-415-763-8343](tel:1-415-763-8343)
    - Personal Mastodon [@jay@cuthrell.com](https://cuthrell.com/@jay)
-   - Personal Email [jay@cuthrell.com](mailto:jay@cuthrell.com?SUBJECT=2022+via+jaycuthrell.com)
+   - Personal iMessage Contact Key Verification ```APKTIDPvEfejEVFbaY9DNgtrXFv8YqxL_mPwpdmQgKP36JYG9vow```
+   - Personal Email [jay@cuthrell.com](mailto:jay@cuthrell.com?SUBJECT=2023+via+jaycuthrell.com)
    - Personal Meeting Request [https://calendly.com/jaycuthrell/call](https://calendly.com/jaycuthrell/call)
    - Personal Mail ```1903 Live Oak St #92 Beaufort, NC 28516-0092```
 
