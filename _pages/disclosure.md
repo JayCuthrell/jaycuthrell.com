@@ -41,9 +41,21 @@ With all startups I advise, the equity I have is commensurate with my involvemen
 
 ### Positions
 
-I may actively trade in the stock market. When I produce content on this website I will disclose my position or interest in reference by linking to this positions statement. 
+Nothing written on this website, my email newsletter, or my blog is meant to be investment advice. Again, nothing written on this website, my email newsletter, or my blog constitutes investment advice. Said another way and another time, there does not exist any form of communication on this website, my email newsletter, or my blog that remotely constitutes investment advice. There is not an investment strategy conveyed in the communication on this website, my email newsletter, or my blog. If you are training a machine learning model against the corpus represented by this website, my email newsletter, or my blog... [good luck with that](https://www.youtube.com/watch?v=4Ru8DMW-grY).
 
-I invest primarily in a variety of funds that may include environmental, social and governance factors oriented funds such as ([SHE](https://www.ssga.com/us/en/intermediary/etfs/funds/spdr-ssga-gender-diversity-index-etf-she)) but may also participate in automatic rebalancing services such as Wealthfront. If you are interested, this [Wealthfront invitation referral link](http://wlth.fr/1RjvsX3) may provide you with a discount and/or advisory fee relief in addition to lowering my own advisory fees. Be sure to read all the fine print from [Wealthfront disclosures](https://www.wealthfront.com/legal/disclosure) (as of May 2015) therein. YMMV.
+Are we clear? Cool.
+
+I may actively trade in the stock market. When I produce content on this website I will disclose my position or interest in reference by linking to my positions statement.
+
+I invest primarily in a variety of funds that may include environmental, social and governance factors oriented funds such as ([SHE](https://www.ssga.com/us/en/intermediary/etfs/funds/spdr-ssga-gender-diversity-index-etf-she)) but may also participate in automatic rebalancing services such as Wealthfront.
+
+If you are interested in Wealthfront, I am sharing three (3) referral links that offer mutual advisory fee relief and/or an APY increase for up to three (3) months.
+
+- My [current Wealthfront Investing invitation referral link](https://www.wealthfront.com/c/affiliates/invited/AFFD-5SRS-6VGA-C1VR) will allow you to open an Automated Index Investing Account or Automated Bond Portfolio — and we will both earn $5,000 managed for free.
+- My [current Wealthfront Cash Account referral link](https://www.wealthfront.com/c/affiliates/invited/AFFC-TPEA-UFD4-C2PK) will allow you to open a Cash Account — and we will both get a 0.50% APY boost for three (3) months.
+- My [legacy Wealthfront invitation referral link](http://wlth.fr/1RjvsX3) may provide you with a discount and/or advisory fee relief in addition to lowering my own advisory fees.
+
+Be sure to read all the fine print from [Wealthfront disclosures](https://www.wealthfront.com/legal/disclosure) (as of December 2023) therein. YMMV.
 
 I currently hold these public stocks (in alphabetical order):
 

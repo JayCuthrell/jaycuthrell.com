@@ -6,7 +6,7 @@ title: "Thank You!"
 
 ---
 
-I appreciate you reaching out to me.
+🤓
 
 Let's [keep the conversation going](/contact/).
 
