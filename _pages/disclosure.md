@@ -25,7 +25,9 @@ I was a prolific account creator and comment maker across the Interwebs. If ther
 
 I was a guest contributor at Telecompetitor and a writer for ReadWrite in addition to being published in a technology trade journal. However, the majority of my publishing output since 2010 is behind corporate firewalls.
 
-Any personal profiles on Twitter, LinkedIn, or other services on the Internet are placeholders, non-authoritative, exploratory, deprecated, or superseded by my [website](/) and all claimed verfications on [Keybase](https://keybase.io/jaycuthrell) where I maintain an active personal profile including [my personal self-hosted self-funded Mastodon instance](https://cuthrell.com/@jay).
+Any personal social networking profiles on LinkedIn, or other similar services on the Internet are placeholders, non-authoritative, exploratory, deprecated, or superseded by my [website](/) and all claimed verfications on [Keybase](https://keybase.io/jaycuthrell) where I maintain an active personal profile including [my personal self-hosted self-funded Mastodon instance](https://cuthrell.com/@jay). 
+
+I am not on [X/Twitter](https://help.twitter.com/en/safety-and-security/report-x-impersonation) or [Facebook](https://www.facebook.com/help/174210519303259/?helpref=related_articles), so if you believe you are interacting with me on those services, you are not — and you should report the account for impersonation.
 
 ### My Employers, Clients, and Customers
 
