@@ -6,7 +6,7 @@ related: true
 
 ---
 
-Here are my disclosures that I make reasonable attempts to keep current. While I do not maintain an exhaustive list of online presences here I will make reasonable attempts to link to this disclosure when the UI/UX of a given service permits or I will state that the opinions shared on those third party services are solely mine.
+Here are my disclosures that I make reasonable attempts to keep current. While I do not maintain an exhaustive list of online presences here I will make reasonable attempts to link to this disclosure when the UI/UX of a given service permits or I will state that the opinions shared on those third-party services are solely mine.
 
 In general, the words, images, or what can be summed up as a variety of purposeful output found at this website and elsewhere on the Internets are my opinions. These momentary captures of the vortex of consciousness and mutable communications reflect my opinions and not those of anything or anyone else. That’s what many folks like to call a disclaimer. This disclaimer is mine. It’s pretty fancy if I do say so myself. Which I just did.
 
@@ -19,9 +19,9 @@ This is my primary personal website and other variations elsewhere on the Intern
 
 There is a link to this disclaimer and my disclosure(s) within the footer of each page and before the content of each post here unless rendering that disclaimer is impacted by noodling with my content management system du jour. Read it. Know it. Love it.
 
-I reserve the right to change my mind and edit content at any time. Any CMS changelog here is subject to client side edits or server side edits on GitHub as delivered by _bundle exec jekyll build_ or _gatsby build_ or _yarn build_.
+I reserve the right to change my mind and edit content at any time. Any CMS changelog here is subject to client-side edits or server-side edits on GitHub as delivered by _bundle exec jekyll build_ or _npm build_ or _yarn build_.
 
-I was a prolific account creator and comment maker across the Interwebs. If there is any ambiguity around me making the comment or not, please consider the rather loose concepts around comment vetting, data ownership, data portability, and non-repudiation before you assume a comment is truly mine. Just ask me. [Never assume](https://blog.twitter.com/en_us/topics/company/2020/an-update-on-our-security-incident.html).
+I was a prolific account creator and comment maker across the Interwebs. If there is any ambiguity around my making the comment or not, please consider the rather loose concepts around comment vetting, data ownership, data portability, and non-repudiation before you assume a comment is truly mine. Just ask me. [Never assume](https://blog.twitter.com/en_us/topics/company/2020/an-update-on-our-security-incident.html).
 
 I was a guest contributor at Telecompetitor and a writer for ReadWrite in addition to being published in a technology trade journal. However, the majority of my publishing output since 2010 is behind corporate firewalls.
 
@@ -37,7 +37,7 @@ My [CV / resumé is available exclusively on this website](/resume/) and I may u
 
 ### Startups
 
-At present, I am no longer an advisor to any startups. I was an advisor to amazing startups were funded, acquired, and ones that did not survive.
+At present, I am no longer an advisor to any startups. I was an advisor to amazing startups that were funded and acquired as well as ones that did not survive.
 
 With all startups I advise, the equity I have is commensurate with my involvement level. I have published [a blog post that outlines how I work with startups and my fuller thoughts on taking an advisory role](https://fudge.org/be-my-advisor/) which I also link back to on [my AngelList profile](https://angel.co/jaycuthrell).
 
@@ -47,9 +47,9 @@ Nothing written on this website, my email newsletter, or my blog is meant to be 
 
 Are we clear? Cool.
 
-I may actively trade in the stock market. When I produce content on this website I will disclose my position or interest in reference by linking to my positions statement.
+I may actively trade in the stock market. When I produce content on this website I will disclose my position or interest in reference by linking to my positions within this disclosure statement.
 
-I invest primarily in a variety of funds that may include environmental, social and governance factors oriented funds such as ([SHE](https://www.ssga.com/us/en/intermediary/etfs/funds/spdr-ssga-gender-diversity-index-etf-she)) but may also participate in automatic rebalancing services such as Wealthfront.
+I invest primarily in a variety of funds that may include environmental, social and governance-factors-oriented funds such as ([SHE](https://www.ssga.com/us/en/intermediary/etfs/funds/spdr-ssga-gender-diversity-index-etf-she)) but may also participate in automatic rebalancing services such as Wealthfront.
 
 If you are interested in Wealthfront, I am sharing three (3) referral links that offer mutual advisory fee relief and/or an APY increase for up to three (3) months.
 
@@ -141,6 +141,6 @@ ZS
 
 ### Gifts and Advertising
 
-I refuse gifts when possible. However, I’m often presented with random tchotchke bags and the occasional high dollar gadget or two when attending conferences and events. If items are worth more than $5 or something I can’t take notes on (e.g. pens and paper) I attempt to donate, freecycle, or recycle the items. For example, I donated Android phones to a local developer user group after attending a gratis Google I/O event.
+I refuse gifts when possible. However, I’m often presented with random tchotchke bags and the occasional high-dollar gadget or two when attending conferences and events. If items are worth more than $5 or something I can’t take notes on (e.g. pens and paper) I attempt to donate, freecycle, or recycle the items. For example, I donated Android phones to a local developer user group after attending a gratis Google I/O event.
 
 I’m always experimenting with ways to monetize web content. I’ve used several approaches over the years but I always end up taking them down after I’m familiar with the concepts. At best I’ve made $100 or so here and there. Any referral links are called out explicitly here and in any content.

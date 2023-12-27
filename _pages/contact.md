@@ -3,7 +3,7 @@ layout: post
 title: "Contact Me"
 permalink: /contact/
 related: true
-exceprt: "You can reach Jay Cuthrell using the following methods..."
+excerpt: "You can reach Jay Cuthrell using the following methods..."
 keywords: "4157638343 415.763.8343 415-763-8343 +1-415-763-8343 (415)763-8343 @jaycuthrell jay@cuthrell.com"
 
 ---
@@ -16,9 +16,10 @@ There are many ways to contact me. This page updates as my [preferred methods ev
 
 I use phone, SMS, email, and video conference apps but prefer to establish a second channel from the list above.
 
-- Work 
-   - Work Mobile [+1-252-732-6835](tel:1-252-732-6835)
-   - Work Email [jay.cuthrell@ibm.com](mailto:jay.cuthrell@ibm.com?SUBJECT=2023+via+jaycuthrell.com)
+- Work
+   - IBM Work Mobile [+1-252-732-6835](tel:1-252-732-6835)
+   - IBM Work iMessage Contact Key Verification ```APKTIDHRKcW8oiOxH1t9IfGjLUiUuw8TSbJrhtPxzSZLUC3DNd6w```
+   - IBM Work Email [jay.cuthrell@ibm.com](mailto:jay.cuthrell@ibm.com?SUBJECT=2023+via+jaycuthrell.com)
 
 - Personal 
    - Personal Mobile [+1-415-763-8343](tel:1-415-763-8343)

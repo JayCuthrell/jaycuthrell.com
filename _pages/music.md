@@ -9,15 +9,15 @@ related: true
 
 <iframe id="embedPlayer" src="https://embed.podcasts.apple.com/us/podcast/jay-cuthrell-aka-qthrul-aka-fudge/id1669867641?itsct=podcast_box_player&amp;itscg=30200&amp;ls=1&amp;theme=auto" height="450px" frameborder="0" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation-by-user-activation" allow="autoplay *; encrypted-media *; clipboard-write" style="width: 100%; max-width: 660px; overflow: hidden; border-radius: 10px; transform: translateZ(0px); animation: 2s ease 0s 6 normal none running loading-indicator; background-color: rgb(228, 228, 228);"></iframe>
 
-I have been noodling around with music since I was in high school. It all started with an air powered organ and having a piano around as a small child. I never had lessons other than to learn trombone. Now that I have a Mac and access to GB there is a much shorter path to me cranking out music. I like that. My 4 track days were such a pain! :)
+I have been noodling around with music since I was in high school. It all started with an air-powered organ and having a piano around as a small child. I never had lessons other than to learn trombone. Now that I have a Mac and access to GB there is a much shorter path to me cranking out music. I like that. My 4 track days were such a pain! :smile:
 
 Also, I don't have lyrics for anything I have up here and it's not often that the song lasts for more than 60 seconds... so maybe song isn't the right word... perhaps I would do better to call them jingles.
 
 I've placed all my tracks below on Soundcloud but have experimented with other hosting services as well as HTML5 audio linking to mp3 files.
 
-## As seen on the ill fated MP3.Com
+## As seen on the ill-fated MP3.Com
 
-I was fudge on mp3.com. mp3.com is no longer what mp3.com once was. I actually sold two CD's on mp3.com... one was to someone in Portugal (never did figure that one out) and *ahem*I bought one*ahem*. It's not like I bet my career on this. Still, it is a really fun diversion and I have been able to work with people I respect on their own projects. This is my nooding. Oh yeah, the mp3.com thing.... So, I did what any person with access to web hosting would do. I put up my music on my own server.
+I was fudge on mp3.com. mp3.com is no longer what mp3.com once was. I sold only two CDs on mp3.com... one was to someone in Portugal (never did figure that one out) and *ahem*I bought one*ahem*. It's not like I bet my career on this. Still, it is a really fun diversion and I have been able to work with people I respect on their own projects. This is my noodling. Oh yeah, the mp3.com thing.... So, I did what any person with access to web hosting would do. I put up my music on my own server.
 
 
 ## Musical Influences

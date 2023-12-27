@@ -19,7 +19,7 @@ Summary
 It is my mission to delight customers, deliver sustainable sales growth, and provide innovative servant leadership. I accelerate business by applying rapid growth skill sets, communication skills, and essential relevant technical expertise.
 
 - Extensive customer focus in sales wins, product development, and consulting internationally.
-- Highly sought after public speaker and group discussion leader with analysts and customers. 
+- Highly sought-after public speaker and group discussion leader with analysts and customers. 
 - Held successful CTO, SVP, and GM roles in rapid-growth ICT and service provider companies.
 
 
@@ -144,9 +144,9 @@ Pre-Sales and Field CTO Summary
 
 Pre-sales wins that I have been involved in span multiple segments such as service providers (telco, media, entertainment, IaaS, PaaS, SaaS), independent software vendors (ISVs), independent hardware vendors (IHVs), systems integrators, various federal governments, United States SLED, various military, and various enterprise verticals. Types of enterprise wins I have been involved in include utilities, legal, construction, mining, manufacturing, finance, insurance, healthcare, textiles, automotive, retail, and more. 
 
-My role in the pre-sales process and closing was and is to be a trusted advisor and road warrior aligned to the MEDDIC B2B sales qualification methodology. As a trusted advisor, my role was "soup to nuts" and holistic from qualification to bookings to post-sale "land and expand" account lifecycle management. Specifically, my pre-sales role involved high touch level strategy for credible product positioning, directed competitive analysis, RFx influencing, establishing success criteria for customer acceptance, cross-functional proof of concept test planning, C-level presentation in person in region globally, C-level presentations at executive briefing centers globally, ongoing C-level executive sponsorship 1:1 meetings at conference events, down to specific bill of materials and services contract creation through review and execution during delivery and implementation working with customer advocacy and customer success managers.
+My role in the pre-sales process and closing was and is to be a trusted advisor and road warrior aligned with the MEDDIC B2B sales qualification methodology. As a trusted advisor, my role was "soup to nuts" and holistic from qualification to bookings to post-sale "land and expand" account lifecycle management. Specifically, my pre-sales role involved high touch level strategy for credible product positioning, directed competitive analysis, RFx influencing, establishing success criteria for customer acceptance, cross-functional proof of concept test planning, C-level presentation in person in region globally, C-level presentations at executive briefing centers globally, ongoing C-level executive sponsorship 1:1 meetings at conference events, down to specific bill of materials and services contract creation through review and execution during delivery and implementation working with customer advocacy and customer success managers.
 
-Since 2010, my field facing pre-sales roles have meant virtual road warrior duties embracing both remote work techniques and leadership of remote teams. For example, as a virtual road warrior the presentation experience involves use of Zoom, Microsoft Teams, Google Meet, Slack, Cisco WebEx, and other virtual proxemics tools depending on the customer security posture requirements for virtual executive briefings.
+Since 2010, my field-facing pre-sales roles have meant virtual road warrior duties embracing both remote work techniques and leadership of remote teams. For example, as a virtual road warrior, the presentation experience involves the use of Zoom, Microsoft Teams, Google Meet, Slack, Cisco WebEx, and other virtual proxemics tools depending on the customer security posture requirements for virtual executive briefings.
 
 
 Field Clients and Customers Sample
@@ -262,25 +262,25 @@ _"Jay is a wealth of information on an incredible diversity of topics, and the m
 topic gets, the more Jay is in his element. He understands both the underpinnings of how things work and the
 business dynamics that push some technologies ahead."_ — Founder and CEO, VC Backed Startup
 
-_"In today's world of information workers you need bright people who get on with others and encourage everyone
+_"In today's world of information workers, you need bright people who get on with others and encourage everyone
 to be better by leading by example, giving others the drive to strive to shine in their own unique way:
 Jay does that to me and others I've met."_ — Industry Peer
 
 _"Jay's advice and assistance to the CEO and to me, as CFO of the Company, has been invaluable. He has proven himself a valuable and credible sounding board on many issues before the Company, of both a technical and strategic nature."_ — Chief Financial Officer, Service Provider
 
-_"Jay has the mighty combination of business acumen and deep technical expertise. If a great technical consultant is a hired gun, then Jay is an aresenal."_ — Operations Executive, Telelcommunications Company
+_"Jay has the mighty combination of business acumen and deep technical expertise. If a great technical consultant is a hired gun, then Jay is an arsenal."_ — Operations Executive, Telecommunications Company
 
 _"I found Jay to possess the unique ability to develop a strategic agenda for helping our organization grow as well as the technical acumen to implement a tactical plan around that strategy."_ — Vice President of Strategic Planning, Service Provider
 
 _"When you're looking for the definition of tech-savvy in the dictionary- Jay's name should come up.
 Whatever the latest technology trend - Jay's on it. You can't stump Jay."_ — Founder and CEO, Marketing Company
 
-_"Jay has tactical experience to back up his recommendations, just not pie in the sky stuff."_ - Vice President of Sales and Business Development, Service Provider
+_"Jay has tactical experience to back up his recommendations, just not pie-in-the-sky stuff."_ - Vice President of Sales and Business Development, Service Provider
 
 _"Over many years Jay has consistently provided sound advice and strategy. His technology briefings and
 presentations are concise and information-dense but also intelligible and lively. Listen to him."_ — Published Author
 
-_"I cultivated great respect for Jay's skills as an unbiased technologist who is grounded in practical business reality. Jay has provided valuable guidance that I have immediately been able to incorporate into our business with great success."_ - Founder and CEO, VC Backed Startup
+_"I cultivated a great respect for Jay's skills as an unbiased technologist who is grounded in practical business reality. Jay has provided valuable guidance that I have immediately been able to incorporate into our business with great success."_ - Founder and CEO, VC Backed Startup
 
 _"Jay is a technology professional with deep understanding not just of the technology but also the longer term implications and applications."_ - Founder and CEO, Service Provider
 
@@ -288,7 +288,7 @@ _"Above all, Jay is honest and trustworthy."_ — Founder and CEO, Service Provi
 
 _"Jay's technical knowledge is unparalleled, but what makes Jay truly valuable is his breadth of knowledge across multiple fields and his ability to translate this knowledge into practical solutions."_ - Operations Executive, Service Provider
 
-_"Results oriented and always five minutes ahead of the curve, Jay seems to always know what is next and
+_"Results-oriented and always five minutes ahead of the curve, Jay seems to always know what is next and
 how to get there. Jay is on the ball with the news of the day and the trends of the industry."_ - Senior Sales Engineer, Service Provider
 
 _"Jay is one of the strongest and most resourceful leaders I've had the pleasure to work with."_ - Senior Vice President of Engineering, B2B Enterprise Software Company
@@ -299,12 +299,11 @@ _"I worked with Jay on assessing the technical capabilities of potential portfol
 Professional References
 =======================
 
-References available upon request.
+References are available upon request.
 
 
 Role Specific Versions
 ======================
 
-For role specific versions of my CV / resume information, please [contact me directly](/contact/).
-
+For role-specific versions of my CV/resume information, please [contact me directly](/contact/).
 
