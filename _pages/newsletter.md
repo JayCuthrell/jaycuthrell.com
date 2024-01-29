@@ -8,6 +8,7 @@ title: "Subscribe to my newsletter"
 <iframe scrolling="no" style="width:100%!important;height:220px;border:1px #ccc solid !important" src="https://buttondown.email/jaycuthrell?as_embed=true" ></iframe><br />
 
 ### Recent Newsletter Issues by Jay Cuthrell on [fudge.org](https://fudge.org)
+ - [Security on the Agenda](https://fudge.org/archive/security-on-the-agenda/)  2024 Jan 28
  - [How To Buttondown with 11ty on Netlify with GitHub](https://fudge.org/archive/how-to-buttondown-with-11ty-on-netlify-with-github/)  2024 Jan 21
  - [Interoperability and Convergence Ahead](https://fudge.org/archive/interoperability-and-convergence-ahead/)  2024 Jan 14
  - [Tip of the Apache Iceberg](https://fudge.org/archive/tip-of-the-apache-iceberg/)  2024 Jan 07
@@ -244,7 +245,7 @@ title: "Subscribe to my newsletter"
  - [Tel Aviv Traceroute](https://fudge.org/archive/tel-aviv-traceroute/)  2000 Apr 29
  - [The Fudge FAQ](https://fudge.org/archive/the-fudge-faq/)  1998 Dec 12
 
-Last auto generated Sun Jan 21 20:54:04 2024
+Last auto generated Sun Jan 28 20:50:47 2024
 
 This auto generated file is created by code based on examples from [@dylanroy](https://towardsdatascience.com/auto-updating-your-github-profile-with-python-cde87b638168) and [@eugeneyan](https://github.com/eugeneyan)
 
