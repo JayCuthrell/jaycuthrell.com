@@ -2,7 +2,7 @@
 layout: post
 permalink: /newsletter/
 related: true
-title: "Subscribe to my newsletter"
+title: "Subscribe to my weekly newsletter"
 
 ---
 <iframe scrolling="no" style="width:100%!important;height:220px;border:1px #ccc solid !important" src="https://buttondown.email/jaycuthrell?as_embed=true" ></iframe><br />
