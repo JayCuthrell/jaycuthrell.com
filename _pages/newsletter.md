@@ -8,6 +8,7 @@ title: "Subscribe to my weekly newsletter"
 <iframe scrolling="no" style="width:100%!important;height:220px;border:1px #ccc solid !important" src="https://buttondown.email/jaycuthrell?as_embed=true" ></iframe><br />
 
 ### Recent Newsletter Issues by Jay Cuthrell on [fudge.org](https://fudge.org)
+ - [11ty Footnotes](https://fudge.org/archive/11ty-footnotes/)  2024 Feb 18
  - [11ty RSS Activepieces](https://fudge.org/archive/11ty-rss-activepieces/)  2024 Feb 11
  - [11ty iFramely Bookmarks](https://fudge.org/archive/11ty-iframely-bookmarks/)  2024 Feb 04
  - [Security on the Agenda](https://fudge.org/archive/security-on-the-agenda/)  2024 Jan 28
@@ -247,7 +248,7 @@ title: "Subscribe to my weekly newsletter"
  - [Tel Aviv Traceroute](https://fudge.org/archive/tel-aviv-traceroute/)  2000 Apr 29
  - [The Fudge FAQ](https://fudge.org/archive/the-fudge-faq/)  1998 Dec 12
 
-Last auto generated Sun Feb 11 21:46:34 2024
+Last auto generated Sun Feb 18 20:50:56 2024
 
 This auto generated file is created by code based on examples from [@dylanroy](https://towardsdatascience.com/auto-updating-your-github-profile-with-python-cde87b638168) and [@eugeneyan](https://github.com/eugeneyan)
 
