@@ -27,7 +27,7 @@ Jay completed the INFOSEC Assessment Training and Rating Program for INFOSEC Ass
 
 <a rel="me" href="https://cuthrell.com/@jay">Jay</a> is on LinkedIn at [https://www.linkedin.com/in/jaycuthrell](https://www.linkedin.com/in/jaycuthrell).
 
-Jay holds a BS in Materials Science and Engineering from North Carolina State University.
+Jay is a long time Reforge cohort in [Data For Product Managers](https://www.reforge.com/courses/data-for-product-managers) and [related courses](https://www.credly.com/users/jaycuthrell/badges) as well as holding a BS in Materials Science and Engineering from North Carolina State University.
 
 <img class="u-photo" src="/images/jaycuthrell-headshot-300x300.jpg">
 
