@@ -22,6 +22,14 @@ It is my mission to delight customers, deliver sustainable sales growth, and pro
 - Highly sought-after public speaker and group discussion leader with analysts and customers. 
 - Held successful CTO, SVP, and GM roles in rapid-growth ICT and service provider companies.
 
+Narrative
+=========
+
+I help my clientele build multi-billion dollar run rate products and services.
+
+I am a Reforge-trained product management executive with deep experience in Enterprise markets, new product introduction, and portfolio rationalization across nested acquisitions. My strengths include transformative servant leadership, certified facilitator skills, assessment methodologies, and cross-industry Office of the CTO level credibility.
+
+My passion is taking vision from design to reality to become growth engines. I make the possible permissible, sustainable, repeatable, and advisable. From my early consulting career in materials engineering to telco / media / entertainment to driving product-led growth at the most successful joint-venture in IT history with executive roles as a SVP / CTO / GM / Partner along the way, I'm a technology optimist at heart seeking out white spaces, adjacencies, control planes, convergence, and creating what's next.
 
 Career Highlights
 =================
@@ -69,6 +77,11 @@ IBM
 Education
 =========
 
+Reforge
+- Data For Product Managers
+- Finding Product/Market Fit
+- Growth Leadership
+  
 North Carolina State University College of Engineering
 - Bachelor of Science - BS
 - Materials Science and Engineering
@@ -83,15 +96,31 @@ Patents
 Licenses & Certifications
 =========================
 
-- [Ten (10) badges on Credly](https://www.credly.com/users/jaycuthrell/badges)
-- Leadership Track (+50 course modules completed) - Dell Technologies
+- [Ten+ (10+) badges on Credly](https://www.credly.com/users/jaycuthrell/badges)
+- Product-Led Growth Certification - Pendo
 - Facilitation of Executive Briefings (ABPM) - ABPM (Association of Briefing Program Managers)
-- Class-5 Soft Switch Packet Interface Card for VoIP - Tekelec
-- Class-5 Soft Switch OAM&P - Tekelec
-- Canopy Wireless Broadband Technical Training - Motorola Solutions
-- Weblogic Server Administration - Oracle
+- Leadership Track (+50 course modules completed)
+  - Building and Managing High-Performance Virtual Teams
+  - Leading, Communicating, and Managing Organizational Change
+  - Advanced Leadership Experience for Directors
+  - MEDDIC, MEDDICC, MEDDPICC, SPIN, NEAT, Sandler, and similar sales methodologies
+  - Products and Operations Academy for Product Management and Software Engineering
+  - Knowledge Sharing for Business Impact
+  - Developing Global Executive Presence
+  - Management Influence
+- Zero Trust Principles
 - INFOSEC Assessment Training and Rating Program (IARTP) National Security Agency (NSA) INFOSEC Assessment Methodology (IAM)
-
+- Amazon Web Services (AWS): Accreditation in Technical, Business, and Cloud Economics
+- Microsoft Azure: Accreditation in Technical, Business, and Cloud Economics
+- Google Cloud Platform (GCP): Accreditation in Technical, Business, and Cloud Economics
+- Oracle Cloud Infrastructure (OCI): Accreditation in Technical, Business, and Cloud Economics
+- Red Hat Sales Specialist for Red Hat OpenShift (Level I and Level II)
+- Converged Infrastructure Solutions Foundations
+- Slack Enterprise Grid Administration
+- Motorola Solutions Canopy Wireless Broadband Technical Training
+- Oracle Class-5 Soft Switch Packet Interface Card for VoIP
+- Oracle Class-5 Soft Switch OAM&P
+- Oracle Weblogic Server Administration
 
 Skills
 ======
@@ -99,6 +128,7 @@ Skills
 - Servant Leadership
 - Executive Leadership
 - Team Leadership
+- Product-Led Growth
 - Design Thinking
 - Systems Thinking
 - Telecommunications
@@ -123,6 +153,7 @@ Honors & Awards
 
 - Dell Partner of the Year Award 2021
 - Dell Product of the Year Award 2020
+- Alldus AI and Digital Transformation Podcast [Top Episode of the Year](https://web.archive.org/web/20221210092157/https://alldus.com/blog/the-alldus-top-50-podcasts-10-1/), 2020
 - Dell Customer Focus Award 2019
 - Dell Excellence Award 2018
 - Dell Excellence Award 2017
@@ -254,17 +285,12 @@ WALMART,
 WIZARDS OF THE COAST, 
 YAHOO
 
-
 Professional Recommendations
 ============================
 
-_"Jay is a wealth of information on an incredible diversity of topics, and the more technical or conceptual a
-topic gets, the more Jay is in his element. He understands both the underpinnings of how things work and the
-business dynamics that push some technologies ahead."_ — Founder and CEO, VC Backed Startup
+_"Jay is a wealth of information on an incredible diversity of topics, and the more technical or conceptual actopic gets, the more Jay is in his element. He understands both the underpinnings of how things work and the business dynamics that push some technologies ahead."_ — Founder and CEO, VC Backed Startup
 
-_"In today's world of information workers, you need bright people who get on with others and encourage everyone
-to be better by leading by example, giving others the drive to strive to shine in their own unique way:
-Jay does that to me and others I've met."_ — Industry Peer
+_"In today's world of information workers, you need bright people who get on with others and encourage everyone to be better by leading by example, giving others the drive to strive to shine in their own unique way: Jay does that to me and others I've met."_ — Industry Peer
 
 _"Jay's advice and assistance to the CEO and to me, as CFO of the Company, has been invaluable. He has proven himself a valuable and credible sounding board on many issues before the Company, of both a technical and strategic nature."_ — Chief Financial Officer, Service Provider
 
@@ -272,13 +298,11 @@ _"Jay has the mighty combination of business acumen and deep technical expertise
 
 _"I found Jay to possess the unique ability to develop a strategic agenda for helping our organization grow as well as the technical acumen to implement a tactical plan around that strategy."_ — Vice President of Strategic Planning, Service Provider
 
-_"When you're looking for the definition of tech-savvy in the dictionary- Jay's name should come up.
-Whatever the latest technology trend - Jay's on it. You can't stump Jay."_ — Founder and CEO, Marketing Company
+_"When you're looking for the definition of tech-savvy in the dictionary- Jay's name should come up. Whatever the latest technology trend - Jay's on it. You can't stump Jay."_ — Founder and CEO, Marketing Company
 
 _"Jay has tactical experience to back up his recommendations, just not pie-in-the-sky stuff."_ - Vice President of Sales and Business Development, Service Provider
 
-_"Over many years Jay has consistently provided sound advice and strategy. His technology briefings and
-presentations are concise and information-dense but also intelligible and lively. Listen to him."_ — Published Author
+_"Over many years Jay has consistently provided sound advice and strategy. His technology briefings and presentations are concise and information-dense but also intelligible and lively. Listen to him."_ — Published Author
 
 _"I cultivated a great respect for Jay's skills as an unbiased technologist who is grounded in practical business reality. Jay has provided valuable guidance that I have immediately been able to incorporate into our business with great success."_ - Founder and CEO, VC Backed Startup
 
@@ -288,22 +312,18 @@ _"Above all, Jay is honest and trustworthy."_ — Founder and CEO, Service Provi
 
 _"Jay's technical knowledge is unparalleled, but what makes Jay truly valuable is his breadth of knowledge across multiple fields and his ability to translate this knowledge into practical solutions."_ - Operations Executive, Service Provider
 
-_"Results-oriented and always five minutes ahead of the curve, Jay seems to always know what is next and
-how to get there. Jay is on the ball with the news of the day and the trends of the industry."_ - Senior Sales Engineer, Service Provider
+_"Results-oriented and always five minutes ahead of the curve, Jay seems to always know what is next and how to get there. Jay is on the ball with the news of the day and the trends of the industry."_ - Senior Sales Engineer, Service Provider
 
 _"Jay is one of the strongest and most resourceful leaders I've had the pleasure to work with."_ - Senior Vice President of Engineering, B2B Enterprise Software Company
 
 _"I worked with Jay on assessing the technical capabilities of potential portfolio companies. He demonstrated a unique ability to not only master the complexity of the technologies but also to assess and describe them in plain English to our shareholders."_ - General Partner, VC Fund
- 
 
 Professional References
 =======================
 
 References are available upon request.
 
-
 Role Specific Versions
 ======================
 
 For role-specific versions of my CV/resume information, please [contact me directly](/contact/).
-
