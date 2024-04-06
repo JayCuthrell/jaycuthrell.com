@@ -318,6 +318,60 @@ _"Jay is one of the strongest and most resourceful leaders I've had the pleasure
 
 _"I worked with Jay on assessing the technical capabilities of potential portfolio companies. He demonstrated a unique ability to not only master the complexity of the technologies but also to assess and describe them in plain English to our shareholders."_ - General Partner, VC Fund
 
+README
+======
+
+Often, a README file can be a user manual for working together.
+
+## Communication Style
+
+- I have applied 50+ hours of versatile executive communication and facilitation courses by facilitating and leading 100+ meetings at executive briefing centers globally.
+- I have been a remote worker since the late 1990s in diverse organizations with hybrid and on-site office environments.
+- I am equally comfortable in 1:1 settings, analyst briefings, investor briefings, and large audiences be it virtually or on stage with a heavy speaking schedule at industry events and conferences.
+
+## Personal Approach to Work
+
+- I adapt and apply time management skills honed over decades of getting things done.
+- I can rapidly synthesize insights and get the gist of situations with a bias for action to achieve the best outcome promptly.
+- My approach to knowledge is to maintain a scribe persona with a notes knowledge base (Zettelkasten) that is survivable as part of succession planning, transfer of knowledge/information best practices, and orderly professional transition in and out of engagements (OPT-in and OPT-out).
+
+## Preferred Communication Channels
+
+- I time manage my calendar in 15-minute windows (Pomodoro Technique) and publish busy-free. I do not accept meeting invitations without fully formed agendas.
+- For projects, I prefer standup meetings (SAFe/Agile/Scrum) in a chat environment (Slack/Teams/Discord/etc.) with a policy to go AV mode when richer context is essential and every 10 minutes I will move to cancel if there are no topics to discuss so the team can reclaim time.
+- For anything requiring immediate attention, call my mobile.
+
+## Feedback Preferences
+
+- I believe that feedback is a gift that should be immediate in addition to being regularly scheduled with a structured format that creates opportunities for reflection and improvement.
+- Feedback should enhance understanding between parties in such a way that group dynamics progress from responsive to effective to efficient teams.
+- Feedback should support the goal of continuous improvement and timely course correction when required in the most timely manner possible.
+
+## Personality Traits
+
+- Most MTBI test results indicate I am a classic ENTJ.
+- I typically conduct a quarterly reflection from my immediate network.
+- I typically conduct a yearly 360-degree executive assessment.
+
+## Leadership Philosophy
+
+- Outcomes are what matter.
+- Work is what is done, not where or how, in support of an outcome.
+- Radical transparency and radical ownership are elemental to achieving outcomes.
+
+## Management Style
+
+- I believe that servant leadership with a bias for data-driven outcome-oriented decisions is the starting point for an effective management style.
+- I believe that management styles must evolve, adapt, and adopt hybrid models based on changing business environments.
+- I believe that Drucker's commentary on culture should drive product-led growth and sales-led growth organizations to embrace a management style that eats change for breakfast, lunch, dinner, and snacks in between.
+
+## Leadership Values and Principles
+
+- I cascade clear crisp concise strategy to tactically innovative teams.
+- I build and develop high-performing teams that operate independently.
+- I provide transformational servant leadership in support of the teams in my charge.
+
+
 Professional References
 =======================
 
