@@ -288,7 +288,7 @@ YAHOO
 Professional Recommendations
 ============================
 
-_"Jay is a wealth of information on an incredible diversity of topics, and the more technical or conceptual actopic gets, the more Jay is in his element. He understands both the underpinnings of how things work and the business dynamics that push some technologies ahead."_ — Founder and CEO, VC Backed Startup
+_"Jay is a wealth of information on an incredible diversity of topics, and the more technical or conceptual a topic gets, the more Jay is in his element. He understands both the underpinnings of how things work and the business dynamics that push some technologies ahead."_ — Founder and CEO, VC Backed Startup
 
 _"In today's world of information workers, you need bright people who get on with others and encourage everyone to be better by leading by example, giving others the drive to strive to shine in their own unique way: Jay does that to me and others I've met."_ — Industry Peer
 
