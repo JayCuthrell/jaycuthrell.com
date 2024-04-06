@@ -1,7 +1,6 @@
 source 'https://rubygems.org'
 
-gem 'jekyll', ">= 4.0"
-gem 'github-pages'
+gem "github-pages", group: :jekyll_plugins
 gem 'jekyll-theme-so-simple'
 gem 'jekyll-seo-tag'
 gem 'jekyll-sitemap', ">= 1.3.0"
