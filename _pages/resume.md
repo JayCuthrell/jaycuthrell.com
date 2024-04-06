@@ -25,11 +25,11 @@ It is my mission to delight customers, deliver sustainable sales growth, and pro
 Narrative
 =========
 
-I help my clientele build multi-billion dollar run rate products and services.
+I lead teams that are building multi-billion dollar run rate products and services that delight customers and make the world better for their existence. My career goal is to lead the continuous digital transformation and reinvention of an iconic product-led and sales-led growth company.
 
-I am a Reforge-trained product management executive with deep experience in Enterprise markets, new product introduction, and portfolio rationalization across nested acquisitions. My strengths include transformative servant leadership, certified facilitator skills, assessment methodologies, and cross-industry Office of the CTO level credibility.
+I am a Reforge-trained product executive with deep experience in Enterprise markets, new product introduction, and portfolio rationalization across nested acquisitions. My strengths include transformative servant leadership, certified facilitator skills, assessment methodologies, and cross-industry Office of the CTO level credibility.
 
-My passion is taking vision from design to reality to become growth engines. I make the possible permissible, sustainable, repeatable, and advisable. From my early consulting career in materials engineering to telco / media / entertainment to driving product-led growth at the most successful joint-venture in IT history with executive roles as a SVP / CTO / GM / Partner along the way, I'm a technology optimist at heart seeking out white spaces, adjacencies, control planes, convergence, and creating what's next.
+My early career in materials engineering pivoted to consulting in telco / media / entertainment during the .com boom. From there, I have been fortunate to be a driving force in product-led growth and sales-led growth at [the most successful joint venture in IT history](/about/). Most recently, I've had executive roles as SVP / CTO / GM / Partner through multiple M&A events. At heart, I'm a technology optimist seeking white spaces, adjacencies, control planes, convergence, and creating what's next.
 
 Career Highlights
 =================
