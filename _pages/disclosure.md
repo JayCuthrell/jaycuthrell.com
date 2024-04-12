@@ -31,8 +31,6 @@ I am not on [X/Twitter](https://help.twitter.com/en/safety-and-security/report-x
 
 ### My Employers, Clients, and Customers
 
-As of August 2022, I am presently in an executive role at [IBM](https://web.archive.org/web/20221007035315/https://www.taos.com/resources/press-releases/taos-brings-aboard-new-senior-vice-president-of-products-to-accelerate-digital-transformation-strategies/). As of July 2023, I am an [Executive Member of the AWS Partner Advisory Board](https://www.linkedin.com/posts/jaycuthrell_aws-security-cloudops-activity-7091799554005610496-kRb1). 
-
 My [CV / resumé is available exclusively on this website](/resume/) and I may update other formats such as my [LinkedIn profile](https://linkedin.com/in/jaycuthrell) from time to time.
 
 ### Startups
