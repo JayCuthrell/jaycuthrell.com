@@ -16,18 +16,12 @@ There are many ways to contact me. This page updates as my [preferred methods ev
 
 I use phone, SMS, email, and video conference apps but prefer to establish a second channel from the list above.
 
-- Personal 
-   - Personal Mobile [+1-415-763-8343](tel:1-415-763-8343)
-   - Personal Mastodon [@jay@cuthrell.com](https://cuthrell.com/@jay)
-   - Personal iMessage Contact Key Verification ```APKTIDPvEfejEVFbaY9DNgtrXFv8YqxL_mPwpdmQgKP36JYG9vow```
-   - Personal Email [jay@cuthrell.com](mailto:jay@cuthrell.com?SUBJECT=2023+via+jaycuthrell.com)
-   - Personal Meeting Request [https://calendly.com/jaycuthrell/call](https://calendly.com/jaycuthrell/call)
-   - Personal Mail ```1903 Live Oak St #92 Beaufort, NC 28516-0092```
-
-- Work
-   - IBM Work Mobile [+1-252-732-6835](tel:1-252-732-6835)
-   - IBM Work iMessage Contact Key Verification ```APKTIDHRKcW8oiOxH1t9IfGjLUiUuw8TSbJrhtPxzSZLUC3DNd6w```
-   - IBM Work Email [jay.cuthrell@ibm.com](mailto:jay.cuthrell@ibm.com?SUBJECT=2023+via+jaycuthrell.com)
+- Mobile [+1-415-763-8343](tel:1-415-763-8343)
+- Mastodon [@jay@cuthrell.com](https://cuthrell.com/@jay)
+- iMessage Contact Key Verification ```APKTIDPvEfejEVFbaY9DNgtrXFv8YqxL_mPwpdmQgKP36JYG9vow```
+- Email [jay@cuthrell.com](mailto:jay@cuthrell.com?SUBJECT=2023+via+jaycuthrell.com)
+- Meeting Request [https://calendly.com/jaycuthrell/call](https://calendly.com/jaycuthrell/call)
+- Mail ```1903 Live Oak St #92 Beaufort, NC 28516-0092```
 
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
