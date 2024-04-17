@@ -19,8 +19,9 @@ Summary
 It is my mission to delight customers, deliver sustainable sales growth, and provide innovative servant leadership. I accelerate business by applying rapid growth skill sets, communication skills, and essential relevant technical expertise.
 
 - Extensive customer focus in sales wins, product development, and consulting internationally.
-- Highly sought-after public speaker and group discussion leader with analysts and customers. 
+- Highly sought-after public speaker and group discussion leader with analysts and customers.
 - Held successful CTO, SVP, and GM roles in rapid-growth ICT and service provider companies.
+- Operator at companies that created new categories and disrupted industries.
 
 Narrative
 =========
@@ -141,6 +142,28 @@ Skills
 - Professional Services
 - Strategic Consulting
 - Materials Science
+
+Mergers and Acquisitions Skills
+===============================
+
+- Mergers and Acquisitions (M&A) Due Diligence
+- M&A Integrations
+- Nested Acquisitions
+- Concurrent Nested M&A
+- Turnarounds and Pivots
+- Business Exits
+- Business Divestitures
+- Operational Transformation
+- Technology Transformation
+- Talent Upskilling
+- Talent and Workforce Transformation
+- Product Development
+- Service Development
+- Portfolio Rationalization
+- Private to Public Transitions
+- Public to Private Transitions
+- Capital Raising
+- Capital Reallocation
 
 
 Advisory Board Roles
