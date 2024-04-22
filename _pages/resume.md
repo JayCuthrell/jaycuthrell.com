@@ -26,7 +26,7 @@ It is my mission to delight customers, deliver sustainable sales growth, and pro
 Narrative
 =========
 
-I lead teams that are building multi-billion dollar run rate products and services that delight customers and make the world better for their existence. My career goal is to lead the continuous digital transformation and reinvention of an iconic product-led and sales-led growth company.
+I provide servant leadership to enable flywheels for continuous transformation, reinvention, and category creation at growth-oriented companies with cultures of innovation. I lead teams building multi-billion dollar run rate products and services that delight customers and make the world better for their existence.
 
 I am a Reforge-trained product executive with deep experience in Enterprise markets, new product introduction, and portfolio rationalization across nested acquisitions. My strengths include transformative servant leadership, certified facilitator skills, assessment methodologies, and cross-industry Office of the CTO level credibility.
 
