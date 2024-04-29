@@ -26,9 +26,7 @@ It is my mission to delight customers, deliver sustainable sales growth, and pro
 Narrative
 =========
 
-I practice servant leadership to drive continuous innovation, reinvention, and market creation in growth-oriented companies with a culture of innovation. I lead teams developing multi-billion dollar products and services that delight customers and positively impact the world.
-
-I lead teams building multi-billion dollar run rate products and services that delight Enterprise customers and end users.
+I practice servant leadership to drive continuous innovation, reinvention, and market creation in growth-oriented companies with a culture of innovation. I lead teams developing multi-billion dollar Enterprise products and services that delight customers and positively impact the world.
 
 I am a Reforge-trained product executive with deep experience in Enterprise markets, new product introduction, and portfolio rationalization across nested acquisitions. My strengths include transformative servant leadership, certified facilitator skills, assessment methodologies, and cross-industry Office of the CTO level credibility.
 
