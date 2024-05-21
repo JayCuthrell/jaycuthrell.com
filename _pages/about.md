@@ -5,7 +5,6 @@ related: true
 title: "About Jay Cuthrell"
 
 ---
-
 The _hindsight 20/20 storytelling_ goes something like this... but [my meandering career path](/resume/) was anything but planned.
 
 * I was born and raised in Beaufort, North Carolina.
