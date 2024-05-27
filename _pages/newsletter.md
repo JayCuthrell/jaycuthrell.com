@@ -5,7 +5,7 @@ related: true
 title: "Subscribe to my weekly newsletter"
 
 ---
-<iframe scrolling="no" style="width:100%!important;height:220px;border:1px #ccc solid !important" src="https://buttondown.email/jaycuthrell?as_embed=true" ></iframe><br />
+<iframe scrolling="no" style="width:100%!important;height:230px;border:1px #ccc solid !important" src="https://buttondown.email/jaycuthrell?as_embed=true"></iframe>
 
 ### Recent Newsletter Issues by Jay Cuthrell on [fudge.org](https://fudge.org)
  - [Miscellaneous May](https://fudge.org/archive/miscellaneous-may/)  2024 May 26
