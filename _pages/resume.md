@@ -381,7 +381,7 @@ Often, a README file can be a user manual for working together.
 
 ### Leadership Philosophy
 
-- Outcomes are what matter.
+- Outcomes are what matters.
 - Work is what is done, not where or how, in support of an outcome.
 - Radical transparency and radical ownership are elemental to achieving outcomes.
 
