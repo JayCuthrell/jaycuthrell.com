@@ -14,7 +14,8 @@ Over the years I've collected a few digital mementos to compliment the physical 
 
 (Partial List)
 
-- [fudge.org](https://fudge.org), 1998 to Present
+- [Hot Fudge Daily](https://hot.fudge.org), 2024 to Present
+- [Fudge Sunday Weekly](https://fudge.org), 1998 to Present
 - [Fudge Sunday Newsletter](https://sunday.fudge.org), 2019 to Present
 - [Dell Technologies, Dell EMC, VCE](https://www.dell.com/en-us/blog/authors/jay-cuthrell/), 2010 to 2020
 - [ReadWrite](https://readwrite.com/author/jay-cuthrell), 2010
@@ -53,7 +54,8 @@ Note: These were presented by [a very enthusiastic consultant](https://cuthrell.
 
 (Partial List)
 
-- Over 200 Executive Briefings as of 2023
+- Over 200 Executive Briefings as of 2024
+- Qlik Connect 2024
 - Supercloud 3, 2023
 - IT Renovation Day, 2021
 - Transforming Data with Intelligence, 2021
@@ -96,13 +98,13 @@ Note: These were presented by [a very enthusiastic consultant](https://cuthrell.
 
 (Partial List)
 
+#### Qlik Connect 2024
+
+<iframe width="300" height="168" src="https://www.youtube.com/embed/6GYNh1clfEQ?si=4mLdNNtibynKPzTk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 #### Supercloud 3 DevX, AIOps, and Security 2023
 
 <iframe width="300" height="168" src="https://www.youtube.com/embed/mwxDNbD0fes?si=IXwrz1NuSvMhtv1S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-#### Optimize Your Cloud Spend 2023
-
-<iframe width="300" height="168" src="https://www.youtube.com/embed/_rHyNo3osC8?si=wnFLANEhG2qRNP6j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 #### EcoCast Data Analytics Strategies 2021
 
