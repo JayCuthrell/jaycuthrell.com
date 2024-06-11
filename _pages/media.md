@@ -54,13 +54,11 @@ Note: These were presented by [a very enthusiastic consultant](https://cuthrell.
 
 (Partial List)
 
-- Over 200 Executive Briefings as of 2024
 - Qlik Connect 2024
 - Supercloud 3, 2023
 - IT Renovation Day, 2021
 - Transforming Data with Intelligence, 2021
 - EcoCast, 2021
-- Facilitation of Executive Briefings - Association of Briefing Program Managers (ABPM), 2018
 - Gartner Symposium, 2017, 2012
 - VMworld, 2016, 2015, 2014, 2012
 - Cisco Live, 2016
