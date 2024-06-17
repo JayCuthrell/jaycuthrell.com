@@ -36,6 +36,7 @@ Over the years I've collected a few digital mementos to compliment the physical 
 
 (Partial List)
 
+- [Banking on Disruption](https://podcasts.apple.com/us/podcast/banking-on-disruption/id1521180200?i=1000658893768), 2024
 - [AI in Action](https://alldus.com/blog/podcasts/aiinaction-jay-cuthrell-dell-technologies/), 2020
 - [Geek Whisperers](http://geek-whisperers.com/2013/11/episode-27-the-balkanization-of-tech-conferences-and-the-long-tail-of-swag/), 2013
 - [NPR American Public Media's Marketplace](https://www.marketplace.org/2011/06/13/facebook-fatigue-may-be-setting/), 2011
