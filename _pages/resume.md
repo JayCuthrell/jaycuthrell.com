@@ -23,6 +23,11 @@ It is my mission to delight customers, deliver sustainable sales growth, and pro
 - Held successful CTO, SVP, and GM roles in rapid-growth ICT and service provider companies.
 - Operator at category creation companies that disrupted industries.
 
+Fractional Executive
+====================
+
+Imagine having a seasoned C-suite leader who can drive growth, innovation, and operational excellence without the overhead of a full-time hire. With 25+ years of executive experience at tech giants and high-growth startups alike, I offer the [strategic vision and tactical execution skills](https://cuthrell.consulting/services/) to elevate your business on a flexible, cost-effective basis. As a fractional executive, I can deliver the transformative leadership you need to navigate complex challenges, optimize operations, and accelerate your company's success — all while maximizing your budget and minimizing risk. [Let's discuss](/contact/) how my proven track record can create outsized value for your organization on a part-time or project basis.
+
 Narrative
 =========
 
