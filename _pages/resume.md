@@ -383,6 +383,15 @@ Often, a README file can be a user manual for working together.
 - Most MTBI test results indicate I am a classic ENTJ.
 - I typically conduct a quarterly reflection from my immediate network.
 - I typically conduct a yearly 360-degree executive assessment.
+- Personality type: [Commander (ENTJ-A)](https://www.16personalities.com/entj-personality)
+- Traits:
+  - Extraverted -- 71%
+  - Intuitive -- 98%
+  - Thinking -- 74%
+  - Judging -- 90%
+  - Assertive -- 88%
+- Role: Analyst
+- Strategy: People Mastery
 
 ### Leadership Philosophy
 
@@ -401,7 +410,6 @@ Often, a README file can be a user manual for working together.
 - I cascade clear crisp concise strategy to tactically innovative teams.
 - I build and develop high-performing teams that operate independently.
 - I provide transformational servant leadership in support of the teams in my charge.
-
 
 Professional References
 =======================
