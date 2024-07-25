@@ -59,27 +59,21 @@ Be sure to read all the fine print from [Wealthfront disclosures](https://www.we
 
 I currently hold these public stocks (in alphabetical order):
 
-ABNB
 ADBE
 ADSK
-AMZN
 APPN
 AZTA
 BASE
 BILL
-CBRE
 CFLT
 CHWY
 COUR
-CRM
 CXM
-DFS
 DIS
 DOCN
 DT
 EBAY
 FIVN
-FROG
 HCP
 HUBS
 INTC
@@ -93,7 +87,6 @@ OMCL
 PARA
 PCTY
 PD
-PLTR
 PYPL
 QTWO
 RBLX
