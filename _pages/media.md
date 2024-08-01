@@ -14,13 +14,11 @@ Over the years I've collected a few digital mementos to compliment the physical 
 
 (Partial List)
 
-- [Hot Fudge Daily](https://hot.fudge.org), 2024 to Present
-- [Fudge Sunday Weekly](https://fudge.org), 1998 to Present
-- [Fudge Sunday Newsletter](https://sunday.fudge.org), 2019 to Present
+- [Hot Fudge Daily Newsletter](https://hot.fudge.org), 2024 to Present
+- [Fudge Sunday Weekly Newsletter](https://fudge.org), 1998 to Present
 - [Dell Technologies, Dell EMC, VCE](https://www.dell.com/en-us/blog/authors/jay-cuthrell/), 2010 to 2020
 - [ReadWrite](https://readwrite.com/author/jay-cuthrell), 2010
 - [Telecompetitor](https://www.telecompetitor.com/author/jcuthrell/), 2009 to 2010
-
 
 ### Quoted Articles
 
