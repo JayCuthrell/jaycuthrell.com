@@ -109,6 +109,10 @@ Note: These were presented by [a very enthusiastic consultant](https://cuthrell.
 
 <iframe width="300" height="168" src="https://www.youtube.com/embed/mwxDNbD0fes?si=IXwrz1NuSvMhtv1S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+#### EcoCast Data Landscape 2022
+
+<iframe width="300" height="168" src="https://www.youtube.com/embed/kr2DTKhExpE??start=548" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 #### EcoCast Data Analytics Strategies 2021
 
 <iframe width="300" height="168" src="https://www.youtube.com/embed/jasHUs42UjU?start=525" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
