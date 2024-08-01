@@ -103,7 +103,7 @@ Note: These were presented by [a very enthusiastic consultant](https://cuthrell.
 
 #### 12 Factors, 12 Years - The Evolution of App Modernization 2023
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AsRydHr6M3c?si=HRzP5l7_n4r3EQQS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="300" height="168" src="https://www.youtube.com/embed/AsRydHr6M3c?si=HRzP5l7_n4r3EQQS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 #### Supercloud 3 DevX, AIOps, and Security 2023
 
