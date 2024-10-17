@@ -47,7 +47,7 @@ Are we clear? Cool.
 
 I may actively trade in the stock market. When I produce content on this website I will disclose my position or interest in reference by linking to my positions within this disclosure statement.
 
-I invest primarily in a variety of funds that may include environmental, social and governance-factors-oriented funds such as ([SHE](https://www.ssga.com/us/en/intermediary/etfs/funds/spdr-ssga-gender-diversity-index-etf-she)) but may also participate in automatic rebalancing services such as Wealthfront.
+I invest primarily in a variety of funds that may include environmental, social and governance-factors-oriented funds such as ([SHE](https://www.ssga.com/us/en/intermediary/etfs/funds/spdr-ssga-gender-diversity-index-etf-she)) but may also participate in automatic balancing services such as Wealthfront.
 
 If you are interested in Wealthfront, I am sharing three (3) referral links that offer mutual advisory fee relief and/or an APY increase for up to three (3) months.
 
@@ -57,54 +57,9 @@ If you are interested in Wealthfront, I am sharing three (3) referral links that
 
 Be sure to read all the fine print from [Wealthfront disclosures](https://www.wealthfront.com/legal/disclosure) (as of December 2023) therein. YMMV.
 
-I currently hold these public stocks (in alphabetical order):
+I currently hold no public stocks but if this changes I will add them below (in alphabetical order):
 
-ADBE
-ADSK
-APPN
-AZTA
-BASE
-BILL
-CFLT
-CHWY
-COUR
-CXM
-DIS
-DOCN
-DT
-EBAY
-FIVN
-HCP
-HUBS
-INTC
-JAMF
-MDB
-ME
-MNDY
-NET
-OKTA
-OMCL
-PARA
-PCTY
-PD
-PYPL
-QTWO
-RBLX
-S
-SCWX
-SNOW
-SPT
-TDY
-TEAM
-TGT
-UPS
-VEEV
-WIX
-WK
-WOOF
-XMTR
-XPEL
-ZS
+💸
 
 ### Gifts and Advertising
 
