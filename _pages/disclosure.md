@@ -10,7 +10,8 @@ Here are my disclosures that I make reasonable attempts to keep current. While I
 
 In general, the words, images, or what can be summed up as a variety of purposeful output found at this website and elsewhere on the Internets are my opinions. These momentary captures of the vortex of consciousness and mutable communications reflect my opinions and not those of anything or anyone else. That’s what many folks like to call a disclaimer. This disclaimer is mine. It’s pretty fancy if I do say so myself. Which I just did.
 
-* TOC 
+* TOC
+
 {:toc}
 
 ### Content
@@ -47,7 +48,7 @@ Are we clear? Cool.
 
 I may actively trade in the stock market. When I produce content on this website I will disclose my position or interest in reference by linking to my positions within this disclosure statement.
 
-I invest primarily in a variety of funds that may include environmental, social and governance-factors-oriented funds such as ([SHE](https://www.ssga.com/us/en/intermediary/etfs/funds/spdr-ssga-gender-diversity-index-etf-she)) but may also participate in automatic balancing services such as Wealthfront.
+I invest primarily in a variety of funds that may include environmental, social and governance-factors-oriented funds such as ([SHE](https://www.ssga.com/us/en/intermediary/etfs/funds/spdr-ssga-gender-diversity-index-etf-she)) and ([NACP](https://www.impactetfs.org/nacp-etf/)) but may also participate in automatic balancing services such as Wealthfront.
 
 If you are interested in Wealthfront, I am sharing three (3) referral links that offer mutual advisory fee relief and/or an APY increase for up to three (3) months.
 
