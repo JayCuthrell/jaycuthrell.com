@@ -12,6 +12,8 @@ title: "William Jason Cuthrell (Jay)"
 
 [+1-415-763-8343](tel:+1-415-763-8343)
 
+* TOC
+{:toc}
 
 Summary
 =======
