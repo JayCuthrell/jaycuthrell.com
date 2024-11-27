@@ -42,7 +42,10 @@ My early career in materials engineering pivoted to consulting in telco / media 
 Career Highlights
 =================
 
-![cuthrell.consulting](/images/cuthrellconsulting.png) 
+![NexusTek](/images/nexustek.png)
+NexusTek
+
+![cuthrell.consulting](/images/cuthrellconsulting.png)
 Cuthrell Consulting
 
 ![IBM](/images/ibm.png)

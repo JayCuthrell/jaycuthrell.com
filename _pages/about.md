@@ -30,5 +30,6 @@ The _hindsight 20/20 storytelling_ goes something like this... but [my meanderin
 * In 2020, my time at Dell Technologies ended and my next adventure in multicloud took me to [Faction, a Dell Technologies Capital portfolio company](https://www.factioninc.com/).
 * By late 2022, my time at Faction ended as I once again returned to my consulting roots 25+ years later, and I was fortunate to be able to return to IBM and apply all that I have learned to [_What's Next_](https://web.archive.org/web/20221007035315/https://www.taos.com/resources/press-releases/taos-brings-aboard-new-senior-vice-president-of-products-to-accelerate-digital-transformation-strategies/).
 * By 2024, I revivified [Cuthrell Consulting](https://cuthrell.consulting) to once again flex my digital nomad roots of consulting, investing, advising startups, and blogging.
+* By late 2024, I began my next adventure as Chief Product Officer at [NexusTek](https://nexustek.com) to lead growth across product, analyst relations, and marketing as well as contribute to a compelling composable consultancy culture.
 
 [To be continued...](/resume/)

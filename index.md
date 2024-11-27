@@ -6,14 +6,16 @@ permalink: /
 
 ---
 
-- Servant Leader 
-- Corporate Free Safety 
+- Servant Leader
+- Corporate Free Safety
 - Former CTO / SVP / GM / Partner
 - Helps grow businesses from 0 to multi $B
 
 William J. Cuthrell (Jay) is an innovative technology executive and sought-after servant leader. He is a prolific influencer and [writer](https://jaycuthrell.com/media) who communicates with ease at C-suite and practitioner levels [across traditional and emerging mediums](https://jaycuthrell.com/media) on digital transformation strategy in holistic full-stack engagements. His passion is taking vision from design to reality to become growth engines. Jay’s expertise demonstrated through substantial growth and change cycles provides a unique perspective into the technology industry’s future.
 
-Jay is the founding partner of [Cuthrell Consulting](https://cuthrell.consulting), a consultancy providing fractional leadership services as well as pragmatic Generative AI (GenAI) infused advisory services to service providers, startups, and investment groups. Cuthrell Consulting helps clients navigate, reach, and exceed their goals.
+Jay is currently Chief Product Officer at [NexusTek](https://nexustek.com) where he focuses on practice dimensions across product, analyst relations, and marketing while contributing to a compelling composable consultancy culture. [NexusTek](https://nexustek.com) drives business forward with comprehensive, secure, and scalable IT solutions.
+
+Jay is also the founding partner of [Cuthrell Consulting](https://cuthrell.consulting), a consultancy providing fractional leadership services as well as pragmatic Generative AI (GenAI) infused advisory services to service providers, startups, and investment groups. Cuthrell Consulting helps clients navigate, reach, and exceed their goals.
 
 Previously, Jay was a Partner at IBM where he focused on the integration of Hybrid Cloud Services [acquisition companies](https://web.archive.org/web/20221007035315/https:/www.taos.com/resources/press-releases/taos-brings-aboard-new-senior-vice-president-of-products-to-accelerate-digital-transformation-strategies/), offerings development, and consulting practice dimensions. As part of the executive team, Jay applied GenAI, developer experience (DevX), and [platform engineering services](https://www.ibm.com/consulting/platform-engineering-services) expertise to Client engagements from edge to core to cloud.
 
