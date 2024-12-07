@@ -28,8 +28,23 @@ def update_readme_buttondown_posts(buttondown_feed, readme_base, join_on):
     posts_joined = '\n'.join(posts)
     return readme_base[:readme_base.find(rss_title)] + f"{join_on}\n{posts_joined}"
 
-rss_title = "### Recent Newsletter Issues by Jay Cuthrell on [fudge.org](https://fudge.org)" # Anchor for where to append posts
+def combine_feeds(feed1, feed2):
+    combined_entries = feed1 + feed2
+    combined_entries.sort(key=lambda item: item.updated_parsed, reverse=True)
+    return combined_entries
+rss_title = "### Recent Newsletter Issues by Jay Cuthrell on [fudge.org](https://fudge.org)"
 readme = Path('../_pages/newsletter.md').read_text()
-updated_readme = update_readme_buttondown_posts("https://fudge.org/feed.xml", readme, rss_title)
+# Fetch and combine feeds
+feed1 = reverse_rss_feed("https://fudge.org/feed.xml")
+feed2 = reverse_rss_feed("https://hot.fudge.org/rss")
+combined_feed = combine_feeds(feed1, feed2)
+posts = []
+for item in combined_feed:
+    title = item.title
+    link = item.link
+    published = (time.strftime('%Y %b %d', item.updated_parsed))
+    posts.append(f" - [{title}]({link}) {published}")
+posts_joined = '\n'.join(posts)
+updated_readme = readme[:readme.find(rss_title)] + f"{rss_title}\n{posts_joined}"
 with open('../_pages/newsletter.md', "w+") as f:
     f.write(updated_readme + update_footer())
