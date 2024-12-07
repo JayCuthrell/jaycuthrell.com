@@ -4,7 +4,7 @@ title: "Contact Me"
 permalink: /contact/
 related: true
 excerpt: "You can reach Jay Cuthrell using the following methods..."
-keywords: "4157638343 415.763.8343 415-763-8343 +1-415-763-8343 (415)763-8343 @jaycuthrell jay@cuthrell.com"
+keywords: "4157638343 jay@cuthrell.com"
 
 ---
 
@@ -16,11 +16,19 @@ There are many ways to contact me. This page updates as my [preferred methods ev
 
 I use phone, SMS, email, and video conference apps but prefer to establish a second channel from the list above.
 
+### Work
+
+- Email [jay.cuthrell@nexustek.com](mailto:jay.cuthrell@nexustek.com?SUBJECT=2024+via+jaycuthrell.com)
+- Meeting Request [Book 15 Minutes with Jay at NexusTek](https://outlook.office.com/bookwithme/user/ff020437fe5b4e20aa719dae13744988@nexustek.com/meetingtype/CYyQ9YbGhk2WBCJMhzJ7dw2?anonymous&ep=mLinkFromTile)
+
+### Personal
+
 - Mobile [+1-415-763-8343](tel:1-415-763-8343)
 - Mastodon [@jay@cuthrell.com](https://cuthrell.com/@jay)
+- Bluesky [@cuthrell.com](https://bsky.app/profile/cuthrell.com) (as of Nov 24, 2024)
 - iMessage Contact Key Verification ```APKTIDPvEfejEVFbaY9DNgtrXFv8YqxL_mPwpdmQgKP36JYG9vow```
-- Email [jay@cuthrell.com](mailto:jay@cuthrell.com?SUBJECT=2023+via+jaycuthrell.com)
-- Meeting Request [https://calendly.com/jaycuthrell/call](https://calendly.com/jaycuthrell/call)
+- Email [jay@cuthrell.com](mailto:jay@cuthrell.com?SUBJECT=2024+via+jaycuthrell.com)
+- Meeting Request [Book 15 Minutes with Jay](https://calendly.com/jaycuthrell/call)
 - Mail ```1903 Live Oak St #92 Beaufort, NC 28516-0092```
 
 ```
