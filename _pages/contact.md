@@ -18,6 +18,7 @@ I use phone, SMS, email, and video conference apps but prefer to establish a sec
 
 ### Work
 
+- Phone [+1-877-243-8482 ext. 10110](tel:+1-877-243-8482,,,10110#)
 - Email [jay.cuthrell@nexustek.com](mailto:jay.cuthrell@nexustek.com?SUBJECT=2024+via+jaycuthrell.com)
 - Meeting Request [Book 15 Minutes with Jay at NexusTek](https://outlook.office.com/bookwithme/user/ff020437fe5b4e20aa719dae13744988@nexustek.com/meetingtype/CYyQ9YbGhk2WBCJMhzJ7dw2?anonymous&ep=mLinkFromTile)
 
