@@ -37,7 +37,7 @@ My [CV / resumé is available exclusively on this website](/resume/) and I may u
 
 At present, I am no longer an advisor to any startups. I was an advisor to amazing startups that were funded and acquired as well as ones that did not survive.
 
-With all startups I advise, the equity I have is commensurate with my involvement level. I have published [a blog post that outlines how I work with startups and my fuller thoughts on taking an advisory role](https://fudge.org/be-my-advisor/) which I also link back to on [my AngelList profile](https://angel.co/jaycuthrell).
+With all startups I advise, the equity I have is commensurate with my involvement level. I have published [a blog post that outlines how I work with startups and my fuller thoughts on taking an advisory role](https://fudge.org/archive/be-my-advisor/) which I also link back to on [my AngelList profile](https://angel.co/jaycuthrell).
 
 ### Positions
 
