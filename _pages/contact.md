@@ -30,7 +30,7 @@ I use phone, SMS, email, and video conference apps but prefer to establish a sec
 - iMessage Contact Key Verification ```APKTIDPvEfejEVFbaY9DNgtrXFv8YqxL_mPwpdmQgKP36JYG9vow```
 - Email [jay@cuthrell.com](mailto:jay@cuthrell.com?SUBJECT=2024+via+jaycuthrell.com)
 - Meeting Request [Book 15 Minutes with Jay](https://calendly.com/jaycuthrell/call)
-- Mail ```1903 Live Oak St #92 Beaufort, NC 28516-0092```
+- Mail ```1903 Live Oak St #92 Beaufort, NC 28516-0070```
 
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
