@@ -25,11 +25,13 @@ I was a prolific account creator and comment maker across the Interwebs. If ther
 
 I was a guest contributor at Telecompetitor and a writer for ReadWrite in addition to being published in a technology trade journal. However, the majority of my publishing output since 2010 is behind corporate firewalls.
 
-Any personal social networking profiles on LinkedIn, or other similar services on the Internet are placeholders, non-authoritative, exploratory, deprecated, or superseded by my [website](/) and all claimed verifications on [Keybase](https://keybase.io/jaycuthrell) where I maintain an active personal profile including [my personal self-hosted self-funded Mastodon instance](https://cuthrell.com/@jay) and a DNS/.well-known claim for [@cuthrell.com on Bluesky](https://bsky.app/profile/cuthrell.com).
+Any personal social networking profiles on LinkedIn, or other similar services on the Internet are placeholders, non-authoritative, exploratory, deprecated, or superseded by my [website](/) and all claimed verifications on [Keybase](https://keybase.io/jaycuthrell) where I maintain an active personal profile including [my personal self-hosted self-funded Mastodon instance](https://cuthrell.com/@jay) and a DNS/.well-known claim for [@cuthrell.com on Bluesky](https://bsky.app/profile/cuthrell.com) as well as [@fudge.org on Bluesky](https://bsky.app/profile/fudge.org).
 
 I am not on [X/Twitter](https://help.twitter.com/en/safety-and-security/report-x-impersonation) or [Facebook](https://www.facebook.com/help/174210519303259/?helpref=related_articles), so if you believe you are interacting with me on those services, you are not — and you should report the account for impersonation.
 
 ### My Employers, Clients, and Customers
+
+I am currently Chief Product Officer at [NexusTek](https://nexustek.com).
 
 My [CV / resumé is available exclusively on this website](/resume/) and I may update other formats such as my [LinkedIn profile](https://linkedin.com/in/jaycuthrell) from time to time.
 
@@ -37,7 +39,7 @@ My [CV / resumé is available exclusively on this website](/resume/) and I may u
 
 At present, I am no longer an advisor to any startups. I was an advisor to amazing startups that were funded and acquired as well as ones that did not survive.
 
-With all startups I advise, the equity I have is commensurate with my involvement level. I have published [a blog post that outlines how I work with startups and my fuller thoughts on taking an advisory role](https://fudge.org/archive/be-my-advisor/) which I also link back to on [my AngelList profile](https://angel.co/jaycuthrell).
+With all startups I advise, the equity I have is commensurate with my involvement level. I have published [a blog post that outlines how I work with startups and my fuller thoughts on taking an advisory role](https://fudge.org/archive/be-my-advisor/) which I also link back to on [my AngelList / Wellfound profile](https://wellfound.com/u/jaycuthrell).
 
 ### Positions
 
