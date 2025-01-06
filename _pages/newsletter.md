@@ -8,6 +8,7 @@ title: "Subscribe to my weekly newsletter"
 <iframe scrolling="no" style="width:100%!important;height:230px;border:1px #ccc solid !important" src="https://buttondown.email/jaycuthrell?as_embed=true"></iframe>
 
 ### Recent Newsletter Issues by Jay Cuthrell on [fudge.org](https://fudge.org)
+ - [🌶️ Hot Fudge Sunday for 2025-01-05](https://hot.fudge.org/archive/hot-fudge-sunday-for-2025-01-05/) 2025 Jan 06
  - [🌶️ Hot Fudge Sunday for 2024-12-29](https://hot.fudge.org/archive/hot-fudge-sunday-for-2024-12-29/) 2024 Dec 29
  - [🌶️ Hot Fudge Sunday for 2024-12-22](https://hot.fudge.org/archive/hot-fudge-sunday-for-2024-12-22/) 2024 Dec 22
  - [🌶️ Hot Fudge Sunday for 2024-12-15](https://hot.fudge.org/archive/hot-fudge-sunday-for-2024-12-15/) 2024 Dec 15
@@ -51,7 +52,6 @@ title: "Subscribe to my weekly newsletter"
  - [Spicy Edition Sunday for 2024-06-23](https://hot.fudge.org/archive/spicy-edition-sunday-for-2024-06-23/) 2024 Jun 23
  - [Summary Solstice](https://fudge.org/archive/summary-solstice/) 2024 Jun 23
  - [Hot Fudge Daily Digest](https://fudge.org/archive/hot-fudge-daily-digest/) 2024 Jun 16
- - [Markets Monday](https://hot.fudge.org/archive/markets-monday/) 2024 Jun 10
  - [Project Liberty & DSNP](https://fudge.org/archive/project-liberty-and-dsnp/) 2024 Jun 09
  - [GenAI June](https://fudge.org/archive/genai-june/) 2024 Jun 02
  - [Miscellaneous May](https://fudge.org/archive/miscellaneous-may/) 2024 May 26
@@ -308,7 +308,7 @@ title: "Subscribe to my weekly newsletter"
  - [Tel Aviv Traceroute](https://fudge.org/archive/tel-aviv-traceroute/) 2000 Apr 29
  - [The Fudge FAQ](https://fudge.org/archive/the-fudge-faq/) 1998 Dec 12
 
-Last auto generated Sun Dec 29 21:05:59 2024
+Last auto generated Sun Jan  5 21:07:12 2025
 
 This auto generated file is created by code based on examples from [@dylanroy](https://towardsdatascience.com/auto-updating-your-github-profile-with-python-cde87b638168) and [@eugeneyan](https://github.com/eugeneyan)
 
