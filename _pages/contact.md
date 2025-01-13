@@ -19,7 +19,9 @@ I use phone, SMS, email, and video conference apps but prefer to establish a sec
 ### Work
 
 - Phone [+1-877-243-8482 ext. 10110](tel:+1-877-243-8482,,,10110#)
-- Email [jay.cuthrell@nexustek.com](mailto:jay.cuthrell@nexustek.com?SUBJECT=2024+via+jaycuthrell.com)
+- Mobile [+1-415-763-8343](tel:1-415-763-8343)
+- Bluesky [@nexustek.com](https://bsky.app/profile/nexustek.com)
+- Email [jay.cuthrell@nexustek.com](mailto:jay.cuthrell@nexustek.com?SUBJECT=2025+via+jaycuthrell.com)
 - Meeting Request [Book 15 Minutes with Jay at NexusTek](https://info.nexustek.com/meetings/jay-cuthrell)
 
 ### Personal
@@ -28,8 +30,7 @@ I use phone, SMS, email, and video conference apps but prefer to establish a sec
 - Mastodon [@jay@cuthrell.com](https://cuthrell.com/@jay)
 - Bluesky [@cuthrell.com](https://bsky.app/profile/cuthrell.com) (as of Nov 24, 2024)
 - iMessage Contact Key Verification ```APKTIDPvEfejEVFbaY9DNgtrXFv8YqxL_mPwpdmQgKP36JYG9vow```
-- Email [jay@cuthrell.com](mailto:jay@cuthrell.com?SUBJECT=2024+via+jaycuthrell.com)
-- Meeting Request [Book 15 Minutes with Jay](https://calendly.com/jaycuthrell/call)
+- Email [jay@cuthrell.com](mailto:jay@cuthrell.com?SUBJECT=2025+via+jaycuthrell.com)
 - Mail ```1903 Live Oak St #92 Beaufort, NC 28516-0070```
 
 ```
