@@ -8,47 +8,17 @@ title: "Subscribe to my weekly newsletter"
 <iframe scrolling="no" style="width:100%!important;height:230px;border:1px #ccc solid !important" src="https://buttondown.email/jaycuthrell?as_embed=true"></iframe>
 
 ### Recent Newsletter Issues by Jay Cuthrell on [fudge.org](https://fudge.org)
- - [🌶️ Hot Fudge Sunday for 2025-01-12](https://hot.fudge.org/archive/hot-fudge-sunday-for-2025-01-12/) 2025 Jan 12
- - [🌶️ Hot Fudge Sunday for 2025-01-05](https://hot.fudge.org/archive/hot-fudge-sunday-for-2025-01-05/) 2025 Jan 06
- - [🌶️ Hot Fudge Sunday for 2024-12-29](https://hot.fudge.org/archive/hot-fudge-sunday-for-2024-12-29/) 2024 Dec 29
- - [🌶️ Hot Fudge Sunday for 2024-12-22](https://hot.fudge.org/archive/hot-fudge-sunday-for-2024-12-22/) 2024 Dec 22
- - [🌶️ Hot Fudge Sunday for 2024-12-15](https://hot.fudge.org/archive/hot-fudge-sunday-for-2024-12-15/) 2024 Dec 15
- - [🌶️ Hot Fudge Sunday for 2024-12-08](https://hot.fudge.org/archive/hot-fudge-sunday-for-2024-12-08/) 2024 Dec 08
- - [🌶️ Hot Fudge Sunday for 2024-12-01](https://hot.fudge.org/archive/hot-fudge-sunday-for-2024-12-01/) 2024 Dec 01
  - [Fudge Factor: Holiday Updates](https://fudge.org/archive/fudge-factor-holiday-updates/) 2024 Nov 30
- - [🌶️ Hot Fudge Sunday for 2024-11-24](https://hot.fudge.org/archive/hot-fudge-sunday-for-2024-11-24/) 2024 Nov 24
- - [🌶️ Hot Fudge Sunday for 2024-11-17](https://hot.fudge.org/archive/hot-fudge-sunday-for-2024-11-17/) 2024 Nov 17
- - [🌶️ Hot Fudge Sunday for 2024-11-10](https://hot.fudge.org/archive/hot-fudge-sunday-for-2024-11-10/) 2024 Nov 10
- - [🌶️ Hot Fudge Sunday for 2024-11-03](https://hot.fudge.org/archive/hot-fudge-sunday-for-2024-11-03/) 2024 Nov 03
- - [🌶️ Hot Fudge Sunday for 2024-10-27](https://hot.fudge.org/archive/hot-fudge-sunday-for-2024-10-27/) 2024 Oct 27
- - [🌶️ Hot Fudge Sunday for 2024-10-20](https://hot.fudge.org/archive/hot-fudge-sunday-for-2024-10-20/) 2024 Oct 20
- - [🌶️ Hot Fudge Sunday for 2024-10-13](https://hot.fudge.org/archive/hot-fudge-sunday-for-2024-10-13/) 2024 Oct 13
- - [🌶️ Hot Fudge Sunday for 2024-10-06](https://hot.fudge.org/archive/hot-fudge-sunday-for-2024-10-06/) 2024 Oct 06
- - [🌶️ Hot Fudge Sunday for 2024-09-29](https://hot.fudge.org/archive/hot-fudge-sunday-for-2024-09-29/) 2024 Sep 29
- - [🌶️ Hot Fudge Sunday for 2024-09-22](https://hot.fudge.org/archive/hot-fudge-sunday-for-2024-09-22/) 2024 Sep 22
- - [🌶️ Hot Fudge Sunday for 2024-09-15](https://hot.fudge.org/archive/hot-fudge-sunday-for-2024-09-15/) 2024 Sep 15
- - [🌶️ Hot Fudge Sunday for 2024-09-08](https://hot.fudge.org/archive/hot-fudge-sunday-for-2024-09-08/) 2024 Sep 08
  - [Fudge Factor: Edge to Core to Cloud](https://fudge.org/archive/fudge-factor-edge-to-core-to-cloud/) 2024 Sep 08
- - [📈 Markets Monday for 2024-09-02](https://hot.fudge.org/archive/markets-monday-for-2024-09-02/) 2024 Sep 02
- - [🌶️ Hot Fudge Sunday for 2024-09-01](https://hot.fudge.org/archive/hot-fudge-sunday-for-2024-09-01/) 2024 Sep 01
  - [Fudge Factor: Practical IIoT](https://fudge.org/archive/fudge-factor-practical-iiot/) 2024 Sep 01
- - [🌶️ Hot Fudge Sunday for 2024-08-25](https://hot.fudge.org/archive/hot-fudge-sunday-for-2024-08-25/) 2024 Aug 25
  - [Fudge Factor: Telemetry Challenges](https://fudge.org/archive/fudge-factor-telemetry-challenges/) 2024 Aug 25
- - [🌶️ Hot Fudge Sunday for 2024-08-18](https://hot.fudge.org/archive/hot-fudge-sunday-for-08-18/) 2024 Aug 18
  - [Fudge Factor: Calibration and Validation](https://fudge.org/archive/fudge-factor-calibration-and-validation/) 2024 Aug 18
- - [🌶️ Hot Fudge Sunday for 08-11-2024](https://hot.fudge.org/archive/hot-fudge-sunday-for-08-11-2024/) 2024 Aug 11
  - [Fudge Factor Format](https://fudge.org/archive/fudge-factor-format/) 2024 Aug 11
- - [🌶️ Welcome to Hot Fudge Sunday](https://hot.fudge.org/archive/welcome-to-hot-fudge-sunday/) 2024 Aug 04
  - [Fudge Factor](https://fudge.org/archive/fudge-factor/) 2024 Aug 04
- - [🌶️ Spicy Edition Sunday for 2024-07-28](https://hot.fudge.org/archive/spicy-edition-sunday-for-2024-07-28/) 2024 Jul 28
  - [Increasingly Connected](https://fudge.org/archive/increasingly-connected/) 2024 Jul 28
- - [🌶️ Spicy Edition Sunday for 2024-07-21](https://hot.fudge.org/archive/spicy-edition-sunday-for-2024-07-21/) 2024 Jul 21
  - [Finding My Niche](https://fudge.org/archive/finding-my-niche/) 2024 Jul 21
- - [Spicy Edition Sunday for 2024-07-14](https://hot.fudge.org/archive/spicy-edition-sunday-for-2024-07-14/) 2024 Jul 14
  - [SXSW 2025: Senior Moments](https://fudge.org/archive/sxsw-2025-senior-moments/) 2024 Jul 14
- - [Spicy Edition Sunday for 2024-07-07](https://hot.fudge.org/archive/spicy-edition-sunday-for-2024-07-07/) 2024 Jul 07
  - [Run Fly Visualize](https://fudge.org/archive/run-fly-visualize/) 2024 Jul 07
- - [Spicy Edition Sunday for 2024-06-30](https://hot.fudge.org/archive/spicy-edition-sunday-for-2024-06-30/) 2024 Jun 30
  - [Sprawl Walk Run](https://fudge.org/archive/sprawl-walk-run/) 2024 Jun 30
  - [Summary Solstice](https://fudge.org/archive/summary-solstice/) 2024 Jun 23
  - [Hot Fudge Daily Digest](https://fudge.org/archive/hot-fudge-daily-digest/) 2024 Jun 16
@@ -308,7 +278,7 @@ title: "Subscribe to my weekly newsletter"
  - [Tel Aviv Traceroute](https://fudge.org/archive/tel-aviv-traceroute/) 2000 Apr 29
  - [The Fudge FAQ](https://fudge.org/archive/the-fudge-faq/) 1998 Dec 12
 
-Last auto generated Mon Jan 13 15:08:53 2025
+Last auto generated Sun Jan 19 21:03:34 2025
 
 This auto generated file is created by code based on examples from [@dylanroy](https://towardsdatascience.com/auto-updating-your-github-profile-with-python-cde87b638168) and [@eugeneyan](https://github.com/eugeneyan)
 
