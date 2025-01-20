@@ -7,7 +7,7 @@ title: "Subscribe to my weekly newsletter"
 ---
 <iframe scrolling="no" style="width:100%!important;height:230px;border:1px #ccc solid !important" src="https://buttondown.email/jaycuthrell?as_embed=true"></iframe>
 
-### Recent Newsletter Issues by Jay Cuthrell on [fudge.org](https://fudge.org)
+### Recent Newsletter Issues by Jay Cuthrell on [fudge.org](https://fudge.org), [hot.fudge.org](https://hot.fudge.org), and [cuthrell.consulting](https://cuthrell.consulting)
  - [Fudge Factor: Holiday Updates](https://fudge.org/archive/fudge-factor-holiday-updates/) 2024 Nov 30
  - [Fudge Factor: Edge to Core to Cloud](https://fudge.org/archive/fudge-factor-edge-to-core-to-cloud/) 2024 Sep 08
  - [Fudge Factor: Practical IIoT](https://fudge.org/archive/fudge-factor-practical-iiot/) 2024 Sep 01
