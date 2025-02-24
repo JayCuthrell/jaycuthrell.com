@@ -8,6 +8,7 @@ title: "Subscribe to my weekly newsletter"
 <iframe scrolling="no" style="width:100%!important;height:230px;border:1px #ccc solid !important" src="https://buttondown.email/jaycuthrell?as_embed=true"></iframe>
 
 ### Recent Newsletter Issues by Jay Cuthrell on [fudge.org](https://fudge.org), [hot.fudge.org](https://hot.fudge.org), and [cuthrell.consulting](https://cuthrell.consulting)
+ - [🌶️ Hot Fudge Sunday for 2025-02-23](https://hot.fudge.org/archive/hot-fudge-sunday-for-2025-02-23/) 2025 Feb 24
  - [🌶️ Hot Fudge Sunday for 2025-02-16](https://hot.fudge.org/archive/hot-fudge-sunday-for-2025-02-16/) 2025 Feb 16
  - [🌶️ Hot Fudge Sunday for 2025-02-09](https://hot.fudge.org/archive/hot-fudge-sunday-for-2025-02-09/) 2025 Feb 10
  - [My SXSW 2025 Post](https://fudge.org/archive/my-sxsw-2025-post/) 2025 Feb 10
@@ -54,7 +55,6 @@ title: "Subscribe to my weekly newsletter"
  - [Fudge Factor: Calibration and Validation](https://fudge.org/archive/fudge-factor-calibration-and-validation/) 2024 Aug 18
  - [🌶️ Hot Fudge Sunday for 08-11-2024](https://hot.fudge.org/archive/hot-fudge-sunday-for-08-11-2024/) 2024 Aug 11
  - [Fudge Factor Format](https://fudge.org/archive/fudge-factor-format/) 2024 Aug 11
- - [🌶️ Welcome to Hot Fudge Sunday](https://hot.fudge.org/archive/welcome-to-hot-fudge-sunday/) 2024 Aug 04
  - [Fudge Factor](https://fudge.org/archive/fudge-factor/) 2024 Aug 04
  - [Increasingly Connected](https://fudge.org/archive/increasingly-connected/) 2024 Jul 28
  - [Finding My Niche](https://fudge.org/archive/finding-my-niche/) 2024 Jul 21
@@ -324,7 +324,7 @@ title: "Subscribe to my weekly newsletter"
  - [Tel Aviv Traceroute](https://fudge.org/archive/tel-aviv-traceroute/) 2000 Apr 29
  - [The Fudge FAQ](https://fudge.org/archive/the-fudge-faq/) 1998 Dec 12
 
-Last auto generated Sun Feb 16 21:06:08 2025
+Last auto generated Sun Feb 23 21:06:41 2025
 
 This auto generated file is created by code based on examples from [@dylanroy](https://towardsdatascience.com/auto-updating-your-github-profile-with-python-cde87b638168) and [@eugeneyan](https://github.com/eugeneyan)
 
