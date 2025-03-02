@@ -14,6 +14,7 @@ Over the years I've collected a few digital mementos to compliment the physical 
 
 (Partial List)
 
+- [NexusTek Insights](), 2025 to Present
 - [Hot Fudge Daily Newsletter](https://hot.fudge.org), 2024 to Present
 - [Fudge Sunday Weekly Newsletter](https://fudge.org), 1998 to Present
 - [Dell Technologies, Dell EMC, VCE](https://www.dell.com/en-us/blog/authors/jay-cuthrell/), 2010 to 2020
@@ -94,6 +95,10 @@ Note: These were presented by [a very enthusiastic consultant](https://cuthrell.
 ### Video Interviews and Presentations
 
 (Partial List)
+
+#### Agentic AI Is Not the Future – It’s Now 2025
+
+[![Agentic AI Is Not the Future – It’s Now](/images/agentic-ai.png)](https://events.actualtechmedia.com/on-demand/2279/agentic-ai-is-not-the-future-its-now/)
 
 #### Qlik Connect 2024
 
