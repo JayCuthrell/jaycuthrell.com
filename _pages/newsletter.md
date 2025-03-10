@@ -8,6 +8,7 @@ title: "Subscribe to my weekly newsletter"
 <iframe scrolling="no" style="width:100%!important;height:230px;border:1px #ccc solid !important" src="https://buttondown.email/jaycuthrell?as_embed=true"></iframe>
 
 ### Recent Newsletter Issues by Jay Cuthrell on [fudge.org](https://fudge.org), [hot.fudge.org](https://hot.fudge.org), and [cuthrell.consulting](https://cuthrell.consulting)
+ - [🌶️ Hot Fudge Sunday for 2025-03-09](https://hot.fudge.org/archive/hot-fudge-sunday-for-2025-03-09/) 2025 Mar 09
  - [🌶️ Hot Fudge Sunday for 2025-03-02](https://hot.fudge.org/archive/hot-fudge-sunday-for-2025-03-02/) 2025 Mar 02
  - [🌶️ Hot Fudge Sunday for 2025-02-23](https://hot.fudge.org/archive/hot-fudge-sunday-for-2025-02-23/) 2025 Feb 24
  - [🌶️ Hot Fudge Sunday for 2025-02-16](https://hot.fudge.org/archive/hot-fudge-sunday-for-2025-02-16/) 2025 Feb 16
@@ -52,7 +53,6 @@ title: "Subscribe to my weekly newsletter"
  - [Fudge Factor: Practical IIoT](https://fudge.org/archive/fudge-factor-practical-iiot/) 2024 Sep 01
  - [🌶️ Hot Fudge Sunday for 2024-08-25](https://hot.fudge.org/archive/hot-fudge-sunday-for-2024-08-25/) 2024 Aug 25
  - [Fudge Factor: Telemetry Challenges](https://fudge.org/archive/fudge-factor-telemetry-challenges/) 2024 Aug 25
- - [🌶️ Hot Fudge Sunday for 2024-08-18](https://hot.fudge.org/archive/hot-fudge-sunday-for-08-18/) 2024 Aug 18
  - [Fudge Factor: Calibration and Validation](https://fudge.org/archive/fudge-factor-calibration-and-validation/) 2024 Aug 18
  - [Fudge Factor Format](https://fudge.org/archive/fudge-factor-format/) 2024 Aug 11
  - [Fudge Factor](https://fudge.org/archive/fudge-factor/) 2024 Aug 04
@@ -324,7 +324,7 @@ title: "Subscribe to my weekly newsletter"
  - [Tel Aviv Traceroute](https://fudge.org/archive/tel-aviv-traceroute/) 2000 Apr 29
  - [The Fudge FAQ](https://fudge.org/archive/the-fudge-faq/) 1998 Dec 12
 
-Last auto generated Sun Mar  2 21:07:46 2025
+Last auto generated Sun Mar  9 21:55:31 2025
 
 This auto generated file is created by code based on examples from [@dylanroy](https://towardsdatascience.com/auto-updating-your-github-profile-with-python-cde87b638168) and [@eugeneyan](https://github.com/eugeneyan)
 
