@@ -14,10 +14,10 @@ Over the years I've collected a few digital mementos to compliment the physical 
 
 (Partial List)
 
-- [NexusTek Insights](), 2025 to Present
+- [NexusTek Insights](https://www.nexustek.com/author/jay-cuthrell), 2025 to Present
 - [Hot Fudge Daily Newsletter](https://hot.fudge.org), 2024 to Present
 - [Fudge Sunday Weekly Newsletter](https://fudge.org), 1998 to Present
-- [Dell Technologies, Dell EMC, VCE](https://www.dell.com/en-us/blog/authors/jay-cuthrell/), 2010 to 2020
+- [Dell Technologies, Dell EMC, VCE](https://web.archive.org/web/20240414090121/https://www.dell.com/en-us/blog/authors/jay-cuthrell/), 2010 to 2020
 - [ReadWrite](https://readwrite.com/author/jay-cuthrell), 2010
 - [Telecompetitor](https://www.telecompetitor.com/author/jcuthrell/), 2009 to 2010
 
@@ -54,6 +54,9 @@ Note: These were presented by [a very enthusiastic consultant](https://cuthrell.
 
 (Partial List)
 
+- AI Infrastructure Field Day, 2025
+- Cloud Field Day, 2024
+- AI Field Day, 2024
 - Qlik Connect 2024
 - Supercloud 3, 2023
 - IT Renovation Day, 2021
