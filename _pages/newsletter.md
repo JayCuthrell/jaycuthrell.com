@@ -8,6 +8,7 @@ title: "Subscribe to my weekly newsletter"
 <iframe scrolling="no" style="width:100%!important;height:230px;border:1px #ccc solid !important" src="https://buttondown.email/jaycuthrell?as_embed=true"></iframe>
 
 ### Recent Newsletter Issues by Jay Cuthrell on [fudge.org](https://fudge.org), [hot.fudge.org](https://hot.fudge.org), and [cuthrell.consulting](https://cuthrell.consulting)
+ - [🌶️ Hot Fudge Sunday for 2025-03-30](https://hot.fudge.org/archive/hot-fudge-sunday-for-2025-03-30/) 2025 Mar 30
  - [🌶️ Hot Fudge Sunday for 2025-03-23](https://hot.fudge.org/archive/hot-fudge-sunday-for-2025-03-23/) 2025 Mar 24
  - [🌶️ Hot Fudge Sunday for 2025-03-16](https://hot.fudge.org/archive/hot-fudge-sunday-for-2025-03-16/) 2025 Mar 17
  - [🌶️ Hot Fudge Sunday for 2025-03-09](https://hot.fudge.org/archive/hot-fudge-sunday-for-2025-03-09/) 2025 Mar 09
@@ -49,7 +50,6 @@ title: "Subscribe to my weekly newsletter"
  - [🌶️ Hot Fudge Sunday for 2024-09-15](https://hot.fudge.org/archive/hot-fudge-sunday-for-2024-09-15/) 2024 Sep 15
  - [🌶️ Hot Fudge Sunday for 2024-09-08](https://hot.fudge.org/archive/hot-fudge-sunday-for-2024-09-08/) 2024 Sep 08
  - [Fudge Factor: Edge to Core to Cloud](https://fudge.org/archive/fudge-factor-edge-to-core-to-cloud/) 2024 Sep 08
- - [📈 Markets Monday for 2024-09-02](https://hot.fudge.org/archive/markets-monday-for-2024-09-02/) 2024 Sep 02
  - [AI Field Day 5](https://cuthrell.consulting/blog/ai-field-day-5/) 2024 Sep 02
  - [Fudge Factor: Practical IIoT](https://fudge.org/archive/fudge-factor-practical-iiot/) 2024 Sep 01
  - [Fudge Factor: Telemetry Challenges](https://fudge.org/archive/fudge-factor-telemetry-challenges/) 2024 Aug 25
@@ -324,7 +324,7 @@ title: "Subscribe to my weekly newsletter"
  - [Tel Aviv Traceroute](https://fudge.org/archive/tel-aviv-traceroute/) 2000 Apr 29
  - [The Fudge FAQ](https://fudge.org/archive/the-fudge-faq/) 1998 Dec 12
 
-Last auto generated Sat Mar 29 13:06:25 2025
+Last auto generated Sun Mar 30 22:13:31 2025
 
 This auto generated file is created by code based on examples from [@dylanroy](https://towardsdatascience.com/auto-updating-your-github-profile-with-python-cde87b638168) and [@eugeneyan](https://github.com/eugeneyan)
 
