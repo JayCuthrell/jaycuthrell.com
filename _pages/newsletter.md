@@ -9,35 +9,35 @@ title: "Subscribe to my weekly newsletter"
 
 ### Recent Newsletter Issues by Jay Cuthrell on [fudge.org](https://fudge.org), [hot.fudge.org](https://hot.fudge.org), and [cuthrell.consulting](https://cuthrell.consulting)
  - [🌶️ Hot Fudge Sunday for 2025-06-22](https://hot.fudge.org/archive/hot-fudge-sunday-for-2025-06-22/) 2025 Jun 22
+ - [🔮 Sneak Peak Saturday for 2025-06-21](https://hot.fudge.org/archive/sneak-peak-saturday-for-2025-06-21/) 2025 Jun 21
+ - [✅ Final Thoughts Friday for 2025-06-20](https://hot.fudge.org/archive/final-thoughts-friday-for-2025-06-20/) 2025 Jun 21
+ - [🔙 Throwback Thursday for 2025-06-19](https://hot.fudge.org/archive/throwback-thursday-for-2025-06-19/) 2025 Jun 20
+ - [🤪 Wacky Wednesday for 2025-06-18](https://hot.fudge.org/archive/wacky-wednesday-for-2025-06-18/) 2025 Jun 18
+ - [🔥 Hot Takes Tuesday for 2025-06-17](https://hot.fudge.org/archive/hot-takes-tuesday-for-2025-06-17/) 2025 Jun 18
+ - [📈 Markets Monday for 2025-06-16](https://hot.fudge.org/archive/markets-monday-for-2025-06-16/) 2025 Jun 17
  - [🌶️ Hot Fudge Sunday for 2025-06-15](https://hot.fudge.org/archive/hot-fudge-sunday-for-2025-06-15/) 2025 Jun 15
+ - [🔮 Sneak Peak Saturday for 2025-06-14](https://hot.fudge.org/archive/sneak-peak-saturday-for-2025-06-14/) 2025 Jun 14
+ - [✅ Final Thoughts Friday for 2025-06-13](https://hot.fudge.org/archive/final-thoughts-friday-for-2025-06-13/) 2025 Jun 14
+ - [🔙 Throwback Thursday for 2025-06-12](https://hot.fudge.org/archive/throwback-thursday-for-2025-06-12/) 2025 Jun 13
+ - [🤪 Wacky Wednesday for 2025-06-11](https://hot.fudge.org/archive/wacky-wednesday-for-2025-06-11/) 2025 Jun 12
+ - [🔥 Hot Takes Tuesday for 2025-06-10](https://hot.fudge.org/archive/hot-takes-tuesday-for-2025-06-10/) 2025 Jun 11
+ - [📈 Markets Monday for 2025-06-09](https://hot.fudge.org/archive/markets-monday-for-2025-06-09/) 2025 Jun 10
  - [🌶️ Hot Fudge Sunday for 2025-06-08](https://hot.fudge.org/archive/hot-fudge-sunday-for-2025-06-08/) 2025 Jun 08
+ - [🔮 Sneak Peak Saturday for 2025-06-07](https://hot.fudge.org/archive/sneak-peak-saturday-for-2025-06-07/) 2025 Jun 07
+ - [✅ Final Thoughts Friday for 2025-06-06](https://hot.fudge.org/archive/final-thoughts-friday-for-2025-06-06/) 2025 Jun 07
+ - [🔙 Throwback Thursday for 2025-06-05](https://hot.fudge.org/archive/throwback-thursday-for-2025-06-05/) 2025 Jun 06
+ - [🤪 Wacky Wednesday for 2025-06-04](https://hot.fudge.org/archive/wacky-wednesday-for-2025-06-04/) 2025 Jun 05
+ - [🔥 Hot Takes Tuesday for 2025-06-03](https://hot.fudge.org/archive/hot-takes-tuesday-for-2025-06-03/) 2025 Jun 05
+ - [📈 Markets Monday for 2025-06-02](https://hot.fudge.org/archive/markets-monday-for-2025-06-02/) 2025 Jun 03
  - [🌶️ Hot Fudge Sunday for 2025-06-01](https://hot.fudge.org/archive/hot-fudge-sunday-for-2025-06-01/) 2025 Jun 01
+ - [🔮 Sneak Peak Saturday for 2025-05-31](https://hot.fudge.org/archive/sneak-peak-saturday-for-2025-05-31/) 2025 May 31
+ - [✅ Final Thoughts Friday for 2025-05-30](https://hot.fudge.org/archive/final-thoughts-friday-for-2025-05-30/) 2025 May 31
+ - [🔙 Throwback Thursday for 2025-05-29](https://hot.fudge.org/archive/throwback-thursday-for-2025-05-29/) 2025 May 29
+ - [🤪 Wacky Wednesday for 2025-05-28](https://hot.fudge.org/archive/wacky-wednesday-for-2025-05-28/) 2025 May 29
+ - [🔥 Hot Takes Tuesday for 2025-05-27](https://hot.fudge.org/archive/hot-takes-tuesday-for-2025-05-27/) 2025 May 28
+ - [📈 Markets Monday for 2025-05-26](https://hot.fudge.org/archive/markets-monday-for-2025-05-26/) 2025 May 28
  - [🌶️ Hot Fudge Sunday for 2025-05-25](https://hot.fudge.org/archive/hot-fudge-sunday-for-2025-05-25/) 2025 May 26
  - [🔮 Sneak Peak Saturday for 2025-05-24](https://hot.fudge.org/archive/sneak-peak-saturday-for-2025-05-24/) 2025 May 26
- - [✅ Final Thoughts Friday for 2025-05-23](https://hot.fudge.org/archive/final-thoughts-friday-for-2025-05-23/) 2025 May 25
- - [🔙 Throwback Thursday for 2025-05-22](https://hot.fudge.org/archive/throwback-thursday-for-2025-05-22/) 2025 May 23
- - [🤪 Wacky Wednesday for 2025-05-21](https://hot.fudge.org/archive/wacky-wednesday-for-2025-05-21/) 2025 May 23
- - [🔥 Hot Takes Tuesday for 2025-05-20](https://hot.fudge.org/archive/hot-takes-tuesday-for-2025-05-20/) 2025 May 21
- - [📈 Markets Monday for 2025-05-19](https://hot.fudge.org/archive/markets-monday-for-2025-05-19/) 2025 May 20
- - [🌶️ Hot Fudge Sunday for 2025-05-18](https://hot.fudge.org/archive/hot-fudge-sunday-for-2025-05-18/) 2025 May 18
- - [🌶️ Hot Fudge Sunday for 2025-05-11](https://hot.fudge.org/archive/hot-fudge-sunday-for-2025-05-11/) 2025 May 11
- - [🔮 Sneak Peak Saturday for 2025-05-10](https://hot.fudge.org/archive/sneak-peak-saturday-for-2025-05-10/) 2025 May 10
- - [✅ Final Thoughts Friday for 2025-05-09](https://hot.fudge.org/archive/final-thoughts-friday-for-2025-05-09/) 2025 May 10
- - [🔙 Throwback Thursday for 2025-05-08](https://hot.fudge.org/archive/throwback-thursday-for-2025-05-08/) 2025 May 09
- - [🤪 Wacky Wednesday for 2025-05-07](https://hot.fudge.org/archive/wacky-wednesday-for-2025-05-07/) 2025 May 09
- - [🔥 Hot Takes Tuesday for 2025-05-06](https://hot.fudge.org/archive/hot-takes-tuesday-for-2025-05-06/) 2025 May 07
- - [📈 Markets Monday for 2025-05-05](https://hot.fudge.org/archive/markets-monday-for-2025-05-05/) 2025 May 06
- - [🌶️ Hot Fudge Sunday for 2025-05-04](https://hot.fudge.org/archive/hot-fudge-sunday-for-2025-05-04/) 2025 May 04
- - [🔮 Sneak Peak Saturday for 2025-05-03](https://hot.fudge.org/archive/sneak-peak-saturday-for-2025-05-03/) 2025 May 03
- - [✅ Final Thoughts Friday for 2025-05-02](https://hot.fudge.org/archive/final-thoughts-friday-for-2025-05-02/) 2025 May 03
- - [🔙 Throwback Thursday for 2025-05-01](https://hot.fudge.org/archive/throwback-thursday-for-2025-05-01/) 2025 May 02
- - [🤪 Wacky Wednesday for 2025-04-30](https://hot.fudge.org/archive/wacky-wednesday-for-2025-04-30/) 2025 May 01
- - [🔥 Hot Takes Tuesday for 2025-04-29](https://hot.fudge.org/archive/hot-takes-tuesday-for-2025-04-29/) 2025 Apr 30
- - [📈 Markets Monday for 2025-04-28](https://hot.fudge.org/archive/markets-monday-for-2025-04-28/) 2025 Apr 29
- - [🌶️ Hot Fudge Sunday for 2025-04-27](https://hot.fudge.org/archive/hot-fudge-sunday-for-2025-04-27/) 2025 Apr 28
- - [🔮 Sneak Peak Saturday for 2025-04-26](https://hot.fudge.org/archive/sneak-peak-saturday-for-2025-04-26/) 2025 Apr 27
- - [✅ Final Thoughts Friday for 2025-04-25](https://hot.fudge.org/archive/final-thoughts-friday-for-2025-04-25/) 2025 Apr 26
- - [🔙 Throwback Thursday for 2025-04-24](https://hot.fudge.org/archive/throwback-thursday-for-2025-04-24/) 2025 Apr 25
  - [My SXSW 2025 Post](https://fudge.org/archive/my-sxsw-2025-post/) 2025 Feb 10
  - [Fudge Factor: Holiday Updates](https://fudge.org/archive/fudge-factor-holiday-updates/) 2024 Nov 30
  - [Jay Cuthrell joins NexusTek](https://cuthrell.consulting/blog/jay-cuthrell-joins-nexustek/) 2024 Nov 20
@@ -174,8 +174,8 @@ title: "Subscribe to my weekly newsletter"
  - [Fudge Sunday Test 4](https://fudge.org/archive/fudge-sunday-test-4/) 2022 Jul 03
  - [Make IIoT Easy On Yourself](https://fudge.org/archive/make-iiot-easy-on-yourself/) 2022 Jun 26
  - [Fudge Sunday Test 3](https://fudge.org/archive/fudge-sunday-test-3/) 2022 Jun 26
- - [Me and My POSSE](https://fudge.org/archive/me-and-my-posse/) 2022 Jun 19
  - [Reading Fudge Sunday Test 2](https://fudge.org/archive/reading-fudge-sunday-test-2/) 2022 Jun 19
+ - [Me and My POSSE](https://fudge.org/archive/me-and-my-posse/) 2022 Jun 19
  - [Around the Bend](https://fudge.org/archive/around-the-bend/) 2022 Jun 12
  - [Reading Fudge Sunday Test 1](https://fudge.org/archive/reading-fudge-sunday-test-1/) 2022 Jun 12
  - [Fudge Sunday - Moving Out](https://fudge.org/archive/fudge-sunday-moving-out/) 2022 Jun 05
@@ -324,7 +324,7 @@ title: "Subscribe to my weekly newsletter"
  - [Tel Aviv Traceroute](https://fudge.org/archive/tel-aviv-traceroute/) 2000 Apr 29
  - [The Fudge FAQ](https://fudge.org/archive/the-fudge-faq/) 1998 Dec 12
 
-Last auto generated Sun Jun 22 22:20:25 2025
+Last auto generated Thu Jun 26 08:37:58 2025
 
 This auto generated file is created by code based on examples from [@dylanroy](https://towardsdatascience.com/auto-updating-your-github-profile-with-python-cde87b638168) and [@eugeneyan](https://github.com/eugeneyan)
 
