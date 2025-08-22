@@ -25,6 +25,7 @@ Over the years I've collected a few digital mementos to compliment the physical 
 
 (Partial List)
 
+- [CNBC](https://www.cnbc.com/2025/08/20/microsoft-guidance-probably-includes-gutting-volume-discounts-analyst.html) 2025
 - [Slack](https://slackhq.com/slack-certified-and-new-admin-tools), 2020
 - [Silicon Angle](https://siliconangle.com/2013/09/30/vces-jay-cuthrell-on-oracle-vblock-and-everything-in-between-oow13/), 2013
 - [BizJournals](https://www.bizjournals.com/triangle/print-edition/2012/06/22/emc-cisco-venture-plots-growth-locally.html), 2012
