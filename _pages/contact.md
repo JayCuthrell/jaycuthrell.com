@@ -23,7 +23,7 @@ I use phone, SMS, email, and video conference apps but prefer to establish a sec
 - Bluesky [@nexustek.com](https://bsky.app/profile/nexustek.com)
 - iMessage Contact Key Verification ```APKTIDPvEfejEVFbaY9DNgtrXFv8YqxL_mPwpdmQgKP36JYG9vow```  
 - Email [jay.cuthrell@nexustek.com](mailto:jay.cuthrell@nexustek.com?SUBJECT=2025+via+jaycuthrell.com)
-- Meeting Request [Book 15 Minutes with Jay at NexusTek](https://info.nexustek.com/meetings/jay-cuthrell)
+- Meeting Request [Book 15 Minutes with Jay at NexusTek](https://info.nexustek.com/request-a-meeting-with-jay-cuthrell)
 
 ### Personal
 
