@@ -8,6 +8,10 @@ title: "Subscribe to my weekly newsletter"
 <iframe scrolling="no" style="width:100%!important;height:230px;border:1px #ccc solid !important" src="https://buttondown.email/jaycuthrell?as_embed=true"></iframe>
 
 ### Recent Newsletter Issues by Jay Cuthrell on [fudge.org](https://fudge.org), [hot.fudge.org](https://hot.fudge.org), and [cuthrell.consulting](https://cuthrell.consulting)
+ - [🌶️ Hot Fudge Sunday for 2025-08-24](https://fudge.org/archive/hot-fudge-sunday-for-2025-08-24/) 2025 Aug 24
+ - [🔮 Sneak Peak Saturday for 2025-08-23](https://fudge.org/archive/sneak-peak-saturday-for-2025-08-23/) 2025 Aug 23
+ - [✅ Final Thoughts Friday for 2025-08-22](https://fudge.org/archive/final-thoughts-friday-for-2025-08-22/) 2025 Aug 22
+ - [🔙 Throwback Thursday for 2025-08-21](https://fudge.org/archive/throwback-thursday-for-2025-08-21/) 2025 Aug 21
  - [🤪 Wacky Wednesday for 2025-08-20](https://fudge.org/archive/wacky-wednesday-for-2025-08-20/) 2025 Aug 20
  - [🔥 Hot Takes Tuesday for 2025-08-19](https://fudge.org/archive/hot-takes-tuesday-for-2025-08-19/) 2025 Aug 19
  - [📈 Markets Monday for 2025-08-18](https://fudge.org/archive/markets-monday-for-2025-08-18/) 2025 Aug 18
@@ -256,8 +260,8 @@ title: "Subscribe to my weekly newsletter"
  - [🔮 Sneak Peak Saturday for 2024-12-14](https://fudge.org/archive/sneak-peak-saturday-for-2024-12-14/) 2024 Dec 14
  - [✅ Final Thoughts Friday for 2024-12-13](https://fudge.org/archive/final-thoughts-friday-for-2024-12-13/) 2024 Dec 14
  - [🔙 Throwback Thursday for 2024-12-12](https://fudge.org/archive/throwback-thursday-for-2024-12-12/) 2024 Dec 13
- - [🤪 Wacky Wednesday for 2024-12-11](https://fudge.org/archive/wacky-wednesday-for-2024-12-05-3767/) 2024 Dec 12
  - [🔥 Hot Takes Tuesday for 2024-12-10](https://fudge.org/archive/hot-takes-tuesday-for-2024-12-10/) 2024 Dec 11
+ - [🤪 Wacky Wednesday for 2024-12-11](https://fudge.org/archive/wacky-wednesday-for-2024-12-11/) 2024 Dec 11
  - [📈 Markets Monday for 2024-12-09](https://fudge.org/archive/markets-monday-for-2024-12-09/) 2024 Dec 10
  - [🌶️ Hot Fudge Sunday for 2024-12-08](https://fudge.org/archive/hot-fudge-sunday-for-2024-12-08/) 2024 Dec 08
  - [🔮 Sneak Peak Saturday for 2024-12-07](https://fudge.org/archive/sneak-peak-saturday-for-2024-12-07/) 2024 Dec 07
@@ -723,7 +727,7 @@ title: "Subscribe to my weekly newsletter"
  - [Tel Aviv Traceroute](https://fudge.org/archive/tel-aviv-traceroute/) 2000 Apr 29
  - [The Fudge FAQ](https://fudge.org/archive/the-fudge-faq/) 1998 Dec 12
 
-Last auto generated Thu Aug 21 20:47:35 2025
+Last auto generated Sun Aug 24 22:16:42 2025
 
 This auto generated file is created by code based on examples from [@dylanroy](https://towardsdatascience.com/auto-updating-your-github-profile-with-python-cde87b638168) and [@eugeneyan](https://github.com/eugeneyan)
 
