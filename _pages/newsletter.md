@@ -8,6 +8,13 @@ title: "Subscribe to my weekly newsletter"
 <iframe scrolling="no" style="width:100%!important;height:230px;border:1px #ccc solid !important" src="https://buttondown.email/jaycuthrell?as_embed=true"></iframe>
 
 ### Recent Newsletter Issues by Jay Cuthrell on [fudge.org](https://fudge.org), [hot.fudge.org](https://hot.fudge.org), and [cuthrell.consulting](https://cuthrell.consulting)
+ - [🌶️ Hot Fudge Sunday for 2025-09-21](https://fudge.org/archive/hot-fudge-sunday-for-2025-09-21/) 2025 Sep 21
+ - [🔮 Sneak Peak Saturday for 2025-09-20](https://fudge.org/archive/sneak-peak-saturday-for-2025-09-20/) 2025 Sep 20
+ - [✅ Final Thoughts Friday for 2025-09-19](https://fudge.org/archive/final-thoughts-friday-for-2025-09-19/) 2025 Sep 19
+ - [🔙 Throwback Thursday for 2025-09-18](https://fudge.org/archive/throwback-thursday-for-2025-09-18/) 2025 Sep 18
+ - [🤪 Wacky Wednesday for 2025-09-17](https://fudge.org/archive/wacky-wednesday-for-2025-09-17/) 2025 Sep 17
+ - [🔥 Hot Takes Tuesday for 2025-09-16](https://fudge.org/archive/hot-takes-tuesday-for-2025-09-16/) 2025 Sep 16
+ - [📈 Markets Monday for 2025-09-15](https://fudge.org/archive/markets-monday-for-2025-09-15/) 2025 Sep 15
  - [🌶️ Hot Fudge Sunday for 2025-09-14](https://fudge.org/archive/hot-fudge-sunday-for-2025-09-14/) 2025 Sep 14
  - [🔮 Sneak Peak Saturday for 2025-09-13](https://fudge.org/archive/sneak-peak-saturday-for-2025-09-13/) 2025 Sep 13
  - [✅ Final Thoughts Friday for 2025-09-12](https://fudge.org/archive/final-thoughts-friday-for-2025-09-12/) 2025 Sep 12
@@ -748,7 +755,7 @@ title: "Subscribe to my weekly newsletter"
  - [Tel Aviv Traceroute](https://fudge.org/archive/tel-aviv-traceroute/) 2000 Apr 29
  - [The Fudge FAQ](https://fudge.org/archive/the-fudge-faq/) 1998 Dec 12
 
-Last auto generated Sun Sep 14 22:13:35 2025
+Last auto generated Sun Sep 21 22:14:30 2025
 
 This auto generated file is created by code based on examples from [@dylanroy](https://towardsdatascience.com/auto-updating-your-github-profile-with-python-cde87b638168) and [@eugeneyan](https://github.com/eugeneyan)
 
