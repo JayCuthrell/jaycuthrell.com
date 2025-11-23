@@ -10,8 +10,8 @@ keywords: "4157638343 jay@cuthrell.com"
 
 There are many ways to contact me. This page updates as my [preferred methods evolve](https://ssd.eff.org/en).
 
-- I use and _prefer_ [Keybase](https://keybase.io/download). Search for [jaycuthrell](https://keybase.io/jaycuthrell).
-- I also use [Signal](https://signal.org/install/). Search for +1-415-763-8343.
+- I use and prefer [Signal](https://signal.org/install/). Search for +1-415-763-8343.
+- I also use [Keybase](https://keybase.io/download). Search for [jaycuthrell](https://keybase.io/jaycuthrell).
 - I also use [Tails](https://tails.boum.org/about/index.en.html), [Heads](https://heads.dyne.org/about.html), [Whonix](https://www.whonix.org/wiki/Main_Page), and [Hidden VM](https://github.com/aforensics/HiddenVM).
 
 I use phone, SMS, email, and video conference apps but prefer to establish a second channel from the list above.
@@ -28,8 +28,8 @@ I use phone, SMS, email, and video conference apps but prefer to establish a sec
 ### Personal
 
 - Mobile [+1-415-763-8343](tel:1-415-763-8343)
-- Mastodon [@jay@cuthrell.com](https://cuthrell.com/@jay)
-- Bluesky [@cuthrell.com](https://bsky.app/profile/cuthrell.com) (as of Nov 24, 2024)
+- Fediverse [@jay@cuthrell.com](https://cuthrell.com/@jay)
+- Bluesky [@cuthrell.com](https://bsky.app/profile/cuthrell.com)
 - iMessage Contact Key Verification ```APKTIDPvEfejEVFbaY9DNgtrXFv8YqxL_mPwpdmQgKP36JYG9vow```
 - Email [jay@cuthrell.com](mailto:jay@cuthrell.com?SUBJECT=2025+via+jaycuthrell.com)
 - Mail ```1903 Live Oak St #92 Beaufort, NC 28516-0070```
