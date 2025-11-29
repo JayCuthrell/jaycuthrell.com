@@ -14,6 +14,7 @@ Over the years I've collected a few digital mementos to compliment the physical 
 
 (Partial List)
 
+- [Techstrong, a Futurum company](https://techstrong.ai/author/jay-cuthrell/), 2025 to Present
 - [NexusTek Insights](https://www.nexustek.com/author/jay-cuthrell), 2025 to Present
 - [Hot Fudge Daily Newsletter](https://hot.fudge.org), 2024 to Present
 - [Fudge Sunday Weekly Newsletter](https://fudge.org), 1998 to Present
