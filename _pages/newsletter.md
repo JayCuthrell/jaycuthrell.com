@@ -8,7 +8,9 @@ title: "Subscribe to my weekly newsletter"
 <iframe scrolling="no" style="width:100%!important;height:230px;border:1px #ccc solid !important" src="https://buttondown.email/jaycuthrell?as_embed=true"></iframe>
 
 ### Recent Newsletter Issues by Jay Cuthrell on [fudge.org](https://fudge.org), [hot.fudge.org](https://hot.fudge.org), and [cuthrell.consulting](https://cuthrell.consulting)
- - [Convergence across four domains](https://fudge.org/archive/convergence-across-four-domains/) 2025 Dec 08
+ - [Fudge Factor Returns](https://fudge.org/archive/fudge-factor-returns/) 2025 Dec 11
+ - [Acquisition mania](https://fudge.org/archive/acquisition-mania/) 2025 Dec 10
+ - [Convergence across four domains](https://fudge.org/archive/convergence-across-four-domains/) 2025 Dec 09
  - [A new format for my newsletter](https://fudge.org/archive/a-new-format/) 2025 Dec 08
  - [🌶️ Hot Fudge Sunday for 2025-12-07](https://fudge.org/archive/hot-fudge-sunday-for-2025-12-07/) 2025 Dec 07
  - [🔮 Sneak Peak Saturday for 2025-12-06](https://fudge.org/archive/sneak-peak-saturday-for-2025-12-06/) 2025 Dec 06
@@ -834,7 +836,7 @@ title: "Subscribe to my weekly newsletter"
  - [Tel Aviv Traceroute](https://fudge.org/archive/tel-aviv-traceroute/) 2000 Apr 29
  - [The Fudge FAQ](https://fudge.org/archive/the-fudge-faq/) 1998 Dec 12
 
-Last auto generated Wed Dec 10 22:54:24 2025
+Last auto generated Thu Dec 11 22:54:16 2025
 
 This auto generated file is created by code based on examples from [@dylanroy](https://towardsdatascience.com/auto-updating-your-github-profile-with-python-cde87b638168) and [@eugeneyan](https://github.com/eugeneyan)
 
