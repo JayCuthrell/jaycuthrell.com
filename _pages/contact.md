@@ -22,7 +22,7 @@ I use phone, SMS, email, and video conference apps but prefer to establish a sec
 - Mobile [+1-415-763-8343](tel:1-415-763-8343)
 - Bluesky [@nexustek.com](https://bsky.app/profile/nexustek.com)
 - iMessage Contact Key Verification ```APKTIDPvEfejEVFbaY9DNgtrXFv8YqxL_mPwpdmQgKP36JYG9vow```  
-- Email [jay.cuthrell@nexustek.com](mailto:jay.cuthrell@nexustek.com?SUBJECT=2025+via+jaycuthrell.com)
+- Email [jay.cuthrell@nexustek.com](mailto:jay.cuthrell@nexustek.com?SUBJECT=2026+via+jaycuthrell.com)
 - Meeting Request [Book 15 Minutes with Jay at NexusTek](https://info.nexustek.com/request-a-meeting-with-jay-cuthrell)
 
 ### Personal
@@ -31,8 +31,9 @@ I use phone, SMS, email, and video conference apps but prefer to establish a sec
 - Fediverse [@jay@cuthrell.com](https://cuthrell.com/@jay)
 - Bluesky [@cuthrell.com](https://bsky.app/profile/cuthrell.com)
 - iMessage Contact Key Verification ```APKTIDPvEfejEVFbaY9DNgtrXFv8YqxL_mPwpdmQgKP36JYG9vow```
-- Email [jay@cuthrell.com](mailto:jay@cuthrell.com?SUBJECT=2025+via+jaycuthrell.com)
+- Email [jay@cuthrell.com](mailto:jay@cuthrell.com?SUBJECT=2026+via+jaycuthrell.com)
 - Mail ```1903 Live Oak St #92 Beaufort, NC 28516-0070```
+- Meeting Request [Book 5 Minutes with Jay](https://calendly.com/jaycuthrell/availability)
 
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
