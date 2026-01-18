@@ -5,7 +5,24 @@ related: true
 title: "Subscribe to my weekly newsletter"
 
 ---
-<iframe scrolling="no" style="width:100%!important;height:230px;border:1px #ccc solid !important" src="https://buttondown.email/jaycuthrell?as_embed=true"></iframe>
+<form method="post" action="http://lists.fudge.org/subscription/form" class="listmonk-form">
+  <div>
+    <h3>Subscribe</h3>
+    <input type="hidden" name="nonce" />
+
+    <p><input type="email" name="email" required placeholder="E-mail" /></p>
+    <p><input type="text" name="name" placeholder="Name (optional)" /></p>
+
+    <p>
+      <input id="3f96e" type="checkbox" name="l" checked value="3f96e54c-4388-41c6-adb0-fb6a412197f1" />
+      <label for="3f96e">fudgefactor</label>
+      <br />
+      <span>Fudge Factor 🤔💡🤯🤓 newsletter by Jay Cuthrell</span>
+    </p>
+
+    <input type="submit" value="Subscribe " />
+  </div>
+</form>
 
 ### Recent Newsletter Issues by Jay Cuthrell on [fudge.org](https://fudge.org), [hot.fudge.org](https://hot.fudge.org), and [cuthrell.consulting](https://cuthrell.consulting)
  - [Eleventy in 2026](https://fudge.org/archive/11ty-in-2026/) 2026 Jan 10

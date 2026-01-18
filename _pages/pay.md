@@ -23,9 +23,3 @@ Pay for the blocks of time you require using this [unique payment link](https://
 </script>
 
 [![Mobile payment option](/images/15-minutes-qrcode.png)](https://www.paypal.com/ncp/payment/S883FUSLARG24)
-
-## One-time referrals to Sagetap
-
-Shape the future of tech. Access paid feedback opportunities on Sagetap to help next-gen vendors build better products, just like I do. [Sign up using my link](https://sagetap.cello.so/I67tea2odLY) or the QR code from your mobile device and earn $500 for your first meeting: [https://sagetap.cello.so/I67tea2odLY](https://sagetap.cello.so/I67tea2odLY)
-
-[![Mobile payment option](/images/sagetap-referral.png))](https://sagetap.cello.so/I67tea2odLY)
