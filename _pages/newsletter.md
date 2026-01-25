@@ -784,11 +784,11 @@ title: "Subscribe to my weekly newsletter"
  - [Multicloud March](https://fudge.org/archive/multicloud-march/) 2021 Apr 10
  - [Cloud Data Services Ahead](https://fudge.org/archive/cloud-data-services-ahead/) 2020 Dec 31
  - [Social Telecom 2030](https://fudge.org/archive/social-telecom-2030/) 2020 Nov 25
- - [My Tenth Year at Dell Technologies](https://fudge.org/archive/my-tenth-year-at-dell-technologies/) 2020 Oct 08
+ - [My Tenth Year at Dell Technologies](https://fudge.org/archive/my-tenth-year-at-vce/) 2020 Oct 08
  - [Thinking Remotely](https://fudge.org/archive/thinking-remotely/) 2020 Sep 27
  - [Emerging Hype](https://fudge.org/archive/emerging-hype/) 2020 Aug 25
  - [Own Your Content](https://fudge.org/archive/own-your-content/) 2020 Aug 23
- - [My Ninth Year at Dell Technologies](https://fudge.org/archive/my-ninth-year-at-dell-technologies/) 2019 Oct 18
+ - [My Ninth Year at Dell Technologies](https://fudge.org/archive/my-ninth-year-at-vce/) 2019 Oct 18
  - [Fudge Sunday - Private Podcasting and Max Headroom](https://fudge.org/archive/fudge-sunday-private-podcasting-and-max-headroom/) 2019 May 27
  - [Private Podcasting and Max Headroom](https://fudge.org/archive/private-podcasting-and-max-headroom/) 2019 May 27
  - [Fudge Sunday - Thinking Outside the Cardboard Box](https://fudge.org/archive/fudge-sunday-thinking-outside-the-cardboard-box/) 2019 May 20
@@ -819,8 +819,8 @@ title: "Subscribe to my weekly newsletter"
  - [Dance and Technology](https://fudge.org/archive/dance-and-technology/) 2019 Feb 17
  - [Google Nonplussed](https://fudge.org/archive/google-nonplussed/) 2019 Feb 02
  - [20 Years of Blogging](https://fudge.org/archive/20-years-of-blogging/) 2018 Dec 12
- - [My Eighth Year at Dell](https://fudge.org/archive/my-eighth-year-at-dell/) 2018 Oct 08
- - [My Seventh Year at Dell EMC](https://fudge.org/archive/my-seventh-year-at-dell-emc/) 2017 Oct 18
+ - [My Eighth Year at Dell](https://fudge.org/archive/my-eighth-year-at-vce/) 2018 Oct 08
+ - [My Seventh Year at Dell EMC](https://fudge.org/archive/my-seventh-year-at-vce/) 2017 Oct 18
  - [A New Map](https://fudge.org/archive/a-new-map/) 2017 Jul 08
  - [On Twitter](https://fudge.org/archive/on-twitter/) 2017 Jun 24
  - [Converged Thoughts Twelve](https://fudge.org/archive/converged-thoughts-twelve/) 2017 Jan 09
@@ -837,7 +837,7 @@ title: "Subscribe to my weekly newsletter"
  - [Converged Thoughts One](https://fudge.org/archive/converged-thoughts-one/) 2016 Dec 29
  - [Notifications Zero](https://fudge.org/archive/notifications-zero/) 2016 Dec 26
  - [Software is a Villain](https://fudge.org/archive/software-is-a-villain/) 2016 Dec 21
- - [My Sixth Year at VCE and My Sixth Week at Dell EMC](https://fudge.org/archive/my-sixth-year-at-vce-and-my-sixth-week-at-dell-emc/) 2016 Oct 22
+ - [My Sixth Year at VCE and My Sixth Week at Dell EMC](https://fudge.org/archive/my-sixth-year-at-vce/) 2016 Oct 22
  - [Have Your AI Call My AI](https://fudge.org/archive/have-your-ai-call-my-ai/) 2016 Oct 12
  - [The Perfect Team](https://fudge.org/archive/the-perfect-team/) 2015 Oct 23
  - [My Fifth Year at VCE](https://fudge.org/archive/my-fifth-year-at-vce/) 2015 Oct 17
@@ -872,7 +872,7 @@ title: "Subscribe to my weekly newsletter"
  - [Tel Aviv Traceroute](https://fudge.org/archive/tel-aviv-traceroute/) 2000 Apr 29
  - [The Fudge FAQ](https://fudge.org/archive/the-fudge-faq/) 1998 Dec 12
 
-Last auto generated Sat Jan 24 11:35:42 2026
+Last auto generated Sat Jan 24 23:05:59 2026
 
 This auto generated file is created by code based on examples from [@dylanroy](https://towardsdatascience.com/auto-updating-your-github-profile-with-python-cde87b638168) and [@eugeneyan](https://github.com/eugeneyan)
 
