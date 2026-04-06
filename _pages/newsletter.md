@@ -25,7 +25,8 @@ title: "Subscribe to my weekly newsletter"
 </form>
 
 ### Recent Newsletter Issues by Jay Cuthrell on [fudge.org](https://fudge.org), [hot.fudge.org](https://hot.fudge.org), and [cuthrell.consulting](https://cuthrell.consulting)
- - [What The Fudge: All Things AI, Digital Employees, and Solar Bricks](https://fudge.org/archive/wtf-003/) 2026 Mar 29
+ - [What The Fudge for April 5, 2026: AI Independence, Space Data Centers, & Outlook on the Moon](https://fudge.org/archive/wtf-004/) 2026 Apr 05
+ - [What The Fudge for March 29, 2026: All Things AI, Digital Employees, and Solar Bricks](https://fudge.org/archive/wtf-003/) 2026 Mar 29
  - [Conference notes](https://fudge.org/archive/conference-notes/) 2026 Mar 26
  - [Trying out Sveltia CMS](https://fudge.org/archive/trying-out-sveltia-cms/) 2026 Mar 23
  - [What The Fudge for March 22, 2026: The Edge of Intelligence](https://fudge.org/archive/wtf-002/) 2026 Mar 22
@@ -879,7 +880,7 @@ title: "Subscribe to my weekly newsletter"
  - [Tel Aviv Traceroute](https://fudge.org/archive/tel-aviv-traceroute/) 2000 Apr 29
  - [The Fudge FAQ](https://fudge.org/archive/the-fudge-faq/) 1998 Dec 12
 
-Last auto generated Sun Apr  5 00:25:14 2026
+Last auto generated Mon Apr  6 00:30:45 2026
 
 This auto generated file is created by code based on examples from [@dylanroy](https://towardsdatascience.com/auto-updating-your-github-profile-with-python-cde87b638168) and [@eugeneyan](https://github.com/eugeneyan)
 
