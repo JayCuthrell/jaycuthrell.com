@@ -56,10 +56,10 @@ Note: These were presented by [a very enthusiastic consultant](https://cuthrell.
 
 (Partial List)
 
+- Qlik Connect 2024, 2025, 2026
 - AI Infrastructure Field Day, 2025
 - Cloud Field Day, 2024
 - AI Field Day, 2024
-- Qlik Connect 2024
 - Supercloud 3, 2023
 - IT Renovation Day, 2021
 - Transforming Data with Intelligence, 2021
