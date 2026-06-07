@@ -889,8 +889,8 @@ title: "Subscribe to my weekly newsletter"
  - [The Fudge FAQ](https://fudge.org/archive/the-fudge-faq/) 1998 Dec 12
 
 
-Last auto generated Sat Jun  6 23:06:23 2026
+Last auto generated Sat Jun  6 23:11:23 2026
 
 This auto generated file is created by code based on examples from [@dylanroy](https://towardsdatascience.com/auto-updating-your-github-profile-with-python-cde87b638168) and [@eugeneyan](https://github.com/eugeneyan)
 
-[![Build status for newsletter page](https://github.com/JayCuthrell/jaycuthrell.com/workflows/cron/badge.svg?branch=gh-pages)](https://github.com/JayCuthrell/jaycuthrell.com/actions)
+[![Build status for newsletter page](https://github.com/JayCuthrell/jaycuthrell.com/actions/workflows/cron.yml/badge.svg?branch=gh-pages)](https://github.com/JayCuthrell/jaycuthrell.com/actions)
