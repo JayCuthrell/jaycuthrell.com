@@ -7,28 +7,38 @@ on:
   schedule:
     - cron: "35 3 * * *"
 
+# Ensure the GitHub token has permission to push the updated markdown
+permissions:
+  contents: write
+
 jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
     steps:
       - name: 🍽️ Get working copy
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4
         with:
-          fetch-depth: 0                                                                 
-      - name: 🐍 Set up Python 3.8                               
-        uses: actions/setup-python@v2                             
+          fetch-depth: 1                                                                 
+      
+      - name: 🐍 Set up Python 3.12                               
+        uses: actions/setup-python@v5                             
         with:                                 
-          python-version: '3.8'                                                   
-      - name: 💿 Install feedparser pytz datetime                           
-        run: pip install feedparser pytz datetime
+          python-version: '3.12' 
+                                                            
+      - name: 💿 Install requirements                           
+        run: pip install feedparser pytz 
+        
       - name: 🍳 Update newsletter.md
         run: |
           cd ${GITHUB_WORKSPACE}/src/
           python newsletter.py
+          
       - name: 🚀 Deploy
         run: |
           git config user.name "${GITHUB_ACTOR}"
           git config user.email "${GITHUB_ACTOR}@users.noreply.github.com"
-          git add .
-          git commit -am "feat(auto generate): Updated content"
-          git push --all -f https://${{ secrets.GITHUB_TOKEN }}@github.com/${GITHUB_REPOSITORY}.git
+          # Run from the root directory to avoid path errors
+          git add _pages/newsletter.md
+          # Only commit and push if there are actually changes
+          git diff-index --quiet HEAD || git commit -m "feat(auto generate): Updated newsletter content"
+          git push origin gh-pages
