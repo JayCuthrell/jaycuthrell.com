@@ -25,6 +25,8 @@ title: "Subscribe to my weekly newsletter"
 </form>
 
 ### Recent Newsletter Issues by Jay Cuthrell on [fudge.org](https://fudge.org), [hot.fudge.org](https://hot.fudge.org), and [cuthrell.consulting](https://cuthrell.consulting)
+ - [Ship Left](https://fudge.org/archive/ship-left/) 2026 Jun 15
+ - [What The Fudge for June 14, 2026: Trillionaires in Orbit and Agentic Intersections](https://fudge.org/archive/wtf-014/) 2026 Jun 14
  - [What The Fudge for June 07, 2026: The IPO Parade and Device-Level Agents](https://fudge.org/archive/wtf-013/) 2026 Jun 07
  - [What The Fudge for May 31, 2026: The I Am One Year Older Edition](https://fudge.org/archive/wtf-012/) 2026 May 31
  - [What The Fudge for May 24, 2026: The Paradigm Shift in Compute Infrastructure](https://fudge.org/archive/wtf-011/) 2026 May 24
@@ -890,7 +892,7 @@ title: "Subscribe to my weekly newsletter"
  - [The Fudge FAQ](https://fudge.org/archive/the-fudge-faq/) 1998 Dec 12
 
 
-Last auto generated Sun Jun 14 01:11:40 2026
+Last auto generated Mon Jun 15 01:20:37 2026
 
 This auto generated file is created by code based on examples from [@dylanroy](https://towardsdatascience.com/auto-updating-your-github-profile-with-python-cde87b638168) and [@eugeneyan](https://github.com/eugeneyan)
 
