@@ -30,22 +30,28 @@ title: "Subscribe to my weekly newsletter"
  - [What The Fudge for June 14, 2026: Trillionaires in Orbit and Agentic Intersections](https://fudge.org/archive/wtf-014/) 2026 Jun 14
  - [What The Fudge for June 07, 2026: The IPO Parade and Device-Level Agents](https://fudge.org/archive/wtf-013/) 2026 Jun 07
  - [What The Fudge for May 31, 2026: The I Am One Year Older Edition](https://fudge.org/archive/wtf-012/) 2026 May 31
+ - [My Fediverse Digest for May 2026](https://fudge.org/archive/fediverse-digest-2026-05/) 2026 May 31
  - [What The Fudge for May 24, 2026: The Paradigm Shift in Compute Infrastructure](https://fudge.org/archive/wtf-011/) 2026 May 24
  - [What The Fudge for May 17, 2026: Trillion-Dollar Valuations, Sovereign AI, and the Agentic Edge](https://fudge.org/archive/wtf-010/) 2026 May 17
  - [What The Fudge for May 10, 2026: Material Science, Policy as Code, and Quiet Supersonics](https://fudge.org/archive/wtf-009/) 2026 May 10
  - [What The Fudge for May 3, 2026: Agentic Intelligence and Super Learners](https://fudge.org/archive/wtf-008/) 2026 May 03
+ - [My Fediverse Digest for April 2026](https://fudge.org/archive/fediverse-digest-2026-04/) 2026 Apr 30
  - [What The Fudge for April 26, 2026: Waymos on the 101, Scaling the BIPC, and the SpaceX IPO Pivot](https://fudge.org/archive/wtf-007/) 2026 Apr 26
  - [What The Fudge for April 19, 2026: Sovereignty, Qlik Connect, and Orbital Intelligence](https://fudge.org/archive/wtf-006/) 2026 Apr 19
  - [What The Fudge for April 12, 2026: The Two-Day Late Edition](https://fudge.org/archive/wtf-005/) 2026 Apr 12
  - [What The Fudge for April 5, 2026: AI Independence, Space Data Centers, & Outlook on the Moon](https://fudge.org/archive/wtf-004/) 2026 Apr 05
+ - [My Fediverse Digest for March 2026](https://fudge.org/archive/fediverse-digest-2026-03/) 2026 Mar 31
  - [What The Fudge for March 29, 2026: All Things AI, Digital Employees, and Solar Bricks](https://fudge.org/archive/wtf-003/) 2026 Mar 29
  - [Conference notes](https://fudge.org/archive/conference-notes/) 2026 Mar 26
  - [Trying out Sveltia CMS](https://fudge.org/archive/trying-out-sveltia-cms/) 2026 Mar 23
  - [What The Fudge for March 22, 2026: The Edge of Intelligence](https://fudge.org/archive/wtf-002/) 2026 Mar 22
  - [What The Fudge for March 15, 2026: WTF Begins](https://fudge.org/archive/wtf-001/) 2026 Mar 15
  - [The Podcasting Era](https://fudge.org/archive/podcasting/) 2026 Mar 06
+ - [My Fediverse Digest for February 2026](https://fudge.org/archive/fediverse-digest-2026-02/) 2026 Feb 28
  - [Voice to Version 1.0](https://fudge.org/archive/voice-to-11ty/) 2026 Feb 15
+ - [My Fediverse Digest for January 2026](https://fudge.org/archive/fediverse-digest-2026-01/) 2026 Jan 31
  - [Eleventy in 2026](https://fudge.org/archive/11ty-in-2026/) 2026 Jan 10
+ - [My Fediverse Digest for December 2025](https://fudge.org/archive/fediverse-digest-2025-12/) 2025 Dec 31
  - [Inflated Expectations in Space](https://fudge.org/archive/inflated-space-habitats/) 2025 Dec 29
  - [Succession Planning for Space](https://fudge.org/archive/succession-planning/) 2025 Dec 28
  - [ULA and Sidus Space Leadership News](https://fudge.org/archive/ula-sidus-space-leadership-news/) 2025 Dec 27
@@ -76,6 +82,7 @@ title: "Subscribe to my weekly newsletter"
  - [🔥 Hot Takes Tuesday for 2025-12-02](https://fudge.org/archive/hot-takes-tuesday-for-2025-12-02/) 2025 Dec 02
  - [📈 Markets Monday for 2025-12-01](https://fudge.org/archive/markets-monday-for-2025-12-01/) 2025 Dec 01
  - [🌶️ Hot Fudge Sunday for 2025-11-30](https://fudge.org/archive/hot-fudge-sunday-for-2025-11-30/) 2025 Nov 30
+ - [My Fediverse Digest for November 2025](https://fudge.org/archive/fediverse-digest-2025-11/) 2025 Nov 30
  - [🔮 Sneak Peak Saturday for 2025-11-29](https://fudge.org/archive/sneak-peak-saturday-for-2025-11-29/) 2025 Nov 29
  - [✅ Final Thoughts Friday for 2025-11-28](https://fudge.org/archive/final-thoughts-friday-for-2025-11-28/) 2025 Nov 28
  - [🔙 Throwback Thursday for 2025-11-27](https://fudge.org/archive/throwback-thursday-for-2025-11-27/) 2025 Nov 27
@@ -106,6 +113,7 @@ title: "Subscribe to my weekly newsletter"
  - [🌶️ Hot Fudge Sunday for 2025-11-02](https://fudge.org/archive/hot-fudge-sunday-for-2025-11-02/) 2025 Nov 02
  - [🔮 Sneak Peak Saturday for 2025-11-01](https://fudge.org/archive/sneak-peak-saturday-for-2025-11-01/) 2025 Nov 01
  - [✅ Final Thoughts Friday for 2025-10-31](https://fudge.org/archive/final-thoughts-friday-for-2025-10-31/) 2025 Oct 31
+ - [My Fediverse Digest for October 2025](https://fudge.org/archive/fediverse-digest-2025-10/) 2025 Oct 31
  - [🔙 Throwback Thursday for 2025-10-30](https://fudge.org/archive/throwback-thursday-for-2025-10-30/) 2025 Oct 30
  - [🤪 Wacky Wednesday for 2025-10-29](https://fudge.org/archive/wacky-wednesday-for-2025-10-29/) 2025 Oct 29
  - [🔥 Hot Takes Tuesday for 2025-10-28](https://fudge.org/archive/hot-takes-tuesday-for-2025-10-28/) 2025 Oct 28
@@ -137,6 +145,7 @@ title: "Subscribe to my weekly newsletter"
  - [🔙 Throwback Thursday for 2025-10-02](https://fudge.org/archive/throwback-thursday-for-2025-10-02/) 2025 Oct 02
  - [🤪 Wacky Wednesday for 2025-10-01](https://fudge.org/archive/wacky-wednesday-for-2025-10-01/) 2025 Oct 01
  - [🔥 Hot Takes Tuesday for 2025-09-30](https://fudge.org/archive/hot-takes-tuesday-for-2025-09-30/) 2025 Sep 30
+ - [My Fediverse Digest for September 2025](https://fudge.org/archive/fediverse-digest-2025-09/) 2025 Sep 30
  - [📈 Markets Monday for 2025-09-29](https://fudge.org/archive/markets-monday-for-2025-09-29/) 2025 Sep 29
  - [🌶️ Hot Fudge Sunday for 2025-09-28](https://fudge.org/archive/hot-fudge-sunday-for-2025-09-28/) 2025 Sep 28
  - [🔮 Sneak Peak Saturday for 2025-09-27](https://fudge.org/archive/sneak-peak-saturday-for-2025-09-27/) 2025 Sep 27
@@ -167,6 +176,7 @@ title: "Subscribe to my weekly newsletter"
  - [🔥 Hot Takes Tuesday for 2025-09-02](https://fudge.org/archive/hot-takes-tuesday-for-2025-09-02/) 2025 Sep 02
  - [📈 Markets Monday for 2025-09-01](https://fudge.org/archive/markets-monday-for-2025-09-01/) 2025 Sep 01
  - [🌶️ Hot Fudge Sunday for 2025-08-31](https://fudge.org/archive/hot-fudge-sunday-for-2025-08-31/) 2025 Aug 31
+ - [My Fediverse Digest for August 2025](https://fudge.org/archive/fediverse-digest-2025-08/) 2025 Aug 31
  - [🔮 Sneak Peak Saturday for 2025-08-30](https://fudge.org/archive/sneak-peak-saturday-for-2025-08-30/) 2025 Aug 30
  - [✅ Final Thoughts Friday for 2025-08-29](https://fudge.org/archive/final-thoughts-friday-for-2025-08-29/) 2025 Aug 29
  - [🔙 Throwback Thursday for 2025-08-28](https://fudge.org/archive/throwback-thursday-for-2025-08-28/) 2025 Aug 28
@@ -198,6 +208,7 @@ title: "Subscribe to my weekly newsletter"
  - [🔮 Sneak Peak Saturday for 2025-08-02](https://fudge.org/archive/sneak-peak-saturday-for-2025-08-02/) 2025 Aug 03
  - [✅ Final Thoughts Friday for 2025-08-01](https://fudge.org/archive/final-thoughts-friday-for-2025-08-01/) 2025 Aug 02
  - [🔙 Throwback Thursday for 2025-07-31](https://fudge.org/archive/throwback-thursday-for-2025-07-31/) 2025 Jul 31
+ - [My Fediverse Digest for July 2025](https://fudge.org/archive/fediverse-digest-2025-07/) 2025 Jul 31
  - [🤪 Wacky Wednesday for 2025-07-30](https://fudge.org/archive/wacky-wednesday-for-2025-07-30/) 2025 Jul 30
  - [🔥 Hot Takes Tuesday for 2025-07-29](https://fudge.org/archive/hot-takes-tuesday-for-2025-07-29/) 2025 Jul 29
  - [📈 Markets Monday for 2025-07-28](https://fudge.org/archive/markets-monday-for-2025-07-28/) 2025 Jul 28
@@ -230,6 +241,7 @@ title: "Subscribe to my weekly newsletter"
  - [🤪 Wacky Wednesday for 2025-07-02](https://fudge.org/archive/wacky-wednesday-for-2025-07-02/) 2025 Jul 03
  - [🔥 Hot Takes Tuesday for 2025-07-01](https://fudge.org/archive/hot-takes-tuesday-for-2025-07-01/) 2025 Jul 02
  - [📈 Markets Monday for 2025-06-30](https://fudge.org/archive/markets-monday-for-2025-06-30/) 2025 Jun 30
+ - [My Fediverse Digest for June 2025](https://fudge.org/archive/fediverse-digest-2025-06/) 2025 Jun 30
  - [🌶️ Hot Fudge Sunday for 2025-06-29](https://fudge.org/archive/hot-fudge-sunday-for-2025-06-29/) 2025 Jun 29
  - [🔮 Sneak Peak Saturday for 2025-06-28](https://fudge.org/archive/sneak-peak-saturday-for-2025-06-28/) 2025 Jun 28
  - [✅ Final Thoughts Friday for 2025-06-27](https://fudge.org/archive/final-thoughts-friday-for-2025-06-27/) 2025 Jun 28
@@ -261,6 +273,7 @@ title: "Subscribe to my weekly newsletter"
  - [🌶️ Hot Fudge Sunday for 2025-06-01](https://fudge.org/archive/hot-fudge-sunday-for-2025-06-01/) 2025 Jun 01
  - [🔮 Sneak Peak Saturday for 2025-05-31](https://fudge.org/archive/sneak-peak-saturday-for-2025-05-31/) 2025 May 31
  - [✅ Final Thoughts Friday for 2025-05-30](https://fudge.org/archive/final-thoughts-friday-for-2025-05-30/) 2025 May 31
+ - [My Fediverse Digest for May 2025](https://fudge.org/archive/fediverse-digest-2025-05/) 2025 May 31
  - [🔙 Throwback Thursday for 2025-05-29](https://fudge.org/archive/throwback-thursday-for-2025-05-29/) 2025 May 29
  - [🤪 Wacky Wednesday for 2025-05-28](https://fudge.org/archive/wacky-wednesday-for-2025-05-28/) 2025 May 29
  - [🔥 Hot Takes Tuesday for 2025-05-27](https://fudge.org/archive/hot-takes-tuesday-for-2025-05-27/) 2025 May 28
@@ -286,6 +299,7 @@ title: "Subscribe to my weekly newsletter"
  - [🔙 Throwback Thursday for 2025-05-01](https://fudge.org/archive/throwback-thursday-for-2025-05-01/) 2025 May 02
  - [🤪 Wacky Wednesday for 2025-04-30](https://fudge.org/archive/wacky-wednesday-for-2025-04-30/) 2025 May 01
  - [🔥 Hot Takes Tuesday for 2025-04-29](https://fudge.org/archive/hot-takes-tuesday-for-2025-04-29/) 2025 Apr 30
+ - [My Fediverse Digest for April 2025](https://fudge.org/archive/fediverse-digest-2025-04/) 2025 Apr 30
  - [📈 Markets Monday for 2025-04-28](https://fudge.org/archive/markets-monday-for-2025-04-28/) 2025 Apr 29
  - [🌶️ Hot Fudge Sunday for 2025-04-27](https://fudge.org/archive/hot-fudge-sunday-for-2025-04-27/) 2025 Apr 28
  - [🔮 Sneak Peak Saturday for 2025-04-26](https://fudge.org/archive/sneak-peak-saturday-for-2025-04-26/) 2025 Apr 27
@@ -315,6 +329,7 @@ title: "Subscribe to my weekly newsletter"
  - [🤪 Wacky Wednesday for 2025-04-02](https://fudge.org/archive/wacky-wednesday-for-2025-04-02/) 2025 Apr 03
  - [🔥 Hot Takes Tuesday for 2025-04-01](https://fudge.org/archive/hot-takes-tuesday-for-2025-04-01/) 2025 Apr 02
  - [📈 Markets Monday for 2025-03-31](https://fudge.org/archive/markets-monday-for-2025-03-31/) 2025 Apr 01
+ - [My Fediverse Digest for March 2025](https://fudge.org/archive/fediverse-digest-2025-03/) 2025 Mar 31
  - [🌶️ Hot Fudge Sunday for 2025-03-30](https://fudge.org/archive/hot-fudge-sunday-for-2025-03-30/) 2025 Mar 30
  - [🔮 Sneak Peak Saturday for 2025-03-29](https://fudge.org/archive/sneak-peak-saturday-for-2025-03-29/) 2025 Mar 29
  - [✅ Final Thoughts Friday for 2025-03-28](https://fudge.org/archive/final-thoughts-friday-for-2025-03-28/) 2025 Mar 29
@@ -347,6 +362,7 @@ title: "Subscribe to my weekly newsletter"
  - [🔮 Sneak Peak Saturday for 2025-03-01](https://fudge.org/archive/sneak-peak-saturday-for-2025-03-01/) 2025 Mar 02
  - [✅ Final Thoughts Friday for 2025-02-28](https://fudge.org/archive/final-thoughts-friday-for-2025-02-28/) 2025 Mar 01
  - [🔙 Throwback Thursday for 2025-02-27](https://fudge.org/archive/throwback-thursday-for-2025-02-27/) 2025 Feb 28
+ - [My Fediverse Digest for February 2025](https://fudge.org/archive/fediverse-digest-2025-02/) 2025 Feb 28
  - [🤪 Wacky Wednesday for 2025-02-26](https://fudge.org/archive/wacky-wednesday-for-2025-02-26/) 2025 Feb 27
  - [🔥 Hot Takes Tuesday for 2025-02-25](https://fudge.org/archive/hot-takes-tuesday-for-2025-02-25/) 2025 Feb 26
  - [📈 Markets Monday for 2025-02-24](https://fudge.org/archive/markets-monday-for-2025-02-24/) 2025 Feb 25
@@ -376,6 +392,7 @@ title: "Subscribe to my weekly newsletter"
  - [🔮 Sneak Peak Saturday for 2025-02-01](https://fudge.org/archive/sneak-peak-saturday-for-2025-02-01/) 2025 Feb 02
  - [✅ Final Thoughts Friday for 2025-01-31](https://fudge.org/archive/final-thoughts-friday-for-2025-01-31/) 2025 Feb 02
  - [🔙 Throwback Thursday for 2025-01-30](https://fudge.org/archive/throwback-thursday-for-2025-01-30/) 2025 Feb 02
+ - [My Fediverse Digest for January 2025](https://fudge.org/archive/fediverse-digest-2025-01/) 2025 Jan 31
  - [🤪 Wacky Wednesday for 2025-01-29](https://fudge.org/archive/wacky-wednesday-for-2025-01-29/) 2025 Jan 30
  - [🔥 Hot Takes Tuesday for 2025-01-28](https://fudge.org/archive/hot-takes-tuesday-for-2025-01-28/) 2025 Jan 29
  - [📈 Markets Monday for 2025-01-27](https://fudge.org/archive/markets-monday-for-2025-01-27/) 2025 Jan 28
@@ -407,6 +424,7 @@ title: "Subscribe to my weekly newsletter"
  - [🤪 Wacky Wednesday for 2025-01-01](https://fudge.org/archive/wacky-wednesday-for-2025-01-01/) 2025 Jan 01
  - [🔥 Hot Takes Tuesday for 2024-12-31](https://fudge.org/archive/hot-takes-tuesday-for-2024-12-31/) 2025 Jan 01
  - [📈 Markets Monday for 2024-12-30](https://fudge.org/archive/markets-monday-for-2024-12-30/) 2024 Dec 31
+ - [My Fediverse Digest for December 2024](https://fudge.org/archive/fediverse-digest-2024-12/) 2024 Dec 31
  - [🌶️ Hot Fudge Sunday for 2024-12-29](https://fudge.org/archive/hot-fudge-sunday-for-2024-12-29/) 2024 Dec 29
  - [🔮 Sneak Peak Saturday for 2024-12-28](https://fudge.org/archive/sneak-peak-saturday-for-2024-12-28/) 2024 Dec 28
  - [✅ Final Thoughts Friday for 2024-12-27](https://fudge.org/archive/final-thoughts-friday-for-2024-12-27/) 2024 Dec 28
@@ -439,6 +457,7 @@ title: "Subscribe to my weekly newsletter"
  - [🔮 Sneak Peak Saturday for 2024-11-30](https://fudge.org/archive/sneak-peak-saturday-for-2024-11-30/) 2024 Nov 30
  - [✅ Final Thoughts Friday for 2024-11-29](https://fudge.org/archive/final-thoughts-friday-for-2024-11-29/) 2024 Nov 30
  - [Fudge Factor: Holiday Updates](https://fudge.org/archive/fudge-factor-holiday-updates/) 2024 Nov 30
+ - [My Fediverse Digest for November 2024](https://fudge.org/archive/fediverse-digest-2024-11/) 2024 Nov 30
  - [🔙 Throwback Thursday for 2024-11-28](https://fudge.org/archive/throwback-thursday-for-2024-11-28/) 2024 Nov 29
  - [🤪 Wacky Wednesday for 2024-11-27](https://fudge.org/archive/wacky-wednesday-for-2024-11-27/) 2024 Nov 28
  - [🔥 Hot Takes Tuesday for 2024-11-26](https://fudge.org/archive/hot-takes-tuesday-for-2024-11-26/) 2024 Nov 27
@@ -464,6 +483,7 @@ title: "Subscribe to my weekly newsletter"
  - [✅ Final Thoughts Friday for 2024-11-01](https://fudge.org/archive/final-thoughts-friday-for-2024-11-01/) 2024 Nov 02
  - [🔙 Throwback Thursday for 2024-10-31](https://fudge.org/archive/throwback-thursday-for-2024-10-31/) 2024 Nov 02
  - [🤪 Wacky Wednesday for 2024-10-30](https://fudge.org/archive/wacky-wednesday-for-2024-10-30/) 2024 Nov 02
+ - [My Fediverse Digest for October 2024](https://fudge.org/archive/fediverse-digest-2024-10/) 2024 Oct 31
  - [🔥 Hot Takes Tuesday for 2024-10-29](https://fudge.org/archive/hot-takes-tuesday-for-2024-10-29/) 2024 Oct 30
  - [📈 Markets Monday for 2024-10-28](https://fudge.org/archive/markets-monday-for-2024-10-28/) 2024 Oct 29
  - [🌶️ Hot Fudge Sunday for 2024-10-27](https://fudge.org/archive/hot-fudge-sunday-for-2024-10-27/) 2024 Oct 27
@@ -489,6 +509,7 @@ title: "Subscribe to my weekly newsletter"
  - [🤪 Wacky Wednesday for 2024-10-02](https://fudge.org/archive/wacky-wednesday-for-2024-10-02/) 2024 Oct 02
  - [🔥 Hot Takes Tuesday for 2024-10-01](https://fudge.org/archive/hot-takes-tuesday-for-2024-10-01/) 2024 Oct 01
  - [📈 Markets Monday for 2024-09-30](https://fudge.org/archive/markets-monday-for-2024-09-30/) 2024 Sep 30
+ - [My Fediverse Digest for September 2024](https://fudge.org/archive/fediverse-digest-2024-09/) 2024 Sep 30
  - [🌶️ Hot Fudge Sunday for 2024-09-29](https://fudge.org/archive/hot-fudge-sunday-for-2024-09-29/) 2024 Sep 29
  - [🔮 Sneak Peak Saturday for 2024-09-28](https://fudge.org/archive/sneak-peak-saturday-for-2024-09-28/) 2024 Sep 28
  - [✅ Final Thoughts Friday for 2024-09-27](https://fudge.org/archive/final-thoughts-friday-for-2024-09-27/) 2024 Sep 28
@@ -530,6 +551,7 @@ title: "Subscribe to my weekly newsletter"
  - [Fudge Factor: Practical IIoT](https://fudge.org/archive/fudge-factor-practical-iiot/) 2024 Sep 01
  - [🔮 Sneak Peak Saturday for 2024-08-31](https://fudge.org/archive/sneak-peak-saturday-for-2024-08-31/) 2024 Aug 31
  - [✅ Final Thoughts Friday for 2024-08-30](https://fudge.org/archive/final-thoughts-friday-for-2024-08-30/) 2024 Aug 31
+ - [My Fediverse Digest for August 2024](https://fudge.org/archive/fediverse-digest-2024-08/) 2024 Aug 31
  - [🔙 Throwback Thursday for 2024-08-29](https://fudge.org/archive/throwback-thursday-for-2024-08-29/) 2024 Aug 30
  - [🤪 Wacky Wednesday for 2024-08-28](https://fudge.org/archive/wacky-wednesday-for-2024-08-28/) 2024 Aug 29
  - [🔥 Hot Takes Tuesday for 2024-08-27](https://fudge.org/archive/hot-takes-tuesday-for-2024-08-27/) 2024 Aug 27
@@ -567,6 +589,7 @@ title: "Subscribe to my weekly newsletter"
  - [🔙 Throwback Thursday for 2024-08-01](https://fudge.org/archive/throwback-thursday-for-2024-08-1/) 2024 Aug 02
  - [🤪 Wacky Wednesday for 2024-07-31](https://fudge.org/archive/wacky-wednesday-for-2024-07-31/) 2024 Jul 31
  - [🔥 Hot Takes Tuesday for 2024-07-30](https://fudge.org/archive/hot-takes-tuesday-for-2024-07-30/) 2024 Jul 31
+ - [My Fediverse Digest for July 2024](https://fudge.org/archive/fediverse-digest-2024-07/) 2024 Jul 31
  - [📈 Markets Monday for 2024-07-29](https://fudge.org/archive/markets-monday-for-2024-07-29/) 2024 Jul 30
  - [🌶️ Spicy Edition Sunday for 2024-07-28](https://fudge.org/archive/spicy-edition-sunday-for-2024-07-28/) 2024 Jul 28
  - [Increasingly Connected](https://fudge.org/archive/increasingly-connected/) 2024 Jul 28
@@ -602,6 +625,7 @@ title: "Subscribe to my weekly newsletter"
  - [Markets Monday for 2024-07-01](https://fudge.org/archive/markets-monday-for-2024-07-01/) 2024 Jul 01
  - [Spicy Edition Sunday for 2024-06-30](https://fudge.org/archive/spicy-edition-sunday-for-2024-06-30/) 2024 Jun 30
  - [Sprawl Walk Run](https://fudge.org/archive/sprawl-walk-run/) 2024 Jun 30
+ - [My Fediverse Digest for June 2024](https://fudge.org/archive/fediverse-digest-2024-06/) 2024 Jun 30
  - [Sneak Peak Saturday for 2024-06-29](https://fudge.org/archive/sneak-peak-saturday-for-2024-06-29/) 2024 Jun 29
  - [Final Thoughts Friday for 2024-06-28](https://fudge.org/archive/final-thoughts-friday-for-2024-06-28/) 2024 Jun 28
  - [Throwback Thursday for 2024-06-27](https://fudge.org/archive/throwback-thursday-for-2024-06-27/) 2024 Jun 27
@@ -636,87 +660,106 @@ title: "Subscribe to my weekly newsletter"
  - [Hello World](https://fudge.org/archive/hello-world/) 2024 Jun 02
  - [GenAI June](https://fudge.org/archive/genai-june/) 2024 Jun 02
  - [Qlik Connect](https://cuthrell.consulting/blog/qlik-connect/) 2024 Jun 01
+ - [My Fediverse Digest for May 2024](https://fudge.org/archive/fediverse-digest-2024-05/) 2024 May 31
  - [Miscellaneous May](https://fudge.org/archive/miscellaneous-may/) 2024 May 26
  - [Mind Mapping and A.I.](https://fudge.org/archive/mind-mapping-and-ai/) 2024 May 19
  - [Dell Technologies World](https://cuthrell.consulting/blog/dell-technologies-world/) 2024 May 19
  - [Back in Circulation](https://fudge.org/archive/back-in-circulation/) 2024 May 12
  - [Red Hat Summit 2024 Recap](https://cuthrell.consulting/blog/red-hat-summit-2024-recap/) 2024 May 11
  - [Fractional Futures](https://fudge.org/archive/fractional-futures/) 2024 May 05
+ - [My Fediverse Digest for April 2024](https://fudge.org/archive/fediverse-digest-2024-04/) 2024 Apr 30
  - [Events and Efficiency](https://fudge.org/archive/events-and-efficiency/) 2024 Apr 28
  - [Plants, Polyphony, Packets, and Progress](https://fudge.org/archive/plants-polyphony-packets-and-progress/) 2024 Apr 21
  - [Hanging Out My Shingle](https://fudge.org/archive/hanging-out-my-shingle/) 2024 Apr 14
  - [Arguably Illusory](https://fudge.org/archive/arguably-illusory/) 2024 Apr 07
  - [Reading, Wishing, and Watching](https://fudge.org/archive/reading-wishing-and-watching/) 2024 Mar 31
+ - [My Fediverse Digest for March 2024](https://fudge.org/archive/fediverse-digest-2024-03/) 2024 Mar 31
  - [MACH Alliance March](https://fudge.org/archive/mach-alliance-march/) 2024 Mar 22
  - [SXSW 2024 Days 4-9](https://fudge.org/archive/sxsw-2024-days-4-9/) 2024 Mar 17
  - [SXSW 2024 Days 1-3](https://fudge.org/archive/sxsw-2024-days-1-3/) 2024 Mar 10
  - [Notes Before SXSW 2024](https://fudge.org/archive/notes-before-sxsw-2024/) 2024 Mar 07
+ - [My Fediverse Digest for February 2024](https://fudge.org/archive/fediverse-digest-2024-02/) 2024 Feb 29
  - [5 Years of Probing](https://fudge.org/archive/5-years-of-probing/) 2024 Feb 25
  - [11ty Footnotes](https://fudge.org/archive/11ty-footnotes/) 2024 Feb 18
  - [11ty RSS Activepieces](https://fudge.org/archive/11ty-rss-activepieces/) 2024 Feb 11
  - [11ty iFramely Bookmarks](https://fudge.org/archive/11ty-iframely-bookmarks/) 2024 Feb 04
+ - [My Fediverse Digest for January 2024](https://fudge.org/archive/fediverse-digest-2024-01/) 2024 Jan 31
  - [Security on the Agenda](https://fudge.org/archive/security-on-the-agenda/) 2024 Jan 28
  - [Buttondown with 11ty on Netlify with GitHub](https://fudge.org/archive/buttondown-with-11ty-on-netlify-with-github/) 2024 Jan 21
  - [Interoperability and Convergence Ahead](https://fudge.org/archive/interoperability-and-convergence-ahead/) 2024 Jan 14
  - [Tip of the Apache Iceberg](https://fudge.org/archive/tip-of-the-apache-iceberg/) 2024 Jan 07
  - [Zettelkasten End of Year for 2023](https://fudge.org/archive/zettelkasten-end-of-year-for-2023/) 2023 Dec 31
+ - [My Fediverse Digest for December 2023](https://fudge.org/archive/fediverse-digest-2023-12/) 2023 Dec 31
  - [Networks, Security, and an Easier EV](https://fudge.org/archive/networks-security-and-an-easier-ev/) 2023 Dec 24
  - [Pipes Before Pipelines](https://fudge.org/archive/pipes-before-pipelines/) 2023 Dec 17
  - [Why Is The Network Slow?](https://fudge.org/archive/why-is-the-network-slow/) 2023 Dec 10
  - [Read The Fabulous Manual](https://fudge.org/archive/read-the-fabulous-manual/) 2023 Dec 03
+ - [My Fediverse Digest for November 2023](https://fudge.org/archive/fediverse-digest-2023-11/) 2023 Nov 30
  - [Plugins, Patterns, and Potpourri](https://fudge.org/archive/plugins-patterns-and-potpourri/) 2023 Nov 26
  - [Thanks Again in 2023](https://fudge.org/archive/thanks-again-in-2023/) 2023 Nov 19
  - [Reflections on the Rise of Modern Science](https://fudge.org/archive/reflections-on-the-rise-of-modern-science/) 2023 Nov 12
  - [A Spotlight on A.I. on Devices](https://fudge.org/archive/a-spotlight-on-ai-on-devices/) 2023 Nov 05
+ - [My Fediverse Digest for October 2023](https://fudge.org/archive/fediverse-digest-2023-10/) 2023 Oct 31
  - [Large Language Marmalade](https://fudge.org/archive/large-language-marmalade/) 2023 Oct 29
  - [LinkedIn, Lists, Looking Back, and Life](https://fudge.org/archive/linkedin-lists-looking-back-and-life/) 2023 Oct 22
  - [Nuance, Repatriation, and iPaaS](https://fudge.org/archive/nuance-repatriation-and-ipaas/) 2023 Oct 15
  - [The End of the Inflated Expectations](https://fudge.org/archive/the-end-of-the-inflated-expectations/) 2023 Oct 08
  - [Uh Zoom ZPR](https://fudge.org/archive/uh-zoom-zpr/) 2023 Oct 01
+ - [My Fediverse Digest for September 2023](https://fudge.org/archive/fediverse-digest-2023-09/) 2023 Sep 30
  - [Designed Sealed Delivered](https://fudge.org/archive/designed-sealed-delivered/) 2023 Sep 24
  - [Clean My Bookmarks](https://fudge.org/archive/clean-my-bookmarks/) 2023 Sep 17
  - [A.I. For You](https://fudge.org/archive/ai-for-you/) 2023 Sep 10
  - [Out of Sequence Update](https://fudge.org/archive/out-of-sequence-update/) 2023 Sep 06
  - [Little Green Tags](https://fudge.org/archive/little-green-tags/) 2023 Sep 03
+ - [My Fediverse Digest for August 2023](https://fudge.org/archive/fediverse-digest-2023-08/) 2023 Aug 31
  - [Are You Gonna Go Parquet](https://fudge.org/archive/are-you-gonna-go-parquet/) 2023 Aug 28
  - [Who Said The AI ML Was Fair?](https://fudge.org/archive/who-said-the-ai-ml-was-fair/) 2023 Aug 21
  - [Cyber Ground](https://fudge.org/archive/cyber-ground/) 2023 Aug 13
  - [South by Southwest Bound and Down](https://fudge.org/archive/south-by-southwest-bound-and-down/) 2023 Aug 07
  - [Jumping Someone Else's Trained Model](https://fudge.org/archive/jumping-someone-elses-trained-model/) 2023 Jul 31
+ - [My Fediverse Digest for July 2023](https://fudge.org/archive/fediverse-digest-2023-07/) 2023 Jul 31
  - [AI Feel You](https://fudge.org/archive/ai-feel-you/) 2023 Jul 23
  - [Shock the Chaos Monkey](https://fudge.org/archive/shock-the-chaos-monkey/) 2023 Jul 17
  - [Can't Buy Me Lead Time](https://fudge.org/archive/cant-buy-me-lead-time/) 2023 Jul 09
  - [Fuzz Jam June](https://fudge.org/archive/fuzz-jam-june/) 2023 Jul 02
+ - [My Fediverse Digest for June 2023](https://fudge.org/archive/fediverse-digest-2023-06/) 2023 Jun 30
  - [Generative AI Thru This](https://fudge.org/archive/generative-ai-thru-this/) 2023 Jun 26
  - [There's A Lot of Opportunities](https://fudge.org/archive/theres-a-lot-of-opportunities/) 2023 Jun 18
  - [GitOps Down On It](https://fudge.org/archive/gitops-down-on-it/) 2023 Jun 11
  - [GitOps Goes the World](https://fudge.org/archive/gitops-goes-the-world/) 2023 Jun 05
+ - [My Fediverse Digest for May 2023](https://fudge.org/archive/fediverse-digest-2023-05/) 2023 May 31
  - [Zero Tickets to Paradise](https://fudge.org/archive/zero-tickets-to-paradise/) 2023 May 29
  - [Do You Need The Service Catalog?](https://fudge.org/archive/do-you-need-the-service-catalog/) 2023 May 21
  - [It's Not Easy Being GreenDevSecFinOps](https://fudge.org/archive/its-not-easy-being-greendevsecfinops/) 2023 May 14
  - [One IDP piece at a time](https://fudge.org/archive/one-idp-piece-at-a-time/) 2023 May 07
  - [R U DevX Experienced?](https://fudge.org/archive/r-u-devx-experienced/) 2023 Apr 30
+ - [My Fediverse Digest for April 2023](https://fudge.org/archive/fediverse-digest-2023-04/) 2023 Apr 30
  - [Press Rewind](https://fudge.org/archive/press-rewind/) 2023 Apr 24
  - [What's Golden Path?](https://fudge.org/archive/whats-golden-path/) 2023 Apr 16
  - [Take the Bot DataDome](https://fudge.org/archive/take-the-bot-datadome/) 2023 Apr 10
  - [Saved by env0](https://fudge.org/archive/saved-by-env0/) 2023 Apr 03
+ - [My Fediverse Digest for March 2023](https://fudge.org/archive/fediverse-digest-2023-03/) 2023 Mar 31
  - [Quaterly Roundup Edition](https://fudge.org/archive/quaterly-roundup-edition/) 2023 Mar 26
  - [The Promised Landing Zones](https://fudge.org/archive/the-promised-landing-zones/) 2023 Mar 20
  - [Google Service (Dream) Weaver](https://fudge.org/archive/google-service-dream-weaver/) 2023 Mar 12
  - [Buf.build Your REST](https://fudge.org/archive/bufbuild-your-rest/) 2023 Mar 06
+ - [My Fediverse Digest for February 2023](https://fudge.org/archive/fediverse-digest-2023-02/) 2023 Feb 28
  - [IDP Wasn't Built in a Day](https://fudge.org/archive/idp-wasnt-built-in-a-day/) 2023 Feb 26
  - [Map of the Platformatique](https://fudge.org/archive/map-of-the-platformatique/) 2023 Feb 20
  - [k8s Operator, Could You Help Me Place SysCall?](https://fudge.org/archive/k8s-operator-could-you-help-me-place-syscall/) 2023 Feb 13
  - [Smooth k8s Operator](https://fudge.org/archive/smooth-k8s-operator/) 2023 Feb 05
+ - [My Fediverse Digest for January 2023](https://fudge.org/archive/fediverse-digest-2023-01/) 2023 Jan 31
  - [IDP Clearly Now](https://fudge.org/archive/idp-clearly-now/) 2023 Jan 30
  - [Deploy Everything You Touch](https://fudge.org/archive/deploy-everything-you-touch/) 2023 Jan 23
  - [Cost Cause](https://fudge.org/archive/cost-cause/) 2023 Jan 16
  - [Happy When It Toolchains](https://fudge.org/archive/happy-when-it-toolchains/) 2023 Jan 08
  - [Such Tweet Nothing](https://fudge.org/archive/such-tweet-nothing/) 2023 Jan 01
+ - [My Fediverse Digest for December 2022](https://fudge.org/archive/fediverse-digest-2022-12/) 2022 Dec 31
  - [How Soon is Next Year?](https://fudge.org/archive/how-soon-is-next-year/) 2022 Dec 26
  - [Zettelkasten End of Year for 2022](https://fudge.org/archive/zettelkasten-end-of-year-for-2022/) 2022 Dec 19
  - [Proxy Tear Us Apart](https://fudge.org/archive/proxy-tear-us-apart/) 2022 Dec 11
  - [Fediverse Moving over the Face of the Waters](https://fudge.org/archive/fediverse-moving-over-the-face-of-the-waters/) 2022 Dec 03
+ - [My Fediverse Digest for November 2022](https://fudge.org/archive/fediverse-digest-2022-11/) 2022 Nov 30
  - [Don't Worry 'Bout SRE](https://fudge.org/archive/dont-worry-bout-sre/) 2022 Nov 28
  - [I Want To Thank You](https://fudge.org/archive/i-want-to-thank-you/) 2022 Nov 20
  - [Twit Can Happen](https://fudge.org/archive/twit-can-happen/) 2022 Nov 13
@@ -893,7 +936,7 @@ title: "Subscribe to my weekly newsletter"
  - [The Fudge FAQ](https://fudge.org/archive/the-fudge-faq/) 1998 Dec 12
 
 
-Last auto generated Sat Jun 27 00:52:21 2026
+Last auto generated Sun Jun 28 01:05:25 2026
 
 This auto generated file is created by code based on examples from [@dylanroy](https://towardsdatascience.com/auto-updating-your-github-profile-with-python-cde87b638168) and [@eugeneyan](https://github.com/eugeneyan)
 
