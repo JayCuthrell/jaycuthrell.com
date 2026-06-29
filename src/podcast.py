@@ -20,7 +20,7 @@ if __name__ == "__main__":
     # Using 'single' layout as defined in your defaults for a clean profile view
     front_matter = (
         "---\n"
-        "layout: single\n"
+        "layout: post\n"
         "title: \"Podcast\"\n"
         "permalink: /podcast/\n"
         "author_profile: true\n"
