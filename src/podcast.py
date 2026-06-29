@@ -1,5 +1,6 @@
 from pathlib import Path
 import feedparser
+import re
 
 # Setup paths relative to this script's location
 src_dir = Path(__file__).parent
@@ -11,6 +12,12 @@ def fetch_playlist_videos(playlist_id):
     rss_url = f"https://www.youtube.com/feeds/videos.xml?playlist_id={playlist_id}"
     feed = feedparser.parse(rss_url)
     return feed.entries
+
+def get_video_id(video_url):
+    """Extracts the YouTube video ID from a URL."""
+    match = re.search(r"v=([^&]+)", video_url)
+    if match:
+        return match.group(1)
 
 if __name__ == "__main__":
     playlist_id = "PLbyE_u-MMuTvTa3AYInWSZwcDTw6nL-fR"
@@ -31,9 +38,14 @@ if __name__ == "__main__":
     # Build markdown list items from entries
     video_list = []
     for video in videos:
-        title = video.title
-        link = video.link
-        video_list.append(f" - [{title}]({link})")
+        video_id = get_video_id(video.link)
+        if video_id:
+            embed_code = (
+                f'<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto;">'
+                f'<iframe src="https://www.youtube.com/embed/{video_id}" frameborder="0" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>'
+                f'</div>'
+            )
+            video_list.append(embed_code)
         
     markdown_content = front_matter + "\n".join(video_list)
     
