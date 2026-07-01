@@ -37,7 +37,7 @@ if __name__ == "__main__":
     
     # Fetch and combine feeds
     feed1 = (fetch_rss_entries("https://fudge.org/feed.xml"), "blog")
-    feed2 = (fetch_rss_entries("https://www.youtube.com/feeds/videos.xml?playlist_id=PLbyE_u-MMuTvTa3AYInWSZwcDTw6nL-fR"), "podcast")
+    feed2 = (fetch_rss_entries("https://www.youtube.com/feeds/videos.xml?channel_id=UC0gbzQXghnt-4cgci-VpodQ"), "podcast")
     feed3 = (fetch_rss_entries("https://cuthrell.consulting/feed.xml"), "blog")
     
     # Easily pass all three feeds into our new dynamic function

@@ -7,9 +7,9 @@ src_dir = Path(__file__).parent
 project_root = src_dir.parent
 podcast_page_path = project_root / '_pages' / 'podcast.md'
 
-def fetch_playlist_videos(playlist_id):
-    """Fetches videos from a public YouTube playlist RSS feed."""
-    rss_url = f"https://www.youtube.com/feeds/videos.xml?playlist_id={playlist_id}"
+def fetch_channel_videos(channel_id):
+    """Fetches videos from a public YouTube channel RSS feed."""
+    rss_url = f"https://www.youtube.com/feeds/videos.xml?channel_id={channel_id}"
     feed = feedparser.parse(rss_url)
     return feed.entries
 
@@ -20,8 +20,8 @@ def get_video_id(video_url):
         return match.group(1)
 
 if __name__ == "__main__":
-    playlist_id = "PLbyE_u-MMuTvTa3AYInWSZwcDTw6nL-fR"
-    videos = fetch_playlist_videos(playlist_id)
+    channel_id = "UC0gbzQXghnt-4cgci-VpodQ"
+    videos = fetch_channel_videos(channel_id)
     
     # Define Jekyll Front Matter to ensure it maps to /podcast/
     # Using 'single' layout as defined in your defaults for a clean profile view
