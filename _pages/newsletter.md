@@ -25,6 +25,9 @@ title: "Subscribe to my weekly newsletter"
 </form>
 
 ### Recent Newsletter Issues by Jay Cuthrell on [fudge.org](https://fudge.org), [hot.fudge.org](https://hot.fudge.org), and [cuthrell.consulting](https://cuthrell.consulting)
+ - 🎙️ [What The Fudge for July 05, 2026: AI Infrastructure Oops, Token Rationing, and Digital-Only Mandates](https://www.youtube.com/watch?v=_ZJfK7hbx5A) 2026 Jul 05
+ - 📝 [What The Fudge for July 05, 2026: AI Infrastructure Oops, Token Rationing, and Digital-Only Mandates](https://fudge.org/archive/wtf-017/) 2026 Jul 05
+ - 🎙️ [What The Fudge for May 31, 2026: The I Am One Year Older Edition](https://www.youtube.com/watch?v=hvPsp3sR4Xs) 2026 Jul 01
  - 📝 [My Fediverse Digest for June 2026](https://fudge.org/archive/fediverse-digest-2026-06/) 2026 Jun 30
  - 🎙️ [What The Fudge for June 28, 2026: Cost Crunch, IPO Chill, and Agentic Future](https://www.youtube.com/watch?v=RTc_VLe36lc) 2026 Jun 28
  - 📝 [What The Fudge for June 28, 2026: Cost Crunch, IPO Chill, and Agentic Future](https://fudge.org/archive/wtf-016/) 2026 Jun 28
@@ -39,7 +42,6 @@ title: "Subscribe to my weekly newsletter"
  - 🎙️ [What The Fudge for June 07, 2026: The IPO Parade and Device-Level Agents](https://www.youtube.com/watch?v=UO4d73kd230) 2026 Jun 07
  - 📝 [What The Fudge for June 07, 2026: The IPO Parade and Device-Level Agents](https://fudge.org/archive/wtf-013/) 2026 Jun 07
  - 🎙️ [What The Fudge for May 3, 2026: Agentic Intelligence and Super Learners](https://www.youtube.com/watch?v=yTazexxC7Ts) 2026 Jun 03
- - 🎙️ [What The Fudge for May 31, 2026: The I Am One Year Older Edition](https://www.youtube.com/watch?v=hvPsp3sR4Xs) 2026 May 31
  - 📝 [What The Fudge for May 31, 2026: The I Am One Year Older Edition](https://fudge.org/archive/wtf-012/) 2026 May 31
  - 📝 [My Fediverse Digest for May 2026](https://fudge.org/archive/fediverse-digest-2026-05/) 2026 May 31
  - 🎙️ [What The Fudge for March 29, 2026: All Things AI, Digital Employees, and Solar Bricks](https://www.youtube.com/watch?v=xH8ES5RCuts) 2026 May 30
@@ -52,7 +54,6 @@ title: "Subscribe to my weekly newsletter"
  - 🎙️ [What The Fudge for April 5, 2026: AI Independence, Space Data Centers, & Outlook on the Moon](https://www.youtube.com/watch?v=sNqy3FhP0cw) 2026 May 06
  - 📝 [What The Fudge for May 3, 2026: Agentic Intelligence and Super Learners](https://fudge.org/archive/wtf-008/) 2026 May 03
  - 📝 [My Fediverse Digest for April 2026](https://fudge.org/archive/fediverse-digest-2026-04/) 2026 Apr 30
- - 🎙️ [What The Fudge for March 22, 2026: The Edge of Intelligence](https://www.youtube.com/watch?v=5cdWiMGWBo0) 2026 Apr 28
  - 📝 [What The Fudge for April 26, 2026: Waymos on the 101, Scaling the BIPC, and the SpaceX IPO Pivot](https://fudge.org/archive/wtf-007/) 2026 Apr 26
  - 📝 [What The Fudge for April 19, 2026: Sovereignty, Qlik Connect, and Orbital Intelligence](https://fudge.org/archive/wtf-006/) 2026 Apr 19
  - 📝 [What The Fudge for April 12, 2026: The Two-Day Late Edition](https://fudge.org/archive/wtf-005/) 2026 Apr 12
@@ -953,7 +954,7 @@ title: "Subscribe to my weekly newsletter"
  - 📝 [The Fudge FAQ](https://fudge.org/archive/the-fudge-faq/) 1998 Dec 12
 
 
-Last auto generated Sun Jul  5 02:54:39 2026
+Last auto generated Mon Jul  6 04:03:17 2026
 
 This auto generated file is created by code based on examples from [@dylanroy](https://towardsdatascience.com/auto-updating-your-github-profile-with-python-cde87b638168) and [@eugeneyan](https://github.com/eugeneyan)
 
