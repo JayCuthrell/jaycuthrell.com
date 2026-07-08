@@ -5,11 +5,7 @@ related: true
 title: "William Jason Cuthrell (Jay)"
 ---
 
-<div align="center">
-
 **[jaycuthrell.com](https://jaycuthrell.com)** | **[jay@cuthrell.com](mailto:jay@cuthrell.com?SUBJECT=Your+online+resume)** | **[+1-415-763-8343](tel:+1-415-763-8343)**
-
-</div>
 
 ---
 
