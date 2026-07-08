@@ -25,3 +25,16 @@
   {% include lunr-search-scripts.html %}
 {%- endif -%}
 
+<script src="{{ '/assets/js/plugins/table-of-contents.js' | relative_url }}"></script>
+
+<script>
+  document.addEventListener("DOMContentLoaded", function() {
+    var sidebar = document.querySelector('.page-sidebar');
+    // Look for either the custom include wrapper OR the default Kramdown list ID
+    var toc = document.getElementById('entry-table-of-contents') || document.getElementById('markdown-toc');
+    
+    if (sidebar && toc) {
+      sidebar.appendChild(toc);
+    }
+  });
+</script>
