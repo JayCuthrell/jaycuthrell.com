@@ -26,3 +26,48 @@
 
   gtag('config', 'G-BKHCR4W87G');
 </script>
+
+<style>
+  /* Only apply this layout shift on desktop screens (roughly 992px and wider) */
+  @media screen and (min-width: 62em) {
+    
+    /* 1. Make the main layout wrapper the anchor point for positioning */
+    .layout--post .page-wrapper,
+    .layout--page .page-wrapper {
+      position: relative !important;
+    }
+
+    /* 2. Yank the TOC out of the text flow and place it in the left sidebar column */
+    #markdown-toc {
+      position: absolute !important;
+      left: 0 !important;
+      
+      /* Match the width of the So Simple theme sidebar column */
+      width: calc(25% - 2em) !important;
+      max-width: 250px !important;
+      
+      /* Push it down so it doesn't overlap your headshot and social icons! */
+      /* Note: You can increase or decrease this 340px value if it overlaps your bio */
+      top: 340px !important;
+      
+      /* Clean up styling to match a sidebar widget */
+      margin-left: 0 !important;
+      padding-left: 0 !important;
+      list-style-type: none !important;
+      font-size: 0.85em !important;
+      line-height: 1.5 !important;
+    }
+
+    /* 3. Style the inner links to look clean and legible */
+    #markdown-toc li {
+      margin-bottom: 0.5em !important;
+      border-bottom: 1px solid rgba(0, 0, 0, 0.05);
+      padding-bottom: 0.3em;
+    }
+    
+    #markdown-toc ul {
+      margin-top: 0.3em !important;
+      padding-left: 1em !important;
+    }
+  }
+</style>
