@@ -1,3 +1,13 @@
+/* Add this block at the very top of the file to handle moving the element */
+(function() {
+  var sidebar = document.querySelector('.page-sidebar');
+  var tocWrapper = document.getElementById('entry-table-of-contents');
+
+  if (sidebar && tocWrapper) {
+    sidebar.appendChild(tocWrapper);
+  }
+})();
+
 /*!
  * Table of Contents Toggle
  * https://github.com/smithtimmytim/brightlycolored.org
@@ -14,7 +24,7 @@ function showToc(elem) {
 
     var height = elem.scrollHeight + 'px';
 
-    elem.style.disply = '';
+    elem.style.display = ''; // Fixed a typo present in original source: 'style.disply'
 
     return height;
   };
