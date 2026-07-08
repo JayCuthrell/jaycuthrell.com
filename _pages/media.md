@@ -163,3 +163,20 @@ Note: These were presented by [a very enthusiastic consultant](https://cuthrell.
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Fun. We have <a href="https://twitter.com/Qthrul?ref_src=twsrc%5Etfw">@Qthrul</a> talking management, automation and orchestration. <a href="http://t.co/VkmmpBrTdO">pic.twitter.com/VkmmpBrTdO</a></p>&mdash; Josh Atwell in Boulder (@Josh_Atwell) <a href="https://twitter.com/Josh_Atwell/status/423897006051164160?ref_src=twsrc%5Etfw">January 16, 2014</a></blockquote>
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/15140142@N03/5541167877/in/photolist-67s14S-4y6wLj-9rDWac-7HZS5X-5g7FKW-4z56ja-6m299D-68sduP-9nExbS-4yUFrv-6gzuwt-9nKzAR-9rorJc-9nBuxF-v7jy9e-8MmCqX" title="Jay Cuthrell"><img src="https://live.staticflickr.com/5057/5541167877_50347f9056_k.jpg" width="360" alt="Jay Cuthrell"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<!-- Table of Contents Relocation Script -->
+<script>
+  // Step 1: Wait for the browser to finish parsing the HTML document
+  document.addEventListener("DOMContentLoaded", function() {
+    
+    // Step 2: Locate the target sidebar container and the generated TOC list
+    var sidebar = document.querySelector('.page-sidebar');
+    var toc = document.getElementById('markdown-toc') || document.getElementById('entry-table-of-contents');
+    
+    // Step 3: Ensure both elements exist on this page before attempting to move them
+    if (sidebar && toc) {
+      // Step 4: Detach the TOC from the main content and append it to the sidebar
+      sidebar.appendChild(toc);
+    }
+  });
+</script>
