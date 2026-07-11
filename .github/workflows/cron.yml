@@ -3,7 +3,7 @@ name: cron
 on:
   push:
     branches:
-      - gh-pages
+      - main
   schedule:
     - cron: "35 3 * * *"
 
@@ -52,4 +52,4 @@ jobs:
           git add _pages/newsletter.md _pages/podcast.md _pages/badges.md
           # Only commit and push if there are actually changes
           git diff-index --quiet HEAD || git commit -m "feat(auto generate): Updated newsletter content"
-          git push origin gh-pages
+          git push origin main
