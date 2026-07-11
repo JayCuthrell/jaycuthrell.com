@@ -10,9 +10,8 @@ keywords: "4157638343 jay@cuthrell.com"
 
 There are many ways to contact me. This page updates as my [preferred methods evolve](https://ssd.eff.org/en).
 
-- I use and prefer [Signal](https://signal.org/install/). Search for +1-415-763-8343.
-- I also use [Keybase](https://keybase.io/download). Search for [jaycuthrell](https://keybase.io/jaycuthrell).
-- I also use [Tails](https://tails.boum.org/about/index.en.html), [Heads](https://heads.dyne.org/about.html), [Whonix](https://www.whonix.org/wiki/Main_Page), and [Hidden VM](https://github.com/aforensics/HiddenVM).
+- I use and prefer [Signal](https://signal.org/install/).
+- Search for +1-415-763-8343.
 
 I use phone, SMS, email, and video conference apps but prefer to establish a second channel from the list above.
 
@@ -20,7 +19,6 @@ I use phone, SMS, email, and video conference apps but prefer to establish a sec
 
 - Phone [+1-877-243-8482 ext. 10110](tel:+1-877-243-8482,,,10110#)
 - Mobile [+1-415-763-8343](tel:1-415-763-8343)
-- Bluesky [@nexustek.com](https://bsky.app/profile/nexustek.com)
 - iMessage Contact Key Verification ```APKTIDPvEfejEVFbaY9DNgtrXFv8YqxL_mPwpdmQgKP36JYG9vow```  
 - Email [jay.cuthrell@nexustek.com](mailto:jay.cuthrell@nexustek.com?SUBJECT=2026+via+jaycuthrell.com)
 - Meeting Request [Book 15 Minutes with Jay at NexusTek](https://info.nexustek.com/request-a-meeting-with-jay-cuthrell)
@@ -29,7 +27,6 @@ I use phone, SMS, email, and video conference apps but prefer to establish a sec
 
 - Mobile [+1-415-763-8343](tel:1-415-763-8343)
 - Fediverse [@jay@cuthrell.com](https://cuthrell.com/@jay)
-- Bluesky [@cuthrell.com](https://bsky.app/profile/cuthrell.com)
 - iMessage Contact Key Verification ```APKTIDPvEfejEVFbaY9DNgtrXFv8YqxL_mPwpdmQgKP36JYG9vow```
 - Email [jay@cuthrell.com](mailto:jay@cuthrell.com?SUBJECT=2026+via+jaycuthrell.com)
 - Mail ```1903 Live Oak St #92 Beaufort, NC 28516-0070```
