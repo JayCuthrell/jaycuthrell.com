@@ -1,6 +1,7 @@
 # Primary redirect
 # Redirect default Netlify subdomain to primary domain
 # Redirect older blog url slugs
+/blog/    https://fudge.org/archive/?migration=pending
 /10-years-of-livejournal/    https://fudge.org/archive/?migration=pending
 /a-good-week/    https://fudge.org/archive/?migration=pending
 /airwaves-vs-airlines/    https://fudge.org/archive/?migration=pending
