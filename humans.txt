@@ -1,0 +1,13 @@
+---
+layout: null
+permalink: /humans.txt
+---
+/* TEAM */
+Developer: {{ site.author.name }}
+Location: {{ site.author.location }}
+Site: {{ site.url }}
+
+/* SITE */
+Doctype: HTML5
+Software: Jekyll (Ruby)
+Last update: {{ site.time | date: "%Y-%m-%d" }}

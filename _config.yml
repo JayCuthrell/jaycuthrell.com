@@ -34,9 +34,12 @@ google_site_verification: "kRIQtgrJdRIqXieQD4fef0H2A-ejkIayF78XcMBjUbI"
 include:
   - .htaccess
   - robots.txt
+  - humans.txt
   - .well_known
   - _pages
   - _redirects
+  - sitemap.json
+  - sitemap.xml
 
 exclude:
   - .sass-cache/
