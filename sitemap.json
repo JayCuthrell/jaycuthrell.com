@@ -7,18 +7,16 @@ permalink: /sitemap.json
   "payload_type": "AEO_GEO_Sitemap_Index",
   "generated_at": "{{ site.time | date: '%Y-%m-%d' }}",
   "pages": [
-    {%- assign pages_count = 0 -%}
+    {%- assign first_item = true -%}
     {%- for p in site.pages -%}
-      {%- if p.url contains '.css' or p.url contains '.xml' or p.url contains '.txt' or p.url contains '404' -%}
-        {%- continue -%}
-      {%- endif -%}
-      {%- if pages_count > 0 -%},{%- endif -%}
+      {%- unless p.url contains '.css' or p.url contains '.xml' or p.url contains '.txt' or p.url contains '404' or p.url contains '.json' -%}
+        {%- if first_item == false -%},{%- endif -%}{%- assign first_item = false -%}
     {
       "url": "{{ p.url | absolute_url }}",
       "title": {{ p.title | default: "Jay Cuthrell" | jsonify }},
-      "type": "{% if p.url == '/' %}root_hub{% else %}static_navigation{% endif %}"
+      "type": "{% if p.url == '/' or p.url == '/index.html' %}root_hub{% else %}static_navigation{% endif %}"
     }
-      {%- assign pages_count = pages_count | plus: 1 -%}
+      {%- endunless -%}
     {%- endfor -%}
   ]
 }
