@@ -1,12 +1,5 @@
-# www.robotstxt.org/
-# http://code.google.com/web/controlcrawlindex/
-User-agent: ia_archiver
-Disallow: /
+User-agent: *
+Allow: /
 
-# Block MJ12bot
-User-agent: MJ12bot
-Disallow: /
-
-# Block Ahrefs
-User-agent: AhrefsBot
-Disallow: /
+Sitemap: https://jaycuthrell.com/sitemap.xml
+Sitemap: https://jaycuthrell.com/sitemap.json

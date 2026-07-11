@@ -1,23 +1,23 @@
-# Jay Cuthrell
+---
+layout: null
+permalink: /llms.txt
+---
+# jaycuthrell.com
+> Professional profile, technology advisory insights, and portfolio of Jay Cuthrell.
 
-> William J. Cuthrell (Jay) is an innovative technology executive and sought-after servant leader. He is a prolific influencer and writer who communicates with ease at C-suite and practitioner levels across traditional and emerging mediums on digital transformation strategy in holistic full-stack engagements.
+## Core Navigation
+- [Home]({{ '/' | absolute_url }})
+{%- for p in site.pages -%}
+  {%- if p.title and p.url != '/' and p.url != '/llms.txt' and p.url != '/sitemap.json' and p.url != '/404.html' %}
+- [{{ p.title }}]({{ p.url | absolute_url }})
+  {%- endif -%}
+{%- endfor %}
 
-## About
-- [About Jay Cuthrell](https://jaycuthrell.com/about/): A narrative of Jay's career path and professional journey.
-
-## Professional Work
-- [NexusTek](https://nexustek.com): Jay is the Chief Product Officer at NexusTek, leading data & AI, cybersecurity, and hybrid cloud offerings.
-- [Cuthrell Consulting](https://cuthrell.consulting): Jay is the Founder and CEO, providing pragmatic Generative AI (GenAI) infused advisory services.
-- [LinkedIn Profile](https://www.linkedin.com/in/jaycuthrell): Detailed work experience and professional network.
-- [Online Resume/CV](https://jaycuthrell.com/resume/): A longer version of Jay's resume / cv.
-
-## Writing & Insights
-- [Fudge.org](https://fudge.org): Jay's personal blog and newsletter on technology and other insights.
-
-## Appearances & Media
-- [Media Kit](https://jaycuthrell.com/media/): A collection of Jay's writing, presentations, speaking, interviews, and corporate videos.
-- [Tech Field Day](https://techfieldday.com/people/jay-cuthrell/): A collection of Jay's event appearances, videos, and coverage as a Tech Field Day delegate.
-- [Qwoted Profile](https://app.qwoted.com/sources/jay-cuthrell): A summary of Jay's expertise and media contributions.
-
-## Disclosures
-- [Disclosure](https://jaycuthrell.com/disclosure/): Information regarding affiliations and potential conflicts of interest.
+## Chronological Insights
+{%- if site.posts.size > 0 -%}
+  {%- for post in site.posts %}
+- [{{ post.title }}]({{ post.url | absolute_url }}) — {{ post.date | date: "%Y-%m-%d" }}
+  {%- endfor -%}
+{%- else %}
+- [Blog Archive]({{ '/blog/' | absolute_url }})
+{%- endif %}
