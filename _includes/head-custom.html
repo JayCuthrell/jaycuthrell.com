@@ -71,3 +71,13 @@
     }
   }
 </style>
+
+<!-- Custom CSS: Globally hide the Previous/Next pagination navigation -->
+<style>
+  /* Target the page-pagination navigation container and remove it from view */
+  .layout--page .page-pagination,
+  .layout--post .page-pagination,
+  .page-pagination {
+    display: none !important; /* Forces the browser to completely hide the element and free up the space */
+  }
+</style>
