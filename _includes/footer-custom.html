@@ -6,22 +6,14 @@
 
 <!-- Table of Contents Relocation Script -->
 <script>
-  // Wait for the HTML document to be fully loaded and parsed by the browser
   document.addEventListener("DOMContentLoaded", function() {
-    
-    // Variable: Target container where we want the TOC to appear
+    // Locate the sidebar column and the generated TOC list
     var sidebar = document.querySelector('.page-sidebar');
-    
-    // Variable: Target TOC element (checks for both default Kramdown and theme include IDs)
     var toc = document.getElementById('markdown-toc') || document.getElementById('entry-table-of-contents');
     
-    // If both the sidebar and the TOC exist on this specific page, execute the move
+    // If both exist, appendChild moves the TOC directly below the author profile block
     if (sidebar && toc) {
-      // appendChild moves the existing DOM node from its current parent into the sidebar
       sidebar.appendChild(toc);
     }
   });
 </script>
-<!-- End Table of Contents Relocation Script -->
-
-
