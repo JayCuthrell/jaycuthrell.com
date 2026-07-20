@@ -25,7 +25,9 @@ title: "Subscribe to my weekly newsletter"
 </form>
 
 ### Recent Newsletter Issues by Jay Cuthrell on [fudge.org](https://fudge.org), [hot.fudge.org](https://hot.fudge.org), and [cuthrell.consulting](https://cuthrell.consulting)
- - 🎙️ [What The Fudge for April 5, 2026: AI Independence, Space Data Centers, & Outlook on the Moon](https://www.youtube.com/watch?v=sNqy3FhP0cw) 2026 Jul 17
+ - 🎙️ [What The Fudge for July 19, 2026: Open-Source AI, Regulatory Headwinds, and Enterprise Capital](https://www.youtube.com/watch?v=3Cn9jO6ufHY) 2026 Jul 19
+ - 📝 [What The Fudge for July 19, 2026: Open-Source AI, Regulatory Headwinds, and Enterprise Capital](https://fudge.org/archive/wtf-019/) 2026 Jul 19
+ - 🎙️ [What The Fudge for June 14, 2026: Trillionaires in Orbit and Agentic Intersections](https://www.youtube.com/watch?v=kaKjgIxsl14) 2026 Jul 16
  - 🎙️ [What The Fudge for July 12, 2026: On-Device AI, Memory Boom, and Big Tech Pivots](https://www.youtube.com/watch?v=JIU5URI-evk) 2026 Jul 12
  - 📝 [What The Fudge for July 12, 2026: On-Device AI, Memory Boom, and Big Tech Pivots](https://fudge.org/archive/wtf-018/) 2026 Jul 12
  - 🎙️ [What The Fudge for June 07, 2026: The IPO Parade and Device-Level Agents](https://www.youtube.com/watch?v=UO4d73kd230) 2026 Jul 09
@@ -40,7 +42,6 @@ title: "Subscribe to my weekly newsletter"
  - 📝 [What The Fudge for June 21, 2026: Semiconductor Crunches, Export Playbooks, and AI Slop](https://fudge.org/archive/wtf-015/) 2026 Jun 21
  - 🎙️ [What The Fudge for May 17, 2026: Trillion-Dollar Valuations, Sovereign AI, and the Agentic Edge](https://www.youtube.com/watch?v=pWe7CYB3uYI) 2026 Jun 18
  - 📝 [Ship Left](https://fudge.org/archive/ship-left/) 2026 Jun 15
- - 🎙️ [What The Fudge for June 14, 2026: Trillionaires in Orbit and Agentic Intersections](https://www.youtube.com/watch?v=kaKjgIxsl14) 2026 Jun 14
  - 📝 [What The Fudge for June 14, 2026: Trillionaires in Orbit and Agentic Intersections](https://fudge.org/archive/wtf-014/) 2026 Jun 14
  - 🎙️ [What The Fudge for May 10, 2026: Material Science, Policy as Code, and Quiet Supersonics](https://www.youtube.com/watch?v=dDCT_uYV3QQ) 2026 Jun 10
  - 📝 [What The Fudge for June 07, 2026: The IPO Parade and Device-Level Agents](https://fudge.org/archive/wtf-013/) 2026 Jun 07
@@ -955,7 +956,7 @@ title: "Subscribe to my weekly newsletter"
  - 📝 [The Fudge FAQ](https://fudge.org/archive/the-fudge-faq/) 1998 Dec 12
 
 
-Last auto generated Sun Jul 19 02:13:13 2026
+Last auto generated Mon Jul 20 02:33:02 2026
 
 This auto generated file is created by code based on examples from [@dylanroy](https://towardsdatascience.com/auto-updating-your-github-profile-with-python-cde87b638168) and [@eugeneyan](https://github.com/eugeneyan)
 
