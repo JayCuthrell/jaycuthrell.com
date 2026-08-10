@@ -25,7 +25,8 @@ title: "Subscribe to my weekly newsletter"
 </form>
 
 ### Recent Newsletter Issues by Jay Cuthrell on [fudge.org](https://fudge.org), [hot.fudge.org](https://hot.fudge.org), and [cuthrell.consulting](https://cuthrell.consulting)
- - 🎙️ [What The Fudge for April 26, 2026: Waymos on the 101, Scaling the BIPC, and the SpaceX IPO Pivot](https://www.youtube.com/watch?v=H8ep3NLt0Fs) 2026 Aug 08
+ - 🎙️ [What The Fudge for August 9, 2026: Infrastructure, Agents, and Realignments](https://www.youtube.com/watch?v=hKjZxhY3bl0) 2026 Aug 09
+ - 📝 [What The Fudge for August 9, 2026: Infrastructure, Agents, and Realignments](https://fudge.org/archive/wtf-022/) 2026 Aug 09
  - 🎙️ [What The Fudge for August 2, 2026: AI Expansion, Safety, and Markets](https://www.youtube.com/watch?v=7X-Z7ib_WAg) 2026 Aug 02
  - 📝 [What The Fudge for August 2, 2026: AI Expansion, Safety, and Markets](https://fudge.org/archive/wtf-021/) 2026 Aug 02
  - 📝 [My Fediverse Digest for July 2026](https://fudge.org/archive/fediverse-digest-2026-07/) 2026 Jul 31
@@ -959,7 +960,7 @@ title: "Subscribe to my weekly newsletter"
  - 📝 [The Fudge FAQ](https://fudge.org/archive/the-fudge-faq/) 1998 Dec 12
 
 
-Last auto generated Sun Aug  9 00:47:35 2026
+Last auto generated Mon Aug 10 01:06:40 2026
 
 This auto generated file is created by code based on examples from [@dylanroy](https://towardsdatascience.com/auto-updating-your-github-profile-with-python-cde87b638168) and [@eugeneyan](https://github.com/eugeneyan)
 
