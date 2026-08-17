@@ -1,11 +1,9 @@
 name: cron
 
 on:
-  push:
-    branches:
-      - gh-pages
   schedule:
     - cron: "35 3 * * *"
+  workflow_dispatch:
 
 # Ensure the GitHub token has permission to push the updated markdown
 permissions:
