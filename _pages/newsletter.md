@@ -25,6 +25,7 @@ title: "Subscribe to my weekly newsletter"
 </form>
 
 ### Recent Newsletter Issues by Jay Cuthrell on [fudge.org](https://fudge.org), [hot.fudge.org](https://hot.fudge.org), and [cuthrell.consulting](https://cuthrell.consulting)
+ - 🎙️ [What The Fudge for August 2, 2026: AI Expansion, Safety, and Markets](https://www.youtube.com/watch?v=7X-Z7ib_WAg) 2026 Sep 02
  - 🎙️ [What The Fudge for May 17, 2026: Trillion-Dollar Valuations, Sovereign AI, and the Agentic Edge](https://www.youtube.com/watch?v=pWe7CYB3uYI) 2026 Aug 31
  - 📝 [My Fediverse Digest for August 2026](https://fudge.org/archive/fediverse-digest-2026-08/) 2026 Aug 31
  - 🎙️ [What The Fudge for July 26, 2026: Infrastructure, Intrigue, Distillation Drama, and HWaaS](https://www.youtube.com/watch?v=s8OmJVIM7OE) 2026 Aug 27
@@ -37,7 +38,6 @@ title: "Subscribe to my weekly newsletter"
  - 🎙️ [What The Fudge for July 05, 2026: AI Infrastructure Oops, Token Rationing, and Digital-Only Mandates](https://www.youtube.com/watch?v=_ZJfK7hbx5A) 2026 Aug 10
  - 🎙️ [What The Fudge for August 9, 2026: Infrastructure, Agents, and Realignments](https://www.youtube.com/watch?v=hKjZxhY3bl0) 2026 Aug 09
  - 📝 [What The Fudge for August 9, 2026: Infrastructure, Agents, and Realignments](https://fudge.org/archive/wtf-022/) 2026 Aug 09
- - 🎙️ [What The Fudge for August 2, 2026: AI Expansion, Safety, and Markets](https://www.youtube.com/watch?v=7X-Z7ib_WAg) 2026 Aug 02
  - 📝 [What The Fudge for August 2, 2026: AI Expansion, Safety, and Markets](https://fudge.org/archive/wtf-021/) 2026 Aug 02
  - 📝 [My Fediverse Digest for July 2026](https://fudge.org/archive/fediverse-digest-2026-07/) 2026 Jul 31
  - 🎙️ [What The Fudge for June 28, 2026: Cost Crunch, IPO Chill, and Agentic Future](https://www.youtube.com/watch?v=RTc_VLe36lc) 2026 Jul 29
@@ -963,7 +963,7 @@ title: "Subscribe to my weekly newsletter"
  - 📝 [The Fudge FAQ](https://fudge.org/archive/the-fudge-faq/) 1998 Dec 12
 
 
-Last auto generated Tue Sep  8 04:17:27 2026
+Last auto generated Wed Sep  9 04:20:20 2026
 
 This auto generated file is created by code based on examples from [@dylanroy](https://towardsdatascience.com/auto-updating-your-github-profile-with-python-cde87b638168) and [@eugeneyan](https://github.com/eugeneyan)
 
