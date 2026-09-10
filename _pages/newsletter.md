@@ -25,6 +25,7 @@ title: "Subscribe to my weekly newsletter"
 </form>
 
 ### Recent Newsletter Issues by Jay Cuthrell on [fudge.org](https://fudge.org), [hot.fudge.org](https://hot.fudge.org), and [cuthrell.consulting](https://cuthrell.consulting)
+ - 🎙️ [What The Fudge for May 24, 2026: The Paradigm Shift in Compute Infrastructure](https://www.youtube.com/watch?v=naby2eI9BAI) 2026 Sep 10
  - 🎙️ [What The Fudge for August 2, 2026: AI Expansion, Safety, and Markets](https://www.youtube.com/watch?v=7X-Z7ib_WAg) 2026 Sep 02
  - 🎙️ [What The Fudge for May 17, 2026: Trillion-Dollar Valuations, Sovereign AI, and the Agentic Edge](https://www.youtube.com/watch?v=pWe7CYB3uYI) 2026 Aug 31
  - 📝 [My Fediverse Digest for August 2026](https://fudge.org/archive/fediverse-digest-2026-08/) 2026 Aug 31
@@ -51,7 +52,6 @@ title: "Subscribe to my weekly newsletter"
  - 🎙️ [What The Fudge for May 31, 2026: The I Am One Year Older Edition](https://www.youtube.com/watch?v=hvPsp3sR4Xs) 2026 Jul 01
  - 📝 [My Fediverse Digest for June 2026](https://fudge.org/archive/fediverse-digest-2026-06/) 2026 Jun 30
  - 📝 [What The Fudge for June 28, 2026: Cost Crunch, IPO Chill, and Agentic Future](https://fudge.org/archive/wtf-016/) 2026 Jun 28
- - 🎙️ [What The Fudge for May 24, 2026: The Paradigm Shift in Compute Infrastructure](https://www.youtube.com/watch?v=naby2eI9BAI) 2026 Jun 24
  - 📝 [What The Fudge for June 21, 2026: Semiconductor Crunches, Export Playbooks, and AI Slop](https://fudge.org/archive/wtf-015/) 2026 Jun 21
  - 📝 [Ship Left](https://fudge.org/archive/ship-left/) 2026 Jun 15
  - 📝 [What The Fudge for June 14, 2026: Trillionaires in Orbit and Agentic Intersections](https://fudge.org/archive/wtf-014/) 2026 Jun 14
@@ -963,7 +963,7 @@ title: "Subscribe to my weekly newsletter"
  - 📝 [The Fudge FAQ](https://fudge.org/archive/the-fudge-faq/) 1998 Dec 12
 
 
-Last auto generated Wed Sep  9 04:20:20 2026
+Last auto generated Thu Sep 10 04:20:37 2026
 
 This auto generated file is created by code based on examples from [@dylanroy](https://towardsdatascience.com/auto-updating-your-github-profile-with-python-cde87b638168) and [@eugeneyan](https://github.com/eugeneyan)
 
