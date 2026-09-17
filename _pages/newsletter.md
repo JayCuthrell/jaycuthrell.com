@@ -25,8 +25,8 @@ title: "Subscribe to my weekly newsletter"
 </form>
 
 ### Recent Newsletter Issues by Jay Cuthrell on [fudge.org](https://fudge.org), [hot.fudge.org](https://hot.fudge.org), and [cuthrell.consulting](https://cuthrell.consulting)
+ - 🎙️ [What The Fudge for June 21, 2026: Semiconductor Crunches, Export Playbooks, and AI Slop](https://www.youtube.com/watch?v=DCibhvo1ucQ) 2026 Sep 17
  - 🎙️ [What The Fudge for July 26, 2026: Infrastructure, Intrigue, Distillation Drama, and HWaaS](https://www.youtube.com/watch?v=s8OmJVIM7OE) 2026 Sep 12
- - 🎙️ [What The Fudge for June 21, 2026: Semiconductor Crunches, Export Playbooks, and AI Slop](https://www.youtube.com/watch?v=DCibhvo1ucQ) 2026 Sep 12
  - 🎙️ [What The Fudge for August 2, 2026: AI Expansion, Safety, and Markets](https://www.youtube.com/watch?v=7X-Z7ib_WAg) 2026 Sep 12
  - 🎙️ [What The Fudge for July 05, 2026: AI Infrastructure Oops, Token Rationing, and Digital-Only Mandates](https://www.youtube.com/watch?v=_ZJfK7hbx5A) 2026 Sep 11
  - 🎙️ [What The Fudge for May 24, 2026: The Paradigm Shift in Compute Infrastructure](https://www.youtube.com/watch?v=naby2eI9BAI) 2026 Sep 11
@@ -963,7 +963,7 @@ title: "Subscribe to my weekly newsletter"
  - 📝 [The Fudge FAQ](https://fudge.org/archive/the-fudge-faq/) 1998 Dec 12
 
 
-Last auto generated Wed Sep 16 04:47:55 2026
+Last auto generated Thu Sep 17 04:51:27 2026
 
 This auto generated file is created by code based on examples from [@dylanroy](https://towardsdatascience.com/auto-updating-your-github-profile-with-python-cde87b638168) and [@eugeneyan](https://github.com/eugeneyan)
 
