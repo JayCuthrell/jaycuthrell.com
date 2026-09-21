@@ -25,15 +25,17 @@ title: "Subscribe to my weekly newsletter"
 </form>
 
 ### Recent Newsletter Issues by Jay Cuthrell on [fudge.org](https://fudge.org), [hot.fudge.org](https://hot.fudge.org), and [cuthrell.consulting](https://cuthrell.consulting)
+ - 🎙️ [What The Fudge for September 20, 2026: Design Fiction, Autonomy, and Kinetic Infrastructure](https://www.youtube.com/watch?v=WpCp3VrOgkI) 2026 Sep 21
+ - 📝 [What The Fudge for September 20, 2026: Design Fiction, Autonomy, and Kinetic Infrastructure](https://fudge.org/archive/wtf-025/) 2026 Sep 20
  - 🎙️ [What The Fudge for June 21, 2026: Semiconductor Crunches, Export Playbooks, and AI Slop](https://www.youtube.com/watch?v=DCibhvo1ucQ) 2026 Sep 17
  - 🎙️ [What The Fudge for August 16, 2026: Capabilities, Strategies, and Realities](https://www.youtube.com/watch?v=eZh5RvOIzHI) 2026 Sep 12
  - 🎙️ [What The Fudge for July 26, 2026: Infrastructure, Intrigue, Distillation Drama, and HWaaS](https://www.youtube.com/watch?v=s8OmJVIM7OE) 2026 Sep 12
  - 🎙️ [What The Fudge for August 2, 2026: AI Expansion, Safety, and Markets](https://www.youtube.com/watch?v=7X-Z7ib_WAg) 2026 Sep 12
+ - 🎙️ [What The Fudge for June 14, 2026: Trillionaires in Orbit and Agentic Intersections](https://www.youtube.com/watch?v=kaKjgIxsl14) 2026 Sep 11
  - 🎙️ [What The Fudge for July 05, 2026: AI Infrastructure Oops, Token Rationing, and Digital-Only Mandates](https://www.youtube.com/watch?v=_ZJfK7hbx5A) 2026 Sep 11
  - 🎙️ [What The Fudge for July 19, 2026: Open-Source AI, Regulatory Headwinds, and Enterprise Capital](https://www.youtube.com/watch?v=3Cn9jO6ufHY) 2026 Sep 11
  - 🎙️ [What The Fudge for May 24, 2026: The Paradigm Shift in Compute Infrastructure](https://www.youtube.com/watch?v=naby2eI9BAI) 2026 Sep 11
  - 🎙️ [What The Fudge for May 31, 2026: The I Am One Year Older Edition](https://www.youtube.com/watch?v=hvPsp3sR4Xs) 2026 Sep 11
- - 🎙️ [What The Fudge for May 17, 2026: Trillion-Dollar Valuations, Sovereign AI, and the Agentic Edge](https://www.youtube.com/watch?v=pWe7CYB3uYI) 2026 Sep 11
  - 🎙️ [What The Fudge for August 23, 2026: AI Infrastructure, Economics, and Tokens](https://www.youtube.com/watch?v=UJChzGrkKM4) 2026 Sep 11
  - 🎙️ [What The Fudge for June 07, 2026: The IPO Parade and Device-Level Agents](https://www.youtube.com/watch?v=UO4d73kd230) 2026 Sep 10
  - 🎙️ [What The Fudge for June 28, 2026: Cost Crunch, IPO Chill, and Agentic Future](https://www.youtube.com/watch?v=RTc_VLe36lc) 2026 Sep 10
@@ -47,7 +49,6 @@ title: "Subscribe to my weekly newsletter"
  - 📝 [My Fediverse Digest for July 2026](https://fudge.org/archive/fediverse-digest-2026-07/) 2026 Jul 31
  - 📝 [What The Fudge for July 26, 2026: Infrastructure, Intrigue, Distillation Drama, and HWaaS](https://fudge.org/archive/wtf-020/) 2026 Jul 26
  - 📝 [What The Fudge for July 19, 2026: Open-Source AI, Regulatory Headwinds, and Enterprise Capital](https://fudge.org/archive/wtf-019/) 2026 Jul 19
- - 🎙️ [What The Fudge for June 14, 2026: Trillionaires in Orbit and Agentic Intersections](https://www.youtube.com/watch?v=kaKjgIxsl14) 2026 Jul 16
  - 📝 [What The Fudge for July 12, 2026: On-Device AI, Memory Boom, and Big Tech Pivots](https://fudge.org/archive/wtf-018/) 2026 Jul 12
  - 📝 [What The Fudge for July 05, 2026: AI Infrastructure Oops, Token Rationing, and Digital-Only Mandates](https://fudge.org/archive/wtf-017/) 2026 Jul 05
  - 📝 [My Fediverse Digest for June 2026](https://fudge.org/archive/fediverse-digest-2026-06/) 2026 Jun 30
@@ -963,7 +964,7 @@ title: "Subscribe to my weekly newsletter"
  - 📝 [The Fudge FAQ](https://fudge.org/archive/the-fudge-faq/) 1998 Dec 12
 
 
-Last auto generated Sun Sep 20 04:46:30 2026
+Last auto generated Mon Sep 21 05:14:29 2026
 
 This auto generated file is created by code based on examples from [@dylanroy](https://towardsdatascience.com/auto-updating-your-github-profile-with-python-cde87b638168) and [@eugeneyan](https://github.com/eugeneyan)
 
