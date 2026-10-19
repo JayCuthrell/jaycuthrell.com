@@ -25,6 +25,7 @@ title: "Subscribe to my weekly newsletter"
 </form>
 
 ### Recent Newsletter Issues by Jay Cuthrell on [fudge.org](https://fudge.org), [hot.fudge.org](https://hot.fudge.org), and [cuthrell.consulting](https://cuthrell.consulting)
+ - 📝 [What The Fudge for October 18, 2026: AI in the Workplace, Security Paradoxes, Funding, and M&A](https://fudge.org/archive/wtf-029/) 2026 Oct 18
  - 📝 [What The Fudge for October 11, 2026: AI Outreach, Core Acquisitions, and Agent Liability](https://fudge.org/archive/wtf-028/) 2026 Oct 11
  - 📝 [What The Fudge for October 04, 2026: Agents, Cybersecurity, and the Edge](https://fudge.org/archive/wtf-027/) 2026 Oct 04
  - 📝 [My Fediverse Digest for September 2026](https://fudge.org/archive/fediverse-digest-2026-09/) 2026 Sep 30
@@ -953,7 +954,7 @@ title: "Subscribe to my weekly newsletter"
  - 📝 [The Fudge FAQ](https://fudge.org/archive/the-fudge-faq/) 1998 Dec 12
 
 
-Last auto generated Sat Oct 17 23:45:35 2026
+Last auto generated Sun Oct 18 23:49:37 2026
 
 This auto generated file is created by code based on examples from [@dylanroy](https://towardsdatascience.com/auto-updating-your-github-profile-with-python-cde87b638168) and [@eugeneyan](https://github.com/eugeneyan)
 
