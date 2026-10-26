@@ -7,6 +7,22 @@ author_profile: true
 
 ## Recent Episodes
 
+### What The Fudge for October 25, 2026: PHP2Shell, Capital, and Infrastructure Lock-In
+
+<audio controls style="width: 100%; margin-bottom: 15px;">
+  <source src="https://fudge.org/assets/audio/bqVoaq8OqjM.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto; margin-bottom: 15px;">
+  <iframe src="https://www.youtube.com/embed/bqVoaq8OqjM" frameborder="0" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
+</div>
+
+What The Fudge for October 25, 2026: PHP2Shell, Capital, and Infrastructure Lock-In
+More: https://fudge.org/archive/wtf-030/
+
+<hr>
+
 ### What The Fudge for October 18, 2026: AI in the Workplace, Security Paradoxes, Funding, and M&A
 
 <audio controls style="width: 100%; margin-bottom: 15px;">
