@@ -7,6 +7,30 @@ author_profile: true
 
 ## Recent Episodes
 
+### What The Fudge for November 8, 2026: Elections and Electrons
+
+<audio controls style="width: 100%; margin-bottom: 15px;">
+  <source src="https://fudge.org/assets/audio/nsIcKTfW7Qw.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto; margin-bottom: 15px;">
+  <iframe src="https://www.youtube.com/embed/nsIcKTfW7Qw" frameborder="0" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
+</div>
+
+Episode Chapters & Referenced Links:
+
+00:00 - Regulatory Reset
+🔗 https://fudge.org/archive/wtf-032/#regulatory-reset
+
+05:05 - Field Report: Silicon to Services Shuffle
+🔗 https://fudge.org/archive/wtf-032/#field-report-silicon-to-services-shuffle
+
+10:03 - M&amp;A Funding, and Capital Flows
+🔗 https://fudge.org/archive/wtf-032/#ma-funding-and-capital-flows
+
+<hr>
+
 ### What The Fudge for November 1, 2026: $3T CAPEX Reckoning, Credit Tightrope, and Enterprise Flows
 
 <audio controls style="width: 100%; margin-bottom: 15px;">

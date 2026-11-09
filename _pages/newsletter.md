@@ -25,6 +25,7 @@ title: "Subscribe to my weekly newsletter"
 </form>
 
 ### Recent Newsletter Issues by Jay Cuthrell on [fudge.org](https://fudge.org), [hot.fudge.org](https://hot.fudge.org), and [cuthrell.consulting](https://cuthrell.consulting)
+ - 📝 [What The Fudge for November 8, 2026: Elections and Electrons](https://fudge.org/archive/wtf-032/) 2026 Nov 08
  - 📝 [What The Fudge for November 1, 2026: $3T CAPEX Reckoning, Credit Tightrope, and Enterprise Flows](https://fudge.org/archive/wtf-031/) 2026 Nov 01
  - 📝 [What The Fudge for October 25, 2026: PHP2Shell, Capital, and Infrastructure Lock-In](https://fudge.org/archive/wtf-030/) 2026 Oct 25
  - 📝 [What The Fudge for October 18, 2026: AI in the Workplace, Security Paradoxes, Funding, and M&A](https://fudge.org/archive/wtf-029/) 2026 Oct 18
@@ -956,7 +957,7 @@ title: "Subscribe to my weekly newsletter"
  - 📝 [The Fudge FAQ](https://fudge.org/archive/the-fudge-faq/) 1998 Dec 12
 
 
-Last auto generated Sat Nov  7 22:37:13 2026
+Last auto generated Sun Nov  8 22:37:28 2026
 
 This auto generated file is created by code based on examples from [@dylanroy](https://towardsdatascience.com/auto-updating-your-github-profile-with-python-cde87b638168) and [@eugeneyan](https://github.com/eugeneyan)
 
