@@ -7,6 +7,30 @@ author_profile: true
 
 ## Recent Episodes
 
+### What The Fudge for November 15, 2026: Leadership Transition, Debt Discipline, and Capital Flows
+
+<audio controls style="width: 100%; margin-bottom: 15px;">
+  <source src="https://fudge.org/assets/audio/lPhNokN1HP0.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto; margin-bottom: 15px;">
+  <iframe src="https://www.youtube.com/embed/lPhNokN1HP0" frameborder="0" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
+</div>
+
+Episode Chapters & Referenced Links:
+
+00:00 - Nvidia's Leadership Reset and the Future of Capital Backstops
+🔗 https://fudge.org/archive/wtf-033/#nvidias-leadership-reset-and-the-future-of-capital-backstops
+
+03:27 - Field Report: Infrastructure Debt Discipline and Network Resilience
+🔗 https://fudge.org/archive/wtf-033/#field-report-infrastructure-debt-discipline-and-network-resilience
+
+10:02 - M&amp;A Funding, and Capital Flows
+🔗 https://fudge.org/archive/wtf-033/#ma-funding-and-capital-flows
+
+<hr>
+
 ### What The Fudge for November 8, 2026: Elections and Electrons
 
 <audio controls style="width: 100%; margin-bottom: 15px;">
