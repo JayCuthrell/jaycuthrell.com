@@ -25,13 +25,28 @@ title: "Subscribe to my weekly newsletter"
 </form>
 
 ### Recent Newsletter Issues by Jay Cuthrell on [fudge.org](https://fudge.org), [hot.fudge.org](https://hot.fudge.org), and [cuthrell.consulting](https://cuthrell.consulting)
+ - 🎙️ [What The Fudge for November 15, 2026: Leadership Transition, Debt Discipline, and Capital Flows](https://www.youtube.com/watch?v=lPhNokN1HP0) 2026 Nov 16
+ - 🎙️ [What The Fudge for October 04, 2026: Agents, Cybersecurity, and the Edge](https://www.youtube.com/watch?v=-vw12zGnEMI) 2026 Nov 15
+ - 🎙️ [What The Fudge for September 27, 2026: Quantum Momentum, Orbital AI, and the Agentic OS](https://www.youtube.com/watch?v=LDsfZKDOKdg) 2026 Nov 15
  - 📝 [What The Fudge for November 15, 2026: Leadership Transition, Debt Discipline, and Capital Flows](https://fudge.org/archive/wtf-033/) 2026 Nov 15
+ - 🎙️ [What The Fudge for October 11, 2026: AI Outreach, Core Acquisitions, and Agent Liability](https://www.youtube.com/watch?v=y2V2qPF3dB8) 2026 Nov 12
+ - 🎙️ [What The Fudge for November 8, 2026: Elections and Electrons](https://www.youtube.com/watch?v=nsIcKTfW7Qw) 2026 Nov 09
+ - 🎙️ [What The Fudge for September 20, 2026: Design Fiction, Autonomy, and Kinetic Infrastructure](https://www.youtube.com/watch?v=WpCp3VrOgkI) 2026 Nov 08
  - 📝 [What The Fudge for November 8, 2026: Elections and Electrons](https://fudge.org/archive/wtf-032/) 2026 Nov 08
+ - 🎙️ [What The Fudge for November 1, 2026: $3T CAPEX Reckoning, Credit Tightrope, and Enterprise Flows](https://www.youtube.com/watch?v=krEljdw3Gm4) 2026 Nov 03
  - 📝 [What The Fudge for November 1, 2026: $3T CAPEX Reckoning, Credit Tightrope, and Enterprise Flows](https://fudge.org/archive/wtf-031/) 2026 Nov 01
+ - 🎙️ [What The Fudge for October 25, 2026: PHP2Shell, Capital, and Infrastructure Lock-In](https://www.youtube.com/watch?v=bqVoaq8OqjM) 2026 Oct 25
  - 📝 [What The Fudge for October 25, 2026: PHP2Shell, Capital, and Infrastructure Lock-In](https://fudge.org/archive/wtf-030/) 2026 Oct 25
+ - 🎙️ [What The Fudge for October 18, 2026: AI in the Workplace, Security Paradoxes, Funding, and M&A](https://www.youtube.com/watch?v=ruR4YnwCo6c) 2026 Oct 19
  - 📝 [What The Fudge for October 18, 2026: AI in the Workplace, Security Paradoxes, Funding, and M&A](https://fudge.org/archive/wtf-029/) 2026 Oct 18
+ - 🎙️ [What The Fudge for August 23, 2026: AI Infrastructure, Economics, and Tokens](https://www.youtube.com/watch?v=UJChzGrkKM4) 2026 Oct 15
+ - 🎙️ [What The Fudge for August 2, 2026: AI Expansion, Safety, and Markets](https://www.youtube.com/watch?v=7X-Z7ib_WAg) 2026 Oct 15
+ - 🎙️ [What The Fudge for August 16, 2026: Capabilities, Strategies, and Realities](https://www.youtube.com/watch?v=eZh5RvOIzHI) 2026 Oct 13
  - 📝 [What The Fudge for October 11, 2026: AI Outreach, Core Acquisitions, and Agent Liability](https://fudge.org/archive/wtf-028/) 2026 Oct 11
+ - 🎙️ [What The Fudge for July 26, 2026: Infrastructure, Intrigue, Distillation Drama, and HWaaS](https://www.youtube.com/watch?v=s8OmJVIM7OE) 2026 Oct 10
+ - 🎙️ [What The Fudge for August 9, 2026: Infrastructure, Agents, and Realignments](https://www.youtube.com/watch?v=hKjZxhY3bl0) 2026 Oct 08
  - 📝 [What The Fudge for October 04, 2026: Agents, Cybersecurity, and the Edge](https://fudge.org/archive/wtf-027/) 2026 Oct 04
+ - 🎙️ [What The Fudge for July 19, 2026: Open-Source AI, Regulatory Headwinds, and Enterprise Capital](https://www.youtube.com/watch?v=3Cn9jO6ufHY) 2026 Oct 02
  - 📝 [My Fediverse Digest for September 2026](https://fudge.org/archive/fediverse-digest-2026-09/) 2026 Sep 30
  - 📝 [What The Fudge for September 27, 2026: Quantum Momentum, Orbital AI, and the Agentic OS](https://fudge.org/archive/wtf-026/) 2026 Sep 27
  - 📝 [What The Fudge for September 20, 2026: Design Fiction, Autonomy, and Kinetic Infrastructure](https://fudge.org/archive/wtf-025/) 2026 Sep 20
@@ -958,7 +973,7 @@ title: "Subscribe to my weekly newsletter"
  - 📝 [The Fudge FAQ](https://fudge.org/archive/the-fudge-faq/) 1998 Dec 12
 
 
-Last auto generated Sun Nov 15 22:41:11 2026
+Last auto generated Mon Nov 16 22:37:05 2026
 
 This auto generated file is created by code based on examples from [@dylanroy](https://towardsdatascience.com/auto-updating-your-github-profile-with-python-cde87b638168) and [@eugeneyan](https://github.com/eugeneyan)
 
