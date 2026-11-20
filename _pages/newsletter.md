@@ -25,11 +25,11 @@ title: "Subscribe to my weekly newsletter"
 </form>
 
 ### Recent Newsletter Issues by Jay Cuthrell on [fudge.org](https://fudge.org), [hot.fudge.org](https://hot.fudge.org), and [cuthrell.consulting](https://cuthrell.consulting)
+ - 🎙️ [What The Fudge for October 11, 2026: AI Outreach, Core Acquisitions, and Agent Liability](https://www.youtube.com/watch?v=y2V2qPF3dB8) 2026 Nov 19
  - 🎙️ [What The Fudge for November 15, 2026: Leadership Transition, Debt Discipline, and Capital Flows](https://www.youtube.com/watch?v=lPhNokN1HP0) 2026 Nov 16
  - 🎙️ [What The Fudge for October 04, 2026: Agents, Cybersecurity, and the Edge](https://www.youtube.com/watch?v=-vw12zGnEMI) 2026 Nov 15
  - 🎙️ [What The Fudge for September 27, 2026: Quantum Momentum, Orbital AI, and the Agentic OS](https://www.youtube.com/watch?v=LDsfZKDOKdg) 2026 Nov 15
  - 📝 [What The Fudge for November 15, 2026: Leadership Transition, Debt Discipline, and Capital Flows](https://fudge.org/archive/wtf-033/) 2026 Nov 15
- - 🎙️ [What The Fudge for October 11, 2026: AI Outreach, Core Acquisitions, and Agent Liability](https://www.youtube.com/watch?v=y2V2qPF3dB8) 2026 Nov 12
  - 🎙️ [What The Fudge for November 8, 2026: Elections and Electrons](https://www.youtube.com/watch?v=nsIcKTfW7Qw) 2026 Nov 09
  - 🎙️ [What The Fudge for September 20, 2026: Design Fiction, Autonomy, and Kinetic Infrastructure](https://www.youtube.com/watch?v=WpCp3VrOgkI) 2026 Nov 08
  - 📝 [What The Fudge for November 8, 2026: Elections and Electrons](https://fudge.org/archive/wtf-032/) 2026 Nov 08
@@ -973,7 +973,7 @@ title: "Subscribe to my weekly newsletter"
  - 📝 [The Fudge FAQ](https://fudge.org/archive/the-fudge-faq/) 1998 Dec 12
 
 
-Last auto generated Wed Nov 18 22:37:15 2026
+Last auto generated Thu Nov 19 22:37:00 2026
 
 This auto generated file is created by code based on examples from [@dylanroy](https://towardsdatascience.com/auto-updating-your-github-profile-with-python-cde87b638168) and [@eugeneyan](https://github.com/eugeneyan)
 
