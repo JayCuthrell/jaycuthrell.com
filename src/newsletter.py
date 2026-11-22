@@ -32,7 +32,7 @@ RSS_HEADING = (
 # List of (feed_url, feed_type) tuples to fetch and merge
 FEED_SOURCES = [
     ("https://fudge.org/feed.xml", "blog"),
-    ("https://www.youtube.com/feeds/videos.xml?channel_id=UC0gbzQXghnt-4cgci-VpodQ", "podcast"),
+    # duplicative ("https://www.youtube.com/feeds/videos.xml?channel_id=UC0gbzQXghnt-4cgci-VpodQ", "podcast"),
     ("https://cuthrell.consulting/feed.xml", "blog"),
 ]
 
