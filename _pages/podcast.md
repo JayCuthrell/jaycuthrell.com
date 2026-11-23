@@ -7,6 +7,30 @@ author_profile: true
 
 ## Recent Episodes
 
+### What The Fudge for November 22, 2026: A Record IPO, Licensing, and Scale
+
+<audio controls style="width: 100%; margin-bottom: 15px;">
+  <source src="https://fudge.org/assets/audio/zn3W9b5A7W0.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto; margin-bottom: 15px;">
+  <iframe src="https://www.youtube.com/embed/zn3W9b5A7W0" frameborder="0" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
+</div>
+
+Episode Chapters & Referenced Links:
+
+00:00 - Anthropic's Record IPO and the Public Market Reality Check
+🔗 https://fudge.org/archive/wtf-034/#anthropics-record-ipo-and-the-public-market-reality-check
+
+03:19 - Field Report: Silicon Licensing, Off-Balance-Sheet Compute, and Power Scale
+🔗 https://fudge.org/archive/wtf-034/#field-report-silicon-licensing-off-balance-sheet-compute-and-power-scale
+
+07:36 - M&amp;A Funding, and Capital Flows
+🔗 https://fudge.org/archive/wtf-034/#ma-funding-and-capital-flows
+
+<hr>
+
 ### What The Fudge for November 15, 2026: Leadership Transition, Debt Discipline, and Capital Flows
 
 <audio controls style="width: 100%; margin-bottom: 15px;">
